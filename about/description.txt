@@ -1,0 +1,16 @@
+[h1]Vietnamese Translation Mod - Tiếng Việt[/h1]
+
+[h2]Hướng dẫn[/h2]
+[olist]
+[*] Đăng ký (Subscribe) mod này.
+[*] Vào game 
+[*] Mở mục Mods và bật "Việt Hóa - Vietnamese Translation".
+[*] Khởi động lại game.
+o
+[/olist]
+
+[h2]Lưu ý[/h2]
+Nếu bạn phát hiện lỗi dịch thuật, lỗi hiển thị hoặc có góp ý để cải thiện bản Việt hóa, vui lòng để lại bình luận bên dưới.
+Hiện tại mod chỉ dịch Essences ( Tinh Hoa)  và Memories ( Kỹ năng ) , sẽ Update thêm sau này.
+Đây là phiên bản đầu nên còn nhiều lỗi!
+Cảm ơn bạn đã sử dụng bản Việt hóa!

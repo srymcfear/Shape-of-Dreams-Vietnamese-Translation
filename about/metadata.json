@@ -1,0 +1,12 @@
+{
+  "id": "com.srymcfear.vietnamesetrans",
+  "name": "Việt Hóa - Vietnamese Translation ",
+  "author": "SrymC",
+  "modVer": "1.0.0",
+  "supportedGameVer": [
+    "*"
+  ],
+  "assemblies": [
+    "VNTranslation.dll"
+  ]
+}
