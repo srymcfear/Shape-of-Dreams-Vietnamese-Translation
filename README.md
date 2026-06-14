@@ -21,3 +21,7 @@ Nếu có ai đó bán hoặc yêu cầu bạn trả tiền để tải bản mo
 
 ```text
 Shape of Dreams\Mods\
+```
+## Contact
+For bug reports, suggestions, or translation contributions:
+📧 srymc.fear@gmail.com
