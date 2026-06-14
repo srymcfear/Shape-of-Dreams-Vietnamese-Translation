@@ -1,0 +1,530 @@
+{
+  "C_BackStep": {
+    "name": "Bước Lùi",
+    "description": "Nhảy lùi lại và thả 3 quả bom sốc tại vị trí ban đầu, mỗi quả gây <sprite=1><color=#fff><gradient=sv_ap>168%</gradient></color><sprite=5> <color=yellow>sát thương</color> và <color=yellow>làm choáng</color> trong 1 giây. Sau khi tiếp đất, nhận 20%<sprite=5> <color=yellow>Tốc độ Di chuyển</color> trong 3 giây."
+  },
+  "C_BeamOfLight": {
+    "name": "Chùm Tia Sáng",
+    "description": "Kênh một chùm tia vào kẻ địch trong 1.7<sprite=5> giây, gây <sprite=1><color=#fff><gradient=sv_ap>507%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> mỗi giây và <color=yellow>hồi phục</color> cho đồng minh gần nhất có tỷ lệ Máu thấp nhất một lượng <sprite=1><color=#fff><gradient=sv_ap>73%</gradient></color><sprite=5> mỗi giây."
+  },
+  "C_CorrosiveTrails": {
+    "name": "Vết Tích Ăn Mòn",
+    "description": "Trong 4 giây, để lại khí độc trên đường đi, <color=yellow>đầu độc</color> kẻ địch trong 3 giây, đồng thời tăng <color=yellow>Tốc độ Di chuyển</color> của bạn thêm 15%<sprite=5>. Kẻ địch bị <color=yellow>đầu độc</color> chịu <sprite=1><color=#fff><gradient=sv_ap>100%</gradient></color><sprite=5> <color=yellow>sát thương</color> mỗi giây."
+  },
+  "C_DarkBolt": {
+    "name": "Tia Chớp Đen",
+    "description": "Bắn một tia chớp đen gây <sprite=2><color=#fff><gradient=sv_ad>245%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên kẻ địch và kích hoạt <color=yellow>Hiệu Ứng Tấn Công</color>. Xuyên qua tối đa 2 kẻ địch.\nCó <sprite=10><color=#fff><gradient=sv_critp>100%</gradient></color> cơ hội tăng <color=yellow>Sát thương</color> lên 80% và giảm <color=yellow>Thời gian hồi chiêu</color> 50%."
+  },
+  "C_DarkSpear": {
+    "name": "Thương Đen",
+    "description": "Đâm xuyên kẻ địch phía trước, gây <sprite=2><color=#fff><gradient=sv_ad>230%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color>, kích hoạt <color=yellow>Hiệu Ứng Tấn Công</color> và kéo chúng vào tâm. Gây thêm 100% sát thương lên khiên.\nCó <sprite=10><color=#fff><gradient=sv_critp>100%</gradient></color> cơ hội tăng <color=yellow>Sát thương</color> 100% và <color=yellow>Hồi phục</color> <sprite=2><color=#fff><gradient=sv_ad>20%</gradient></color><sprite=5> <color=yellow>Máu</color> cho mỗi kẻ địch trúng đòn."
+  },
+  "C_FlashFreeze": {
+    "name": "Đóng Băng Tức Thì",
+    "description": "Giải phóng năng lượng Lạnh về phía trước, gây <sprite=1><color=#fff><gradient=sv_ap>130%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lạnh</color> lên kẻ địch và cấp cho bản thân cùng đồng minh một <color=yellow>Lá Chắn</color> <sprite=1><color=#fff><gradient=sv_ap>90%</gradient></color><sprite=5> kéo dài 3 giây. Nếu kẻ địch đã chịu ảnh hưởng của <color=yellow>Lạnh</color>, <color=yellow>Sát thương</color> tăng 100% và chúng bị <color=yellow>Rễ</color> trong 1.5 giây.\n\n<color=yellow>Số lần nạp</color> được hồi đầy cùng lúc."
+  },
+  "C_GlacialStomp": {
+    "name": "Giẫm Đạp Băng Hà",
+    "description": "Giẫm xuống đất xung quanh, làm choáng kẻ địch trong 1.5 giây và gây <sprite=1><color=#fff><gradient=sv_ap>210%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>8%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color>. Nhận một Lá Chắn kéo dài 3 giây, hấp thụ <sprite=1><color=#fff><gradient=sv_ap>40%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>2%</gradient></color><sprite=5> sát thương cho mỗi kẻ địch trúng đòn."
+  },
+  "C_Hemorrhage": {
+    "name": "Xuất Huyết",
+    "description": "Đòn tấn công tiếp theo của bạn gây <sprite=1><color=#fff><gradient=sv_ap>460%</gradient></color><sprite=5> <color=yellow>sát thương</color> trong 1.2<sprite=5> giây và giảm <color=yellow>Tốc độ Di chuyển</color> của mục tiêu 70%."
+  },
+  "C_IceBlock": {
+    "name": "Lá Chắn Băng",
+    "description": "Bao bọc một đồng minh bằng khiên băng, cấp Lá Chắn <sprite=1><color=#fff><gradient=sv_ap>130%</gradient></color><sprite=5> kéo dài 3 giây. Khi Lá Chắn bị phá hủy, nó gây <sprite=1><color=#fff><gradient=sv_ap>160%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color> lên kẻ địch gần đó và <color=yellow>hồi phục</color> <sprite=1><color=#fff><gradient=sv_ap>60%</gradient></color><sprite=5> Máu cho đồng minh cho mỗi kẻ địch trúng đòn."
+  },
+  "C_IceClaw": {
+    "name": "Vuốt Băng",
+    "description": "Vung vuốt về phía trước, gây <sprite=1><color=#fff><gradient=sv_ap>130%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>5%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lạnh</color> lên kẻ địch và <color=yellow>làm choáng</color> chúng trong 0.5 giây. Bạn có thể vung thêm một lần nữa để gây <sprite=1><color=#fff><gradient=sv_ap>240%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>10%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lạnh</color> và <color=yellow>làm choáng</color> trong 1 giây.\n\nKhi vuốt trúng kẻ địch, <color=yellow>hồi phục</color> 12% <color=yellow>Máu</color> dựa trên sát thương gây ra."
+  },
+  "C_MagicSword": {
+    "name": "Lưỡi Kiếm Xanh Ngọc",
+    "description": "Lao nhanh về phía trước một đoạn ngắn và vung Kiếm Xanh Ngọc, gây <color=yellow>sát thương</color> lên kẻ địch phía trước. Gây sát thương cao hơn giữa <sprite=2><color=#fff><gradient=sv_ad>200%</gradient></color><sprite=5> hoặc <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5>, và kích hoạt <color=yellow>hiệu ứng tấn công</color> nếu <color=yellow>Sát Thương Vật Lý</color> của bạn cao hơn."
+  },
+  "C_MassProtection": {
+    "name": "Bảo Vệ Hàng Loạt",
+    "description": "Cấp <color=yellow>Lá Chắn</color> <sprite=1><color=#fff><gradient=sv_ap>250%</gradient></color><sprite=5> cho đồng minh gần đó, lá chắn này tan biến trong 1.5 giây."
+  },
+  "C_Pew": {
+    "name": "Bắn",
+    "description": "<color=yellow>Giữ</color> để nạp đạn lửa. Khi nạp đầy, bắn viên đạn gây <sprite=1><color=#fff><gradient=sv_ap>150%</gradient></color><sprite=5> - <sprite=1><color=#fff><gradient=sv_ap>400%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên tất cả kẻ địch trúng đòn, tùy theo thời gian nạp.\n\nBắn trước khi nạp đầy giảm <color=yellow>thời gian hồi chiêu</color> tối đa 80%. Nạp 1.35 giây để tối đa hóa chiều rộng đạn và sát thương."
+  },
+  "C_PressurePoint": {
+    "name": "Huyệt Đạo",
+    "description": "Giải phóng năng lượng từ lòng bàn tay, gây <sprite=1><color=#fff><gradient=sv_ap>180%</gradient></color><sprite=5> <color=yellow>sát thương</color>, đẩy lùi và làm choáng tất cả kẻ địch trúng đòn trong 1 giây. Nếu mục tiêu Không Thể Bị Ngăn Cản hoặc va vào tường, gây thêm <sprite=1><color=#fff><gradient=sv_ap>504%</gradient></color><sprite=5> <color=yellow>sát thương</color>."
+  },
+  "C_Purgatory": {
+    "name": "Luyện Ngục",
+    "description": "Gây <sprite=1><color=#fff><gradient=sv_ap>280%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên tất cả kẻ địch trong khu vực mục tiêu và <color=yellow>hồi phục</color> cho một đồng minh ngẫu nhiên <sprite=1><color=#fff><gradient=sv_ap>45%</gradient></color><sprite=5> Máu cho mỗi kẻ địch trúng đòn. Nếu mục tiêu là trùm, lượng hồi phục tăng gấp ba."
+  },
+  "C_Sneeze": {
+    "name": "Hắt Xì",
+    "description": "Ký Ức của một cú hắt xì mạnh mẽ, sảng khoái. Phóng ra một luồng hắt xì về phía trước.\nKý Ức này hoàn toàn vô dụng."
+  },
+  "C_SparklingWaterGun": {
+    "name": "Súng Nước Lấp Lánh",
+    "description": "Bắn súng nước lấp lánh. Hồi phục <sprite=1><color=#fff><gradient=sv_ap>70%</gradient></color><sprite=5> <color=yellow>Máu</color> cho đồng minh trúng đòn và xóa <color=yellow>cấp chồng Lửa</color>. Gây 1 <color=yellow>sát thương</color> lên kẻ địch trúng đòn và <color=yellow>làm choáng</color> chúng trong 1.5 giây. <color=yellow>Thời gian hồi chiêu</color> chỉ giảm khi <color=yellow>trong chiến đấu</color>.\n\nNếu mục tiêu là <color=yellow>vật triệu hồi</color> của đồng minh, lượng hồi phục tăng 40%."
+  },
+  "C_Starfall": {
+    "name": "Mưa Sao Băng",
+    "description": "Triệu hồi 4<sprite=5> ngôi sao băng rơi xuống kẻ địch ngẫu nhiên gần đó. Mỗi ngôi sao gây <sprite=1><color=#fff><gradient=sv_ap>70%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color>."
+  },
+  "C_SwiftSlash": {
+    "name": "Chém Nhanh",
+    "description": "Lao nhanh về phía trước và chém kẻ địch, gây <sprite=2><color=#fff><gradient=sv_ad>220%</gradient></color><sprite=5> <color=yellow>sát thương</color> và kích hoạt 50% <color=yellow>hiệu ứng tấn công</color>. Kẻ địch đầu tiên trúng đòn giảm <color=yellow>thời gian hồi chiêu</color> 40%."
+  },
+  "C_Whirlwind": {
+    "name": "Lốc Xoáy Quay Cuồng",
+    "description": "<color=yellow>Kênh</color> trong 3.5 giây, vung kiếm gây <sprite=2><color=#fff><gradient=sv_ad>240%</gradient></color><sprite=5> <color=yellow>sát thương</color> mỗi giây lên kẻ địch gần đó và kích hoạt 35% <color=yellow>hiệu ứng tấn công</color>. Tốc độ quay nhanh hơn khi <color=yellow>Tốc độ Đánh</color> cao hơn."
+  },
+  "D_AstridsMasterpieceEnGarde": {
+    "name": "Kiệt Tác Của Astrid - Thủ Thế",
+    "description": "3 <color=yellow>đòn tấn công</color> đầu tiên lên mỗi kẻ địch gây thêm <sprite=1><color=#fff><gradient=sv_ap>40%</gradient></color><sprite=5> sát thương và cấp cho Mist một <color=yellow>Lá Chắn</color> <sprite=1><color=#fff><gradient=sv_ap>47%</gradient></color><sprite=5> tan biến trong 1.5 giây. Hiệu ứng này có thể kích hoạt lại lên mỗi kẻ địch sau 6<sprite=5> giây."
+  },
+  "D_AstridsMasterpiecePriorite": {
+    "name": "Kiệt Tác Của Astrid - Ưu Tiên",
+    "description": "Mỗi 5<sprite=5> giây, áp dụng một <color=yellow>Dấu Ấn</color> lên kẻ địch ngẫu nhiên gần đó. Mỗi <color=yellow>đòn tấn công</color> lên kẻ địch có Dấu Ấn giúp tăng 25% Tốc độ Di chuyển trong 1.5 giây và gây thêm <sprite=2><color=#fff><gradient=sv_ad>35%</gradient></color><sprite=5> sát thương.\nSát thương gây ra lên <color=yellow>Dấu Ấn</color> tăng 50% sau mỗi đòn tấn công liên tiếp. Ở đòn thứ 6, nó phát nổ gây <sprite=2><color=#fff><gradient=sv_ad>200%</gradient></color><sprite=5> sát thương."
+  },
+  "D_BeautifulThreat": {
+    "name": "Mối Đe Dọa Xinh Đẹp",
+    "description": "<color=yellow>Đánh thường</color> của bạn trở thành tầm xa. Thi triển <color=yellow>bất kỳ Ký Ức nào</color> hoặc sử dụng <color=yellow>Né Tránh</color> giúp nhận 2 cấp chồng <color=yellow>Lông Vũ Vàng</color>, tối đa 6. Khi có cấp chồng <color=yellow>Lông Vũ Vàng</color>, <color=yellow>Tốc độ Đánh</color> của bạn tăng 20%.\n\nKhi tấn công kẻ địch với cấp chồng lông vũ, tiêu thụ một cấp chồng để gây <sprite=1><color=#fff><gradient=sv_ap>90%</gradient></color><sprite=5> <color=yellow>sát thương</color> và <color=yellow>hồi phục</color> cho Aurena <sprite=1><color=#fff><gradient=sv_ap>14%</gradient></color><sprite=5>. Khi hồi phục cho đồng minh với cấp chồng lông vũ, tiêu thụ một cấp chồng để <color=yellow>hồi phục</color> thêm cho mục tiêu <sprite=1><color=#fff><gradient=sv_ap>22%</gradient></color><sprite=5>."
+  },
+  "D_CircleOfLife": {
+    "name": "Vòng Tuần Hoàn Sự Sống",
+    "description": "Khi <color=yellow>đánh thường</color>, tất cả <color=yellow>Vật Triệu Hồi</color> của Nachia <color=yellow>hồi phục</color> 3%<sprite=5> <color=yellow>Máu Tối Đa</color> của chúng và <color=yellow>thời gian triệu hồi</color> của chúng tăng 0.3<sprite=5> giây. 50%<sprite=5> mọi <color=yellow>lượng thưởng Tốc độ Đánh</color>, <color=yellow>Tốc độ Di chuyển</color> và <color=yellow>Giáp</color> mà Nachia nhận được cũng được <color=yellow>chia sẻ</color> với <color=yellow>vật triệu hồi</color> của cô."
+  },
+  "D_ConvergencePoint": {
+    "name": "Hội Tụ Tinh Tú",
+    "description": "Thi triển một <color=yellow>Ký Ức</color> hoặc sử dụng <color=yellow>Nhấp Nháy</color> giúp nhận 10<sprite=5> <color=yellow>Sát Thương Vật Lý</color> trong 3 giây. Trong thời gian này, <color=yellow>đánh thường</color> của bạn được cường hóa, bật đến tối đa 2 mục tiêu với hiệu quả 50%."
+  },
+  "D_DisintegratingClaw": {
+    "name": "Vuốt Phân Hủy",
+    "description": "Đòn đánh <color=yellow>hồi phục</color> <sprite=2><color=#fff><gradient=sv_ad>16%</gradient></color><sprite=5> Máu của bạn cho mỗi kẻ địch trúng đòn và gây <sprite=2><color=#fff><gradient=sv_ad>68%</gradient></color><sprite=5> <color=yellow>sát thương cộng thêm</color>. Lên <color=yellow>trùm</color>, <color=yellow>sát thương cộng thêm</color> và <color=yellow>lượng hồi phục</color> tăng 100%."
+  },
+  "D_DoubleTap": {
+    "name": "Bắn Đúp",
+    "description": "Tăng <color=yellow>Sát Thương Vật Lý</color> thêm 5<sprite=5> và <color=yellow>Tỷ lệ Chí mạng</color> thêm 20%<sprite=5>. Sau khi sử dụng một <color=yellow>Ký Ức</color> hoặc <color=yellow>Né Tránh Nhanh Nhẹn</color>, <color=yellow>Đánh Thường</color> tiếp theo của bạn bắn hai phát."
+  },
+  "D_ExoticMatter": {
+    "name": "Vật Chất Ngoại Lai",
+    "description": "Nhận 1 cấp chồng <color=yellow>Vật Chất Ngoại Lai</color> khi bạn <color=yellow>Thi triển</color> một <color=yellow>Ký Ức</color>, tối đa 4 cấp. Thi triển <color=yellow>Kỹ Năng Né Tránh</color> nhận 2 cấp, và thi triển <color=yellow>Ký Ức Chiêu Cuối</color> nhận 3 cấp. <color=yellow>Đánh Thường</color> tiếp theo của bạn tiêu thụ tất cả cấp chồng để tạo một vụ nổ gây <sprite=1><color=#fff><gradient=sv_ap>110%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color> cho mỗi cấp chồng lên kẻ địch.\n\nKích thước vụ nổ tăng 5% mỗi khi <color=yellow>Vật Chất Ngoại Lai</color> được nâng cấp, tối đa 50%."
+  },
+  "D_HeartOfThePack": {
+    "name": "Trái Tim Bầy Đàn",
+    "description": "Bất cứ khi nào Nachia hồi phục cho bản thân hoặc đồng minh, cấp <color=yellow>Lá Chắn</color>, hoặc áp dụng <color=yellow>buff</color>, cô cũng cấp <color=yellow>Kết Nối</color> cho mục tiêu. <color=yellow>Đòn đánh thường</color> tiếp theo từ mục tiêu có <color=yellow>Kết Nối</color> được cường hóa, tạo ra một <color=yellow>vụ nổ</color> gây <sprite=1><color=#fff><gradient=sv_ap>140%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên kẻ địch."
+  },
+  "D_MercyOfEl": {
+    "name": "Sự Thương Xót Của El",
+    "description": "<color=yellow>Sát Thương Vật Lý</color> tăng thêm 12<sprite=5>. Mỗi đòn <color=yellow>đánh thường</color> thứ 4 trở thành <color=yellow>đòn chí mạng</color> và gây thêm <sprite=1><color=#fff><gradient=sv_ap>70%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color>.\nMỗi lần bạn <color=yellow>tấn công</color> kẻ địch, <color=yellow>Tốc độ Đánh</color> tăng 4%<sprite=5> trong 4 giây, tối đa 24%<sprite=5>. Khi <color=yellow>Tốc độ Đánh</color> ở mức tối đa, <color=yellow>tấn công</color> kẻ địch <color=yellow>hồi phục</color> 2%<sprite=5> <color=yellow>lượng Máu đã mất</color> của bạn."
+  },
+  "D_PrismaticEyes": {
+    "name": "Đôi Mắt Cầu Vồng",
+    "description": "Tăng <color=yellow>Tốc độ Đánh</color> thêm 20%<sprite=5>. Trong khi bạn không thể tự thực hiện <color=yellow>đánh thường</color>, một <color=yellow>Cuốn Sách</color> sẽ tự động <color=yellow>đánh thường</color> kẻ địch gần Bismuth nhất, gây <sprite=1><color=#fff><gradient=sv_ap>70%</gradient></color><sprite=5> <color=yellow>sát thương cộng thêm</color>."
+  },
+  "D_Resolve": {
+    "name": "Quyết Tâm",
+    "description": "Tăng <color=yellow>Máu Tối Đa</color> thêm 80<sprite=5>. Mỗi đòn <color=yellow>đánh thường</color> thứ 4 trở thành <color=yellow>đòn chí mạng</color>, đẩy lùi kẻ địch và làm choáng chúng trong 1 giây. Khi <color=yellow>Quyết Tâm</color> trúng kẻ địch, <color=yellow>Vesper</color> <color=yellow>hồi phục</color> 3%<sprite=5> <color=yellow>Máu Tối Đa</color> của hắn."
+  },
+  "D_SalamanderPowder": {
+    "name": "Bột Kỳ Giông Lửa",
+    "description": "Tăng <color=yellow>Tốc độ Đánh</color> thêm 15%<sprite=5>. Mỗi đòn <color=yellow>Đánh Thường</color> thứ 4 trở thành <color=yellow>Đòn Chí Mạng</color> và phát nổ, gây <sprite=1><color=#fff><gradient=sv_ap>145%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lửa</color> vùng lên kẻ địch. Sát thương vụ nổ tăng 100% lên <color=yellow>kẻ địch đang bốc cháy</color>."
+  },
+  "D_TheKillingFlow": {
+    "name": "Một Bước Một Mạng",
+    "description": "Thay vì nhận lượng thưởng <color=yellow>Tốc độ Đánh</color>, <color=yellow>Sát Thương Vật Lý</color> của bạn tăng 0.5<sprite=5> cho mỗi 1% <color=yellow>Tốc độ Đánh Cộng Thêm</color>.\nSau khi <color=yellow>Lao</color> hoặc <color=yellow>Dịch Chuyển</color>, <color=yellow>Đánh Thường</color> tiếp theo của bạn sẽ là đòn chí mạng.\n\nHạ gục bất kỳ <color=yellow>Trùm</color> nào <color=yellow>hồi phục</color> <sprite=2><color=#fff><gradient=sv_ad>200%</gradient></color><sprite=5> <color=yellow>Máu</color>."
+  },
+  "E_AntiGravity": {
+    "name": "Phản Trọng Lực",
+    "description": "Đảo ngược trọng lực tại khu vực mục tiêu, nhấc bổng tất cả kẻ địch trong phạm vi lên 1.6 giây. Sau đó, đập chúng xuống đất, gây <sprite=1><color=#fff><gradient=sv_ap>400%</gradient></color><sprite=5> <color=yellow>sát thương</color>."
+  },
+  "E_Blink": {
+    "name": "Dịch Chuyển",
+    "description": "<color=yellow>Dịch chuyển</color> một khoảng cách ngắn và gây <sprite=1><color=#fff><gradient=sv_ap>244%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lửa</color> lên kẻ địch gần đó. <color=yellow>Thời gian hồi chiêu</color> giảm 13% cho mỗi kẻ địch trúng đòn."
+  },
+  "E_ChainLightning": {
+    "name": "Tia Sét Dây Chuyền",
+    "description": "Phóng một tia sét nảy, gây <sprite=1><color=#fff><gradient=sv_ap>400%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên mục tiêu đầu tiên và nảy tối đa 5 lần, gây <sprite=1><color=#fff><gradient=sv_ap>185%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color>."
+  },
+  "E_ClutchesOfMalice": {
+    "name": "Vòi Bạch Tuộc Ác Ý",
+    "description": "Triệu hồi vòi bạch tuộc máu tại khu vực mục tiêu, kéo tối đa 4<sprite=5> kẻ địch. Các vòi bám vào kẻ địch, gây <sprite=1><color=#fff><gradient=sv_ap>80%</gradient></color><sprite=5> <color=yellow>sát thương</color> và thêm <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên kẻ địch bị kéo.\nKhi Ký Ức này được cường hóa, <color=yellow>số lượng kẻ địch</color> bị kéo và <color=yellow>vùng hiệu ứng</color> tăng lên."
+  },
+  "E_CrimsonLance": {
+    "name": "Thương Đỏ Thẫm",
+    "description": "Ném một cây thương khổng lồ gây <sprite=2><color=#fff><gradient=sv_ad>450%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên kẻ địch trúng đòn.\n\nGây thêm sát thương lên <color=yellow>Trùm Anh Hùng</color> bằng 15% <color=yellow>Máu Tối Đa</color> của chúng, cắm thương vào chúng và <color=yellow>phá hủy</color> Ký Ức này. <color=yellow>Đánh bại</color> Trùm Anh Hùng trong khi thương còn cắm trong chúng giúp bạn nhận được <color=yellow>Ký Ức Độc Nhất</color> hoặc <color=yellow>Tinh Hoa</color> của chúng."
+  },
+  "E_DoomsdayMeteor": {
+    "name": "Thiên Thạch Ngày Tận Thế",
+    "description": "Kênh trong 3 giây khi đứng yên. Nếu thành công, một <color=yellow>Quả Cầu Lửa Khổng Lồ</color> lao xuống khu vực mục tiêu, rải rác các quả cầu lửa nhỏ xung quanh. Quả cầu lửa khổng lồ gây <sprite=1><color=#fff><gradient=sv_ap>1,600%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên mục tiêu và <color=yellow>Làm choáng</color> chúng trong 3 giây, trong khi quả cầu lửa nhỏ gây <sprite=1><color=#fff><gradient=sv_ap>150%</gradient></color> <color=yellow>sát thương hệ Lửa</color>.\n<color=yellow>Ảnh hưởng đến cả đồng minh và kẻ địch.</color>"
+  },
+  "E_FinalExplosion": {
+    "name": "Vụ Nổ Cuối Cùng",
+    "description": "Tích tụ năng lượng trong 2 giây, nhận 25%<sprite=5> <color=yellow>Tốc độ Di chuyển</color> và 75<sprite=5> <color=yellow>Giáp</color>. Sau đó, hy sinh 40% máu tối đa để kích hoạt một vụ nổ mạnh. Kẻ địch trong vụ nổ chịu <sprite=1><color=#fff><gradient=sv_ap>850%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>100%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color> và bị <color=yellow>Làm choáng</color> trong 2.5 giây. Nếu đã chết hoặc bị giết bởi sự hy sinh, <color=yellow>Sát thương Vụ nổ</color> tăng 150%."
+  },
+  "E_FlameJet": {
+    "name": "Tia Lửa Phun",
+    "description": "Giải phóng một luồng lửa trong 2.5 giây. Kẻ địch trúng luồng lửa chịu <sprite=1><color=#fff><gradient=sv_ap>336%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> mỗi giây."
+  },
+  "E_Harvest": {
+    "name": "Thu Hoạch Máu",
+    "description": "<color=yellow>Đòn tấn công</color> để lại <color=yellow>Dấu Ấn</color> trên kẻ địch có thể cộng dồn vô hạn. Thi triển Ký Ức này để kích nổ tất cả <color=yellow>Dấu Ấn</color> bạn đã áp dụng, gây <sprite=2><color=#fff><gradient=sv_ad>100%</gradient></color><sprite=5> <color=yellow>sát thương</color> và giảm <color=yellow>Tốc độ Di chuyển</color> 60% trong 1.5 giây.\n\nSát thương kích nổ tăng 25% cho mỗi cấp chồng thêm, và nếu kẻ địch chết vì vụ nổ này, <color=yellow>hồi phục</color> <sprite=2><color=#fff><gradient=sv_ad>20%</gradient></color><sprite=5> <color=yellow>Máu</color>."
+  },
+  "E_JusticeGuillotine": {
+    "name": "Máy Chém Công Lý",
+    "description": "Đập một thanh đại kiếm xuống vị trí của kẻ địch mục tiêu, gây <sprite=2><color=#fff><gradient=sv_ad>800%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên tất cả kẻ địch gần đó. Sát thương này tăng lên tối đa 2 lần dựa trên <color=yellow>lượng máu đã mất</color> của bạn và tối đa 2 lần dựa trên <color=yellow>lượng máu đã mất</color> của mục tiêu, tổng cộng tăng tối đa 4 lần. Mức tăng sát thương được tối đa hóa khi máu ở mức 30% hoặc thấp hơn."
+  },
+  "E_LizardlyBlessing": {
+    "name": "Phước Lành Thằn Lằn",
+    "description": "Trong 6 giây, nhận Phước Lành Thằn Lằn, tăng <color=yellow>Tốc độ Di chuyển</color> 25%, <color=yellow>Tốc độ Đánh</color> 25%<sprite=5> và sát thương nhận từ kẻ địch tăng 10%<sprite=5>. Trong thời gian này, lần đầu tiên bạn <color=yellow>gây sát thương</color> lên kẻ địch, bạn giải phóng một cú sốc điện, gây <sprite=1><color=#fff><gradient=sv_ap>125%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color>. Bạn cũng nhận 2<sprite=5> <color=yellow>Vàng</color> cho mỗi kẻ địch bạn <color=yellow>đánh bại</color>."
+  },
+  "E_MassCleanse": {
+    "name": "Tẩy Rửa Hàng Loạt",
+    "description": "Tẩy rửa khu vực mục tiêu, gây <sprite=1><color=#fff><gradient=sv_ap>300%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên kẻ địch và cấp <color=yellow>Không Thể Bị Ngăn Cản</color> cho đồng minh trong 1.5 giây, đồng thời <color=yellow>loại bỏ</color> hầu hết <color=yellow>hiệu ứng xấu</color>. Đồng minh được <color=yellow>hồi phục</color> <sprite=1><color=#fff><gradient=sv_ap>80%</gradient></color><sprite=5> <color=yellow>Máu</color> cho mỗi <color=yellow>hiệu ứng nguyên tố</color> được loại bỏ khỏi họ."
+  },
+  "E_MysticDagger": {
+    "name": "Dao Găm Huyền Bí",
+    "description": "Ném một <color=yellow>Dao Găm Huyền Bí</color> gây <sprite=1><color=#fff><gradient=sv_ap>350%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên mục tiêu đầu tiên trúng đòn và kích hoạt <color=yellow>hiệu ứng tấn công</color>. Khi <color=yellow>Dao Găm</color> trúng kẻ địch, giảm <color=yellow>thời gian hồi chiêu</color> của tất cả Ký Ức đi 1<sprite=5> giây."
+  },
+  "E_Permafrost": {
+    "name": "Băng Vĩnh Cửu",
+    "description": "Tụ tập và giải phóng sức lạnh cực độ trong một khu vực rộng lớn. Đồng minh trong khu vực nhận <color=yellow>Lá Chắn</color> <sprite=1><color=#fff><gradient=sv_ap>300%</gradient></color><sprite=5> và 100 <color=yellow>Giáp</color> trong 10 giây. Kẻ địch bị đóng băng, chịu <sprite=1><color=#fff><gradient=sv_ap>500%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lạnh</color> và bị <color=yellow>Làm choáng</color> trong 15 giây.\n\nNếu kẻ địch đã chịu ảnh hưởng của <color=yellow>Lạnh</color>, sát thương này tăng 100%."
+  },
+  "E_Rewind": {
+    "name": "Hoàn Tác",
+    "description": "Giảm <color=yellow>thời gian hồi chiêu</color> của <color=yellow>Ký Ức</color> được sử dụng cuối cùng đi 5.5<sprite=5> giây. <color=yellow>Ký Ức</color> tiếp theo được thi triển trong 8 giây được cường hóa, gây thêm <sprite=1><color=#fff><gradient=sv_ap>160%</gradient></color><sprite=5> <color=yellow>sát thương</color> khi lần đầu trúng kẻ địch."
+  },
+  "E_SearingCharge": {
+    "name": "Xung Kích Thiêu Đốt",
+    "description": "Nhanh chóng chém qua kẻ địch bằng một thanh kiếm rực lửa, gây <sprite=1><color=#fff><gradient=sv_ap>60%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> và thêm <sprite=1><color=#fff><gradient=sv_ap>240%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color>. Sát thương và tầm đánh tăng theo <color=yellow>Tốc độ Di chuyển</color>. Nếu kẻ địch bị giết bởi sát thương này, <color=yellow>thời gian hồi chiêu</color> được làm mới."
+  },
+  "E_ShadowVolley": {
+    "name": "Loạt Bóng Đen",
+    "description": "Kênh trong 1.3<sprite=5> giây để bắn 7<sprite=5> <color=yellow>Mũi Tên Bóng Đen</color>, mỗi mũi gây <sprite=2><color=#fff><gradient=sv_ad>60%</gradient></color><sprite=5> <color=yellow>sát thương hệ Bóng Tối</color> lên kẻ địch đầu tiên trúng đòn.\nThời gian kênh giảm theo <color=yellow>Tốc độ Đánh</color> của bạn và số lượng đạn tăng theo <color=yellow>Tỷ lệ Chí mạng</color> của bạn."
+  },
+  "E_SliceThroat": {
+    "name": "Cắt Cổ",
+    "description": "Sau 0.5 giây, chém về phía trước bằng một lưỡi dao bóng tối, gây <sprite=2><color=#fff><gradient=sv_ad>65%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên kẻ địch. Kẻ địch trúng viền ngoài thay vào đó chịu <sprite=2><color=#fff><gradient=sv_ad>250%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color>, kích hoạt 50% <color=yellow>hiệu ứng tấn công</color> và hồi phục 8% <color=yellow>lượng Máu đã mất</color> cho bạn cho mỗi kẻ địch trúng đòn.\n\nVới mỗi kẻ địch trúng viền ngoài, giảm <color=yellow>thời gian hồi chiêu</color> 20%."
+  },
+  "E_StygianRush": {
+    "name": "Xung Kích U Tối",
+    "description": "<color=yellow>Giữ</color> để nạp bóng tối trong tay. Khi nạp đầy, lao về phía trước và đánh kẻ địch đầu tiên trúng đòn cùng tất cả kẻ địch gần đó. Gây <sprite=2><color=#fff><gradient=sv_ad>100%</gradient></color><sprite=5> - <sprite=2><color=#fff><gradient=sv_ad>600%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên kẻ địch tùy theo thời gian nạp, làm choáng chúng trong 1 giây và kích hoạt <color=yellow>Hiệu Ứng Tấn Công</color>. Nhận <color=yellow>Lá Chắn</color> trị giá <sprite=2><color=#fff><gradient=sv_ad>60%</gradient></color><sprite=5> kéo dài 3 giây cho mỗi kẻ địch trúng đòn, tăng 200% nếu mục tiêu là <color=yellow>Trùm</color>.\nNạp 1.2 giây để tối đa hóa khoảng cách lao và sát thương."
+  },
+  "E_UmbralEdge": {
+    "name": "Lưỡi Bóng Tối",
+    "description": "Trong 7 giây, tẩm sức mạnh bóng tối vào vũ khí của bạn, tăng <color=yellow>Tỷ lệ Chí mạng</color> 25%<sprite=5> và gây thêm <sprite=2><color=#fff><gradient=sv_ad>30%</gradient></color><sprite=5> <color=yellow>sát thương hệ Bóng Tối</color> khi <color=yellow>tấn công</color>. <color=yellow>Nhà Du Hành Cận Chiến</color> gây thêm 25% sát thương cộng thêm."
+  },
+  "E_VileStrike": {
+    "name": "Đòn Đánh Hèn Hạ",
+    "description": "Biến mất trong chốc lát, sau đó xuất hiện lại tại vị trí mục tiêu, chém kẻ địch gây <sprite=2><color=#fff><gradient=sv_ad>200%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color>, <color=yellow>làm choáng</color> chúng trong 1 giây và kích hoạt <color=yellow>hiệu ứng tấn công</color>. Sát thương tăng 50% lên kẻ địch dưới 50% Máu."
+  },
+  "E_WinterDive": {
+    "name": "Lặn Đông",
+    "description": "Nhảy cao lên không trung, bao phủ bởi sức mạnh mùa đông, và lao xuống khu vực mục tiêu, gây <sprite=1><color=#fff><gradient=sv_ap>340%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color> lên tất cả kẻ địch và <color=yellow>làm choáng</color> chúng trong 1.5 giây."
+  },
+  "L_Blizzard": {
+    "name": "Bão Tuyết",
+    "description": "Triệu hồi một cơn bão tuyết trong khu vực mục tiêu 4<sprite=5> lần mỗi 0.7 giây, gây <sprite=1><color=#fff><gradient=sv_ap>180%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lạnh</color> lên kẻ địch và cấp cho đồng minh một <color=yellow>Lá Chắn</color> <sprite=1><color=#fff><gradient=sv_ap>60%</gradient></color><sprite=5> tan biến trong 3.5 giây.\nCó thể duy trì tối đa 10 cơn bão cùng lúc."
+  },
+  "L_ButchersStrike": {
+    "name": "Đòn Chém Đồ Tể",
+    "description": "Vung lưỡi dao về phía trước, gây <sprite=2><color=#fff><gradient=sv_ad>200%</gradient></color><sprite=5> sát thương lên kẻ địch và <color=yellow>giảm</color> <color=yellow>Tốc độ Di chuyển</color> của chúng 30% trong 2 giây.\n\nNếu kẻ địch trúng lưỡi dao chết trong vòng 3 giây, chúng rơi ra <color=yellow>Thịt</color>. Nhặt <color=yellow>Thịt</color> <color=yellow>hồi phục</color> <sprite=1><color=#fff><gradient=sv_ap>25%</gradient></color><sprite=5> <color=yellow>Máu</color> và tăng vĩnh viễn <color=yellow>sát thương</color> của Đòn Chém Đồ Tể lên 1%."
+  },
+  "L_CoinExplosion": {
+    "name": "Nổ Tiền Xu",
+    "description": "Ném một <color=yellow>Đồng Xu</color> với chi phí 1% <color=yellow>Vàng</color> hiện tại của bạn. <color=yellow>Đồng Xu</color> <color=yellow>phát nổ</color> khi trúng kẻ địch đầu tiên, gây <sprite=1><color=#fff><gradient=sv_ap>150%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên kẻ địch và <color=yellow>làm choáng</color> chúng trong 1 giây.\n\nSau vụ nổ, có 50% cơ hội để <color=yellow>sát thương vụ nổ</color> tăng vĩnh viễn lên gấp đôi, nhưng cũng có 50% cơ hội để mất tất cả lượng tăng đã tích lũy."
+  },
+  "L_LightExplosion": {
+    "name": "Vụ Nổ Rực Rỡ",
+    "description": "Chọn một đồng minh hoặc kẻ địch để tạo một <color=yellow>Vụ Nổ Rực Rỡ</color> tại vị trí của chúng sau 1.5 giây. Vụ nổ gây <sprite=1><color=#fff><gradient=sv_ap>400%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên kẻ địch gần đó và <color=yellow>làm choáng</color> chúng trong 1 giây. Nếu kẻ địch bị <color=yellow>giết</color> bởi vụ nổ, vụ nổ <color=yellow>lặp lại</color>."
+  },
+  "L_MentalCorruption": {
+    "name": "Thối Nát Tinh Thần",
+    "description": "Thối nát tâm trí của mục tiêu và những kẻ xung quanh, gây <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> <color=yellow>sát thương hệ Bóng Tối</color> và <sprite=1><color=#fff><gradient=sv_ap>60%</gradient></color><sprite=5> <color=yellow>sát thương hệ Bóng Tối</color> mỗi 0.5 giây cho đến khi chết."
+  },
+  "L_Multishot": {
+    "name": "Mưa Tên",
+    "description": "Trong 6 giây, tăng Tốc độ Đánh 15%<sprite=5> và Tốc độ Di chuyển 10%. Trong thời gian này, mỗi <color=yellow>đòn tấn công</color> bắn ra 3 mũi tên. Mỗi mũi tên gây <sprite=1><color=#fff><gradient=sv_ap>35%</gradient></color><sprite=5> sát thương và mũi tên đầu tiên kích hoạt <color=yellow>hiệu ứng tấn công</color>."
+  },
+  "L_PyranasFireball": {
+    "name": "Cầu Lửa Của Pyrana",
+    "description": "<color=yellow>Biến hình</color> thành <color=yellow>Cầu Lửa</color> di chuyển nhanh trong 3 giây, nhận 50<sprite=5> <color=yellow>Giáp</color> và miễn nhiễm với <color=yellow>Sát thương hệ Lửa</color>. Mỗi lần bạn va vào kẻ địch, gây <sprite=1><color=#fff><gradient=sv_ap>220%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lửa</color> và <color=yellow>kéo dài</color> <color=yellow>thời gian</color> biến hình thêm 0.2<sprite=5> giây, tối đa 3<sprite=5> giây."
+  },
+  "L_SpectreBullet": {
+    "name": "Đạn Ma",
+    "description": "Bắn một Đạn Ma vào kẻ địch mục tiêu, gây <sprite=2><color=#fff><gradient=sv_ad>300%</gradient></color><sprite=5> <color=yellow>sát thương</color> và kích hoạt <color=yellow>hiệu ứng tấn công</color>. Nếu sát thương này <color=yellow>giết</color> kẻ địch, nhận 5<sprite=5> <color=yellow>Bụi Mơ</color>."
+  },
+  "M_Charge": {
+    "name": "Đòn Đánh Nặng",
+    "description": "Nhận một <color=yellow>Lá Chắn</color> bằng 10% <color=yellow>Máu Tối Đa</color> trong 1.5 giây và <color=yellow>lao</color> về phía trước. Nếu bạn va vào kẻ địch, <color=yellow>cú lao</color> kết thúc sớm, gây 15% <color=yellow>Máu Tối Đa</color> của bạn thành <color=yellow>sát thương</color> lên kẻ địch và đẩy lùi chúng."
+  },
+  "M_DreamyWaltz": {
+    "name": "Valse Mộng Mơ",
+    "description": "Di chuyển nhanh để né tránh đòn tấn công của kẻ địch.\nSau khi né tránh, giải phóng một làn sóng mộng mơ cấp cho tất cả đồng minh gần đó (trừ bạn) một <color=yellow>Lá Chắn</color> bằng 8% <color=yellow>Máu Tối Đa</color> của họ và tăng <color=yellow>Tốc độ Đánh</color> của họ lên 15% trong 3 giây. Hiệu ứng tăng 100% cho vật triệu hồi."
+  },
+  "M_FastFeet": {
+    "name": "Bước Chân Nhanh Nhẹn",
+    "description": "Di chuyển nhanh nhẹn để né tránh đòn tấn công của kẻ địch."
+  },
+  "M_FeatheryDash": {
+    "name": "Phi Nhanh Như Lông Vũ",
+    "description": "Di chuyển nhanh nhẹn để né tránh đòn tấn công của kẻ địch."
+  },
+  "M_FlashStep": {
+    "name": "Bước Chớp Nhoáng",
+    "description": "Di chuyển nhanh nhẹn để né tránh đòn tấn công của kẻ địch."
+  },
+  "M_Flicker": {
+    "name": "Nhấp Nháy",
+    "description": "Dịch chuyển nhanh để né tránh đòn tấn công của kẻ địch.\n<color=yellow>Có thể sử dụng ngay cả khi không thể dùng Ký Ức.</color>"
+  },
+  "M_NimbleDodge": {
+    "name": "Né Tránh Nhanh Nhẹn",
+    "description": "Di chuyển nhanh nhẹn để né tránh đòn tấn công của kẻ địch."
+  },
+  "M_Sprint": {
+    "name": "Xung Kích Méo Mó",
+    "description": "Lao nhanh một đoạn ngắn để né tránh đòn tấn công của kẻ địch, sau đó tăng <color=yellow>Tốc độ Di chuyển</color> 75% và <color=yellow>Tốc độ Đánh</color> 100% trong 1 giây."
+  },
+  "Q_CruelSun": {
+    "name": "Mặt Trời Tàn Nhẫn",
+    "description": "<color=yellow>Giữ phím thi triển</color> để tập trung sức mạnh mặt trời vào búa. Khi nạp đầy, đập xuống đất gây <sprite=1><color=#fff><gradient=sv_ap>125%</gradient></color><sprite=5> - <sprite=1><color=#fff><gradient=sv_ap>380%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>17%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên kẻ địch và <color=yellow>làm choáng</color> chúng trong 0.5-1.5 giây.\n\nTrong khi kênh, bạn không thể di chuyển nhưng trở nên <color=yellow>Không Thể Bị Ngăn Cản</color> và nhận 60<sprite=5> <color=yellow>Giáp</color>."
+  },
+  "Q_Discipline": {
+    "name": "Kỷ Luật",
+    "description": "Lao về phía mục tiêu và đập búa, gây <sprite=2><color=#fff><gradient=sv_ad>175%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color> lên kẻ địch và kích hoạt <color=yellow>Hiệu Ứng Tấn Công</color>. Mỗi lần bạn <color=yellow>Tấn công</color> kẻ địch, <color=yellow>Thời gian hồi chiêu</color> được <color=yellow>giảm</color> 10%."
+  },
+  "Q_EtherealInfluence": {
+    "name": "Ảnh Hưởng Của Ether",
+    "description": "Phóng <color=yellow>Ether</color> di chuyển về phía trước và quay lại, gây <sprite=1><color=#fff><gradient=sv_ap>160%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color> lên kẻ địch. Kích hoạt lại để <color=yellow>Ether</color> <color=yellow>phát nổ</color>, gây <sprite=1><color=#fff><gradient=sv_ap>180%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color> và <color=yellow>rễ</color> kẻ địch trong 3 giây.\n\nNếu <color=yellow>vụ nổ</color> này trúng một mục tiêu duy nhất, <color=yellow>sát thương vụ nổ</color> tăng 75%."
+  },
+  "Q_Fleche": {
+    "name": "Flèche",
+    "description": "Lao về phía mục tiêu, gây <sprite=2><color=#fff><gradient=sv_ad>140%</gradient></color><sprite=5> <color=yellow>sát thương</color>, ngay lập tức thực hiện một <color=yellow>đánh thường</color> và tạm thời tăng <color=yellow>Tốc độ Di chuyển</color> của <color=yellow>Mist</color>. Nếu <color=yellow>sát thương</color> này giết chết mục tiêu, hồi phục 15<sprite=5> Máu và giảm <color=yellow>thời gian hồi chiêu</color> 15%.\n\n<color=yellow>Số lần nạp</color> được hồi phục hoàn toàn cùng lúc."
+  },
+  "Q_GoldenBurst": {
+    "name": "Vụ Nổ Vàng",
+    "description": "Tạo một Vụ Nổ Vàng về phía trước, gây <sprite=1><color=#fff><gradient=sv_ap>110%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên kẻ địch và <color=yellow>hồi phục</color> <sprite=1><color=#fff><gradient=sv_ap>28%</gradient></color><sprite=5> Máu cho đồng minh. Khi trúng một mục tiêu duy nhất, <color=yellow>sát thương</color> hoặc <color=yellow>lượng hồi phục</color> của vụ nổ này tăng 100%.\n\nKhi thi triển, nhận cấp chồng <color=yellow>Héo Mòn</color> trong 3.5 giây và <color=yellow>hy sinh</color> 5% Máu Tối Đa. Mỗi cấp chồng <color=yellow>Héo Mòn</color> tăng <color=yellow>sát thương</color> và <color=yellow>lượng hồi phục</color> của vụ nổ lên 100%, nhưng cũng tăng lượng Máu <color=yellow>hy sinh</color> thêm 7% Máu Tối Đa."
+  },
+  "Q_HandCannon": {
+    "name": "Súng Cầm Tay",
+    "description": "Bắn một viên đạn rực lửa đẩy bạn lùi về phía sau, gây <sprite=1><color=#fff><gradient=sv_ap>80%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên kẻ địch phía trước. Kẻ địch ở cự ly gần trúng đòn thay vào đó chịu <sprite=1><color=#fff><gradient=sv_ap>180%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> và bị đẩy lùi."
+  },
+  "Q_IncendiaryRounds": {
+    "name": "Đạn Cháy",
+    "description": "4 đòn đánh thường tiếp theo nhanh hơn 60%<sprite=5> và gây thêm <sprite=1><color=#fff><gradient=sv_ap>100%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color>, tăng <color=yellow>Tốc độ Di chuyển</color> của <color=yellow>Lacerta</color> trong thời gian ngắn."
+  },
+  "Q_Laceration": {
+    "name": "Vết Cắt",
+    "description": "Mỗi đòn đánh thường luân phiên thay đổi dạng của Vết Cắt giữa <color=#f28a8a>Dạng Đỏ</color> và <color=#8ab2f2>Dạng Xanh</color>. Khi thi triển, nó giải phóng hiệu ứng khác nhau tùy theo dạng hiện tại.\n\n<color=#f28a8a>Dạng Đỏ:</color> Lao một đoạn ngắn, chém kẻ địch trong một khu vực hẹp gây <sprite=2><color=#fff><gradient=sv_ad>155%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> và kích hoạt <color=yellow>Hiệu Ứng Tấn Công</color>. Khi lần đầu trúng kẻ địch, <color=yellow>Thời gian hồi chiêu</color> của nó giảm 35%.\n\n<color=#8ab2f2>Dạng Xanh:</color> Nhảy lên không trung để trở nên <color=yellow>Bất Khả Xâm Phạm</color> trong chốc lát, sau đó vung kiếm gây <sprite=2><color=#fff><gradient=sv_ad>230%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> và kích hoạt <color=yellow>Hiệu Ứng Tấn Công</color> lên tất cả kẻ địch gần đó. Với mỗi kẻ địch trúng đòn, <color=yellow>Thời gian hồi chiêu</color> giảm 15%, tối đa 60%."
+  },
+  "Q_Lunge": {
+    "name": "Đâm",
+    "description": "Lao về phía trước và đâm thanh kiếm về phía kẻ địch gần nhất. Trúng kẻ địch bằng thanh kiếm giảm <color=yellow>thời gian hồi chiêu</color> của <color=yellow>Bước Chân Nhanh Nhẹn</color> 60%. Kích hoạt <color=yellow>hiệu ứng tấn công</color> và gây <sprite=2><color=#fff><gradient=sv_ad>200%</gradient></color><sprite=5> sát thương lên tất cả kẻ địch trúng đòn. Mỗi lần <color=yellow>Kiệt Tác Của Astrid</color> kích hoạt, giảm <color=yellow>thời gian hồi chiêu</color> của Ký Ức này 0.5 giây."
+  },
+  "Q_MoonlightPact": {
+    "name": "Khế Ước Ánh Trăng",
+    "description": "<color=yellow>Fenrir</color> lao đến vị trí mục tiêu, chém kẻ địch gây <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> <color=yellow>sát thương</color> và làm choáng chúng trong 0.5 giây. Với mỗi kẻ địch trúng đòn, <color=yellow>Fenrir</color> <color=yellow>hồi phục</color> 8%<sprite=5> Máu Tối Đa của hắn. Mỗi lần <color=yellow>Fenrir</color> tấn công, <color=yellow>thời gian hồi chiêu</color> của kỹ năng này giảm 1 giây.\n\n<color=yellow>Hiệu Ứng Thụ Động:</color> <color=yellow>Triệu hồi</color> <color=yellow>Người Sói Fenrir</color>, người đi theo Nachia. <color=yellow>Fenrir</color> có 321 Máu và 40<sprite=5> Giáp, cào kẻ địch gây <sprite=1><color=#fff><gradient=sv_ap>130%</gradient></color><sprite=5> <color=yellow>sát thương</color> và kích hoạt 50% <color=yellow>hiệu ứng tấn công</color>."
+  },
+  "Q_Reduction": {
+    "name": "Giảm Giá",
+    "description": "<color=yellow>Hy sinh</color> 8% Máu Tối Đa để ném các Mảnh Vàng mỏng về phía trước 3 lần. Các Mảnh Vàng xuyên qua mục tiêu, gây <sprite=1><color=#fff><gradient=sv_ap>95%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên kẻ địch trúng đòn và <color=yellow>hồi phục</color> cho đồng minh <sprite=1><color=#fff><gradient=sv_ap>18%</gradient></color><sprite=5>."
+  },
+  "Q_SuperNova": {
+    "name": "Siêu Tân Tinh",
+    "description": "Cấp 1 lần nạp cho <color=yellow>Kỹ Năng Né Tránh</color> của bạn và tạo một <color=yellow>ngôi sao</color> đang mở rộng tại vị trí mục tiêu làm chậm kẻ địch, sau đó <color=yellow>kênh</color> lên đến 3 giây. Bạn không thể <color=yellow>tấn công</color> hoặc thi triển <color=yellow>Ký Ức</color> khi đang kênh. Kích hoạt lại để kích nổ <color=yellow>ngôi sao</color>, gây <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color> lên kẻ địch.\n\nVụ nổ trở nên mạnh hơn theo <color=yellow>thời gian nạp</color>, tăng <color=yellow>sát thương</color> lên tối đa 225% sau 1.3 giây và tốc độ nạp tăng tỷ lệ với <color=yellow>Tốc độ Hồi Ký Ức</color> của Yubar."
+  },
+  "Q_SylvanCall": {
+    "name": "Tiếng Gọi Của Rừng Xanh",
+    "description": "<color=yellow>Triệu hồi</color> một <color=yellow>Chó Lá</color> đi theo Nachia tại vị trí mục tiêu, gây <sprite=1><color=#fff><gradient=sv_ap>130%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên kẻ địch và <color=yellow>làm choáng</color> chúng trong 0.4 giây.\n\n<color=yellow>Chó Lá</color> có 128 Máu và 20<sprite=5> Giáp, ở lại chiến trường tối đa 25 giây và cào kẻ địch gây <sprite=1><color=#fff><gradient=sv_ap>60%</gradient></color><sprite=5> <color=yellow>sát thương</color>. Bạn có thể triệu hồi tối đa 5 Chó Lá cùng lúc."
+  },
+  "QR_DistortedMind": {
+    "name": "Tâm Trí Méo Mó",
+    "description": "<color=yellow>Giữ</color> để nạp một loạt mũi tên tâm linh. Thả để trút 1~4<sprite=5> mũi tên tâm linh xuống kẻ địch gần đó, tùy theo thời gian nạp. Mỗi mũi tên tâm linh gây <sprite=2><color=#fff><gradient=sv_ad>170%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên kẻ địch trong một khu vực nhỏ."
+  },
+  "QR_InfernalTales": {
+    "name": "Câu Chuyện Địa Ngục Lửa",
+    "description": "Tạo một vòng tròn lửa xung quanh bạn trong 3 giây. Kẻ địch chạm vào vòng lửa chịu <sprite=1><color=#fff><gradient=sv_ap>350%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> mỗi giây."
+  },
+  "QR_Innocence": {
+    "name": "Linh Hồn Thuần Khiết",
+    "description": "Bắn 3<sprite=5> tên lửa linh hồn vào kẻ địch gần đó. Mỗi tên lửa phát nổ, gây <sprite=1><color=#fff><gradient=sv_ap>108%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color> lên kẻ địch và làm chậm <color=yellow>Tốc độ Di chuyển</color> của chúng 60% trong 1 giây."
+  },
+  "QR_ValiantHeart": {
+    "name": "Trái Tim Dũng Cảm",
+    "description": "Vung kiếm thần vào kẻ địch gần nhất, gây <sprite=2><color=#fff><gradient=sv_ad>240%</gradient></color><sprite=5> <color=yellow>sát thương</color> và đẩy lùi chúng nhẹ. Khi kiếm trúng kẻ địch, <color=yellow>Tốc độ Di chuyển</color> của Bismuth tăng 15%<sprite=5> trong 1 giây."
+  },
+  "R_AnnihilationStance": {
+    "name": "Tư Thế Hủy Diệt",
+    "description": "Trong 10 giây, bao phủ lưỡi kiếm của bạn bằng <color=yellow>Năng Lượng Kiếm</color> hủy diệt. Khi hiệu ứng này hoạt động, bạn không thể <color=yellow>thi triển</color> <color=yellow>Ký Ức</color>, nhưng <color=yellow>Tầm Đánh</color> của bạn tăng nhẹ, <color=yellow>Sát Thương Vật Lý</color> tăng 35%<sprite=5> và <color=yellow>Tốc độ Đánh</color> tăng 30%<sprite=5>. Lượng tăng Tốc độ Đánh này không bị ảnh hưởng bởi <color=yellow>Một Bước Một Mạng</color>. Mỗi <color=yellow>Đánh Thường</color> bắn ra <color=yellow>Năng Lượng Kiếm</color> gây <sprite=1><color=#fff><gradient=sv_ap>400%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên kẻ địch.\n\nTrong thời gian này, <color=yellow>kỹ năng Né Tránh</color> của bạn nhận 30<sprite=5> <color=yellow>Tốc độ Hồi Ký Ức</color> và 2 <color=yellow>Số lần Nạp Tối Đa</color>."
+  },
+  "R_BaptismOfSun": {
+    "name": "Lễ Rửa Tội Của Mặt Trời",
+    "description": "<color=yellow>Vesper</color> kênh sức mạnh mặt trời, giải phóng một vụ nổ gây <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lửa</color> lên kẻ địch gần đó và buộc chúng tấn công Vesper. Nhận 15%<sprite=5> <color=yellow>Tốc độ Đánh</color> trong 6 giây. Trong thời gian này, <color=yellow>Đòn tấn công</color> gây thêm <sprite=2><color=#fff><gradient=sv_ad>40%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lửa</color>."
+  },
+  "R_BlackArbalest": {
+    "name": "Nỏ Đen",
+    "description": "Bắn một mũi tên nỏ <color=yellow>xuyên</color> qua kẻ địch, gây <sprite=2><color=#fff><gradient=sv_ad>250%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color>, đẩy lùi chúng và kích hoạt <color=yellow>Hiệu Ứng Tấn Công</color>. Mỗi lần <color=yellow>xuyên</color> qua kẻ địch, <color=yellow>Sát thương</color> gây ra cho kẻ địch tiếp theo tăng 35%.\nCó <sprite=10><color=#fff><gradient=sv_critp>100%</gradient></color> cơ hội tăng <color=yellow>Sát thương</color> 100% và áp dụng 5 <color=yellow>Bóng Tối</color> lên mục tiêu."
+  },
+  "R_BoneCrusher": {
+    "name": "Nghiền Xương",
+    "description": "Trở nên <color=yellow>Không Thể Bị Ngăn Cản</color> và <color=yellow>lao</color> về phía trước cho đến khi va vào tường. Gây <sprite=1><color=#fff><gradient=sv_ap>135%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên kẻ địch bạn va phải và kéo chúng đi theo. Khi va vào tường, giải phóng một sóng xung kích gây <sprite=1><color=#fff><gradient=sv_ap>420%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>22%</gradient></color><sprite=5> <color=yellow>sát thương</color> và <color=yellow>làm choáng</color> trong 1.5 giây.\nNhận <color=yellow>Lá Chắn</color> bằng 20%<sprite=5> <color=yellow>Máu Tối Đa</color> của bạn, lá chắn này biến mất 3 giây sau khi kết thúc cú lao."
+  },
+  "R_Cataclysm": {
+    "name": "Đại Hồng Thủy",
+    "description": "Nhận Lá Chắn <sprite=1><color=#fff><gradient=sv_ap>150%</gradient></color><sprite=5> và tăng <color=yellow>Sức Mạnh Phép Thuật</color> 30%<sprite=5> trong 12 giây. Trong thời gian này, <color=yellow>Đại Hồng Thủy</color> có thể được kích hoạt lại tối đa 3 lần để thả thiên thạch xuống các vị trí mục tiêu. Thiên thạch làm choáng kẻ địch trong chốc lát và gây <sprite=1><color=#fff><gradient=sv_ap>250%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color>."
+  },
+  "R_ChainReaction": {
+    "name": "Phản Ứng Dây Chuyền",
+    "description": "Khắc một <color=yellow>Phù Hiệu Phân Hủy</color> tại vị trí mục tiêu kéo dài 6 giây. Kẻ địch trong phù hiệu chịu <sprite=1><color=#fff><gradient=sv_ap>150%</gradient></color><sprite=5> <color=yellow>sát thương</color> mỗi giây và đồng minh bên trong hồi phục <sprite=1><color=#fff><gradient=sv_ap>44%</gradient></color><sprite=5> Máu mỗi giây cho mỗi kẻ địch bên trong. Khi trúng <color=yellow>trùm</color>, <color=yellow>sát thương</color> và <color=yellow>lượng hồi phục</color> tăng 200%."
+  },
+  "R_Chomp": {
+    "name": "Cắn Xé",
+    "description": "Cắn kẻ địch mục tiêu, gây <sprite=1><color=#fff><gradient=sv_ap>370%</gradient></color><sprite=5> sát thương và hồi phục <sprite=1><color=#fff><gradient=sv_ap>75%</gradient></color><sprite=5> Máu."
+  },
+  "R_DancingBlades": {
+    "name": "Bão Lưỡi Kiếm",
+    "description": "Triệu hồi một <color=yellow>Bão Lưỡi Kiếm</color> kéo dài 4 giây trong khu vực mục tiêu. <color=yellow>Bão Lưỡi Kiếm</color> chém nhanh, gây <sprite=1><color=#fff><gradient=sv_ap>85%</gradient></color><sprite=5> hoặc <sprite=2><color=#fff><gradient=sv_ad>85%</gradient></color><sprite=5> <color=yellow>sát thương</color> (cái nào cao hơn) lên kẻ địch mỗi 0.5 giây và đi theo kẻ địch gần nhất."
+  },
+  "R_DangerousTheory": {
+    "name": "Lý Thuyết Nguy Hiểm",
+    "description": "Lao về phía trước và cường hóa <color=yellow>đòn đánh thường</color> tiếp theo của bạn. <color=yellow>Đòn đánh thường</color> này trở thành <color=yellow>đòn chí mạng</color>, gây <sprite=2><color=#fff><gradient=sv_ad>125%</gradient></color><sprite=5> <color=yellow>sát thương cộng thêm</color> và đẩy lùi mục tiêu.\n\nNếu <color=yellow>Máu hiện tại</color> của bạn dưới 60% khi thi triển <color=yellow>Lý Thuyết Nguy Hiểm</color>, <color=yellow>sát thương cộng thêm</color> tăng 100%, <color=yellow>thời gian hồi chiêu</color> giảm 25% và bạn <color=yellow>hồi phục</color> <sprite=1><color=#fff><gradient=sv_ap>67%</gradient></color><sprite=5> Máu cho mỗi kẻ địch trúng đòn. Lên <color=yellow>trùm</color>, <color=yellow>sát thương cộng thêm</color> và <color=yellow>lượng hồi phục</color> tăng 100%."
+  },
+  "R_DarkGrenade": {
+    "name": "Lựu Đạn Đen",
+    "description": "Ném một lựu đạn đen vào khu vực mục tiêu. Lựu đạn phát nổ, rải ra 7 mảnh đen theo mọi hướng. Mỗi mảnh kích hoạt 50% <color=yellow>Hiệu Ứng Tấn Công</color> và gây <sprite=2><color=#fff><gradient=sv_ad>150%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên kẻ địch đầu tiên trúng đòn. Nếu nhiều mảnh trúng cùng một mục tiêu, các mảnh sau gây 50% sát thương.\nCó <sprite=10><color=#fff><gradient=sv_critp>100%</gradient></color> cơ hội bắn thêm 4 mảnh đen và <color=yellow>Làm choáng</color> kẻ địch trong 1 giây."
+  },
+  "R_FlamingWhip": {
+    "name": "Roi Lửa",
+    "description": "Vung roi lửa, gây <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên kẻ địch phía trước và giảm <color=yellow>Tốc độ Di chuyển</color> của chúng trong thời gian ngắn.\n<color=yellow>Thi triển</color> một Ký Ức khác ngoài <color=yellow>Roi Lửa</color> làm mới <color=yellow>thời gian hồi chiêu</color> của roi."
+  },
+  "R_Frostbite": {
+    "name": "Tê Cóng",
+    "description": "2 <color=yellow>đòn tấn công</color> tiếp theo của bạn nhanh hơn và được cường hóa. Đòn đầu tiên gây thêm <sprite=1><color=#fff><gradient=sv_ap>50%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color> và cấp cho bạn một <color=yellow>Lá Chắn</color> <sprite=1><color=#fff><gradient=sv_ap>110%</gradient></color><sprite=5> kéo dài 2 giây. Đòn thứ hai gây thêm <sprite=1><color=#fff><gradient=sv_ap>180%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color>."
+  },
+  "R_GlacialHammer": {
+    "name": "Búa Băng Hà",
+    "description": "Đập một cây búa băng phía trước bạn, gây <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>8%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color> lên kẻ địch và kéo chúng về phía bạn. Kẻ địch bị trúng trực tiếp vào tâm búa thay vào đó chịu <sprite=1><color=#fff><gradient=sv_ap>350%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>14%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color>."
+  },
+  "R_GreatFrostSword": {
+    "name": "Đại Kiếm Băng",
+    "description": "Triệu hồi và vung một thanh đại kiếm băng, gây <sprite=1><color=#fff><gradient=sv_ap>240%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>12%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color> lên kẻ địch phía trước và đẩy lùi chúng. Nếu trúng một mục tiêu duy nhất, <color=yellow>sát thương</color> tăng 350%."
+  },
+  "R_Ignite": {
+    "name": "Đốt Cháy",
+    "description": "Gây <sprite=1><color=#fff><gradient=sv_ap>115%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên mục tiêu. Nếu mục tiêu đang bốc cháy, sát thương tăng 50% và gây <color=yellow>Sát thương vùng</color>. Số lần nạp được hồi phục hoàn toàn cùng lúc."
+  },
+  "R_Immolation": {
+    "name": "Tự Thiêu",
+    "description": "Đốt cháy cơ thể bạn, hy sinh 12% Máu hiện tại trong 3.5 giây. Trong khi bốc cháy, <color=yellow>Tốc độ Di chuyển</color> của bạn tăng 20%<sprite=5> và bạn gây <sprite=1><color=#fff><gradient=sv_ap>150%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>9%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> mỗi giây lên kẻ địch gần đó."
+  },
+  "R_Inspire": {
+    "name": "Tiếng Hô Chiến Trận",
+    "description": "<color=yellow>Cổ vũ</color> tất cả đồng minh gần đó trong 4 giây. Đồng minh được <color=yellow>Cổ vũ</color> nhận 10%<sprite=5> tăng <color=yellow>Tốc độ Đánh</color> và gây <sprite=1><color=#fff><gradient=sv_ap>13%</gradient></color><sprite=5> <color=yellow>sát thương cộng thêm</color> khi <color=yellow>tấn công</color>. Bạn nhận 200% hiệu ứng."
+  },
+  "R_LightningDance": {
+    "name": "Vũ Điệu Sấm Sét",
+    "description": "Biến hình tạm thời thành <color=yellow>tia sét</color> <color=yellow>Bất Khả Xâm Phạm</color> nảy giữa mục tiêu và kẻ địch gần đó, gây <sprite=1><color=#fff><gradient=sv_ap>120%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color>. Có thể nảy tối đa 4 lần.\n\n<color=yellow>Tấn công</color> giảm <color=yellow>thời gian hồi chiêu</color> của Ký Ức này 5%."
+  },
+  "R_NaturesWhisper": {
+    "name": "Lời Thì Thầm Của Tự Nhiên",
+    "description": "Ra lệnh cho tất cả vật triệu hồi của Nachia di chuyển đến vị trí mục tiêu hoặc tấn công kẻ địch mục tiêu. Tăng <color=yellow>Tốc độ Đánh</color> của Nachia và tất cả vật triệu hồi của cô 18%<sprite=5> trong 3 giây."
+  },
+  "R_OrbOfLight": {
+    "name": "Khối Cầu Ánh Sáng",
+    "description": "Phóng một <color=yellow>Khối Cầu Ánh Sáng</color> về phía trước, gây <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên kẻ địch. Nếu <color=yellow>Khối Cầu Ánh Sáng</color> trúng kẻ địch, một <color=yellow>Ngọn Lửa Sự Sống</color> quay trở lại, hồi phục cho đồng minh nó chạm vào <sprite=1><color=#fff><gradient=sv_ap>25%</gradient></color><sprite=5> Máu cho mỗi kẻ địch trúng đòn. Nếu trúng <color=yellow>trùm</color>, <color=yellow>lượng hồi phục</color> tăng lên <sprite=1><color=#fff><gradient=sv_ap>75%</gradient></color><sprite=5>."
+  },
+  "R_Parry": {
+    "name": "Đỡ Đòn",
+    "description": "Đỡ đòn sát thương đầu tiên từ phía trước trong 0.6 giây, gây <color=yellow>sát thương</color> lên tối đa 5<sprite=5> kẻ địch. Kẻ địch trúng đòn chịu <sprite=1><color=#fff><gradient=sv_ap>360%</gradient></color><sprite=5> <color=yellow>sát thương</color>, bị <color=yellow>làm choáng</color> và hiệu ứng <color=yellow>Kiệt Tác Của Astrid</color> được làm mới. Đỡ đòn thành công khiến bạn tạm thời <color=yellow>miễn nhiễm</color> với mọi sát thương và giảm <color=yellow>thời gian hồi chiêu</color> của <color=yellow>Đỡ Đòn</color> 50%."
+  },
+  "R_PhaseShift": {
+    "name": "Dịch Chuyển Pha",
+    "description": "Đổi vị trí với một đồng minh hoặc kẻ địch mục tiêu. Nếu mục tiêu là kẻ địch, gây <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> <color=yellow>Sát thương</color> và <color=yellow>Làm choáng</color> chúng trong chốc lát. Mục tiêu <color=yellow>Không Thể Bị Ngăn Cản</color> sẽ không bị đổi chỗ. Ngay sau đó, một <color=yellow>Sóng Xung Kích</color> bùng phát, kéo kẻ địch gần đó vào và gây <sprite=1><color=#fff><gradient=sv_ap>135%</gradient></color><sprite=5> <color=yellow>Sát thương</color>."
+  },
+  "R_PillarOfFlame": {
+    "name": "Cột Lửa",
+    "description": "Triệu hồi một cột lửa tại khu vực mục tiêu, ngay lập tức gây <sprite=1><color=#fff><gradient=sv_ap>250%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên tất cả kẻ địch trong khu vực, sau đó gây thêm <sprite=1><color=#fff><gradient=sv_ap>275%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> trong 2.4 giây."
+  },
+  "R_PrecisionShot": {
+    "name": "Phát Bắn Chính Xác",
+    "description": "<color=yellow>Giữ</color> phím thi triển để vào tư thế ngắm bắn. Sau khi ngắm, thả ra để bắn một viên đạn xuyên thấu gây <sprite=1><color=#fff><gradient=sv_ap>150%</gradient></color><sprite=5> - <sprite=1><color=#fff><gradient=sv_ap>800%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên tất cả kẻ địch trúng đòn và <color=yellow>làm choáng</color> chúng trong 0.5-2.5 giây, tùy theo thời gian bạn ngắm. Sát thương này <color=yellow>bỏ qua</color> <color=yellow>giáp</color> của mục tiêu.\nGiữ tư thế trong 1 giây để tối đa hóa tầm bắn, thời gian choáng và sát thương."
+  },
+  "R_QuickTrigger": {
+    "name": "Rút Súng Nhanh",
+    "description": "Bắn nhanh 3 phát đạn xuyên thấu gây <sprite=2><color=#fff><gradient=sv_ad>120%</gradient></color><sprite=5> sát thương lên tối đa 3 kẻ địch."
+  },
+  "R_RepulsiveShield": {
+    "name": "Khiên Đẩy Lùi",
+    "description": "Chặn sát thương từ kẻ địch phía trước trong 1.9<sprite=5> giây. Mỗi lần chặn được sát thương, gây <sprite=1><color=#fff><gradient=sv_ap>240%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên tối đa 4 kẻ địch phía trước."
+  },
+  "R_SanctuaryOfEl": {
+    "name": "Thánh Địa Của El",
+    "description": "<color=yellow>Vesper</color> <color=yellow>ban phước</color> cho mặt đất xung quanh trong 10 giây, gây <sprite=1><color=#fff><gradient=sv_ap>500%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên kẻ địch gần đó và cấp cho đồng minh một <color=yellow>Lá Chắn</color> <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> kéo dài 4 giây. Đồng minh trên mặt đất được ban phước nhận 18<sprite=5> <color=yellow>Giáp</color> và 20%<sprite=5> <color=yellow>Tốc độ Đánh</color>.\n\n<color=yellow>Vesper</color> nhận 200% hiệu ứng và trở nên <color=yellow>Không Thể Bị Ngăn Cản</color> khi chịu ảnh hưởng."
+  },
+  "R_Scattershot": {
+    "name": "Đạn Rải",
+    "description": "Bắn 5 viên đạn đen tỏa ra phía trước. Mỗi viên đạn gây <sprite=2><color=#fff><gradient=sv_ad>100%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> và kích hoạt 50% <color=yellow>Hiệu Ứng Tấn Công</color>.\nCó <sprite=10><color=#fff><gradient=sv_critp>100%</gradient></color> cơ hội bắn thêm 4 viên đạn đen."
+  },
+  "R_SerpentineBlessing": {
+    "name": "Phước Lành Của Rắn",
+    "description": "Cấp <color=yellow>Phước Lành Của Rắn</color> cho Nachia và đồng minh mục tiêu trong 12 giây. Phước lành này cấp 55<sprite=5> <color=yellow>Giáp</color> và tăng <color=yellow>Tốc độ Đánh</color> 25%<sprite=5>. Bất cứ khi nào mục tiêu được ban phước thực hiện <color=yellow>đánh thường</color>, chúng <color=yellow>hồi phục</color> 2.5%<sprite=5> <color=yellow>Máu Tối Đa</color> của chúng và mục tiêu tấn công của chúng chịu <sprite=1><color=#fff><gradient=sv_ap>100%</gradient></color><sprite=5> <color=yellow>sát thương</color> và bị <color=yellow>làm choáng</color> trong 0.5 giây.\n\nNếu mục tiêu được ban phước là <color=yellow>vật triệu hồi</color>, nó <color=yellow>hồi phục</color> 25% Máu Tối Đa của nó."
+  },
+  "R_ShadowOverdrive": {
+    "name": "Quá Tải Bóng Đêm",
+    "description": "Kênh trong 0.7 giây để tăng <color=yellow>Tốc độ Di chuyển</color> 30%<sprite=5>. Sau khi kênh, phóng 5 tên lửa tự dẫn gây <sprite=2><color=#fff><gradient=sv_ad>50%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> vào kẻ địch ngẫu nhiên gần đó và cấp cho bạn 20%<sprite=5> <color=yellow>Tốc độ Đánh</color> trong 3 giây.\nCó <sprite=10><color=#fff><gradient=sv_critp>100%</gradient></color> cơ hội bắn thêm 5 tên lửa."
+  },
+  "R_ShadowWalk": {
+    "name": "Bước Đi Bóng Đêm",
+    "description": "Lao nhanh về phía trước và bắn 3 mảnh đen vào kẻ địch gần đó. Mỗi mảnh gây <sprite=2><color=#fff><gradient=sv_ad>65%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> và kích hoạt 50% <color=yellow>hiệu ứng tấn công</color>.\nCó <sprite=10><color=#fff><gradient=sv_critp>100%</gradient></color> cơ hội tăng số lượng mảnh bắn ra thêm 3."
+  },
+  "R_Smite": {
+    "name": "Sét Đánh",
+    "description": "Sau một khoảng trễ ngắn, đánh sét xuống khu vực, gây <sprite=1><color=#fff><gradient=sv_ap>400%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên kẻ địch và <color=yellow>làm choáng</color> chúng trong 1 giây. Có 50% cơ hội đốt cháy kẻ địch."
+  },
+  "R_Somersault": {
+    "name": "Lộn Nhào",
+    "description": "Nhảy lên không trung trong 0.5 giây, né tránh đòn tấn công và trở nên <color=yellow>Bất Khả Xâm Phạm</color>. <color=yellow>Tỷ lệ Chí mạng</color> tăng 30%<sprite=5> trong 4 giây.\n\n<color=yellow>Đòn tấn công</color> giảm <color=yellow>Thời gian hồi chiêu</color> của Ký Ức này 0.3 giây."
+  },
+  "R_StaticDischarge": {
+    "name": "Phóng Tĩnh Điện",
+    "description": "<color=yellow>Giữ</color> để nạp tia sét, nhận 40<sprite=5> Giáp. Khi thả ra, kích nổ tia sét để gây <sprite=1><color=#fff><gradient=sv_ap>150%</gradient></color><sprite=5> – <sprite=1><color=#fff><gradient=sv_ap>780%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color> lên kẻ địch tùy theo thời gian nạp, đẩy lùi chúng và giảm <color=yellow>Tốc độ Di chuyển</color> của chúng 60% trong 2 giây. Lượng Giáp đã nhận biến mất 1 giây sau khi tia sét kích nổ.\n\nNạp 1 giây để tối đa hóa sát thương và vùng hiệu ứng."
+  },
+  "R_SummonLittleBaam": {
+    "name": "Tri Kỷ",
+    "description": "<color=yellow>Triệu hồi</color> một <color=yellow>Little Baam</color> đứng yên tại vị trí mục tiêu.\n\n<color=yellow>Little Baam</color> có 119 Máu và 50 Giáp, ở lại chiến trường tối đa 20 giây và tấn công kẻ địch gần đó, gây <sprite=1><color=#fff><gradient=sv_ap>85%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color>. Bạn có thể duy trì tối đa 10 Little Baam cùng lúc.\n\nTất cả <color=yellow>Số lần nạp</color> được hồi phục cùng lúc."
+  },
+  "R_Tranquility": {
+    "name": "Tĩnh Lặng",
+    "description": "<color=yellow>Yubar</color> <color=yellow>kênh</color> trong 1 giây để lấy lại sự tĩnh lặng, trở nên <color=yellow>Bất Khả Xâm Phạm</color>, tăng 40% <color=yellow>Tốc độ Di chuyển</color> và giảm <color=yellow>thời gian hồi chiêu</color> của tất cả Ký Ức khác 3.5<sprite=5> giây."
+  },
+  "R_UnbreakableDetermination": {
+    "name": "Quyết Tâm Bất Diệt",
+    "description": "Làm mới thời gian hồi chiêu của <color=yellow>Bước Chân Nhanh Nhẹn</color> và <color=yellow>Kiệt Tác Của Astrid</color>, gây <sprite=1><color=#fff><gradient=sv_ap>400%</gradient></color><sprite=5> sát thương lên kẻ địch gần đó và bước vào <color=yellow>trạng thái thức tỉnh</color> trong 12 giây.\n\nKhi <color=yellow>thức tỉnh</color>, nhận 25%<sprite=5> <color=yellow>Tốc độ Đánh</color> và mỗi <color=yellow>đòn tấn công</color> kích hoạt một vụ nổ sét, gây <sprite=1><color=#fff><gradient=sv_ap>90%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên mục tiêu và kẻ địch gần đó. Khi <color=yellow>Kiệt Tác Của Astrid</color> kích hoạt trong <color=yellow>trạng thái thức tỉnh</color>, hồi phục Máu bằng 4% lượng Máu đã mất của bạn."
+  },
+  "U_BeamOfBalance": {
+    "name": "Chùm Tia Cân Bằng",
+    "description": "Bay lên trong 8 giây, trở nên <color=yellow>Bất Khả Xâm Phạm</color>. Trong thời gian này, điều khiển một <color=yellow>Chùm Tia Cân Bằng</color> di chuyển chậm, gây <sprite=1><color=#fff><gradient=sv_ap>350%</gradient></color><sprite=5> <color=yellow>sát thương</color> mỗi giây lên kẻ địch và <color=yellow>hồi phục</color> cho đồng minh <sprite=1><color=#fff><gradient=sv_ap>150%</gradient></color><sprite=5> mỗi giây."
+  },
+  "U_Burrow": {
+    "name": "Đào Hang",
+    "description": "Chui xuống lòng đất, trở nên <color=yellow>Bất Khả Xâm Phạm</color> trong 2.5 giây và tăng <color=yellow>Tốc độ Di chuyển</color> 30%<sprite=5>. Khi ngoi lên, hất tung và <color=yellow>làm choáng</color> kẻ địch gần đó trong 1 giây và gây <sprite=1><color=#fff><gradient=sv_ap>550%</gradient></color><sprite=5> <color=yellow>sát thương</color>.\nCó thể thi triển lại để kết thúc hiệu ứng sớm."
+  },
+  "U_HerWorld": {
+    "name": "Thế Giới Của Nàng",
+    "description": "Biến thành <color=yellow>Lỗ Đen</color> trong 7 giây. Tất cả kẻ địch bị kéo về phía Lỗ Đen và kẻ địch tiếp xúc với nó chịu <sprite=1><color=#fff><gradient=sv_ap>500%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> mỗi giây. Khi kết thúc thời gian, Lỗ Đen phát nổ, gây <sprite=1><color=#fff><gradient=sv_ap>1,200%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên tất cả kẻ địch gần đó và <color=yellow>làm choáng</color> chúng trong 2.5 giây.\n\nTrong trạng thái Lỗ Đen, nhận 120<sprite=5> <color=yellow>Giáp</color> và miễn nhiễm với cái chết."
+  },
+  "U_Hysteria": {
+    "name": "Cuồng Loạn",
+    "description": "Chìm đắm trong cơn thịnh nộ dữ dội trong 6 giây, trong thời gian đó bạn không thể <color=yellow>thi triển</color> Ký Ức khác. Trong thời gian này, giải phóng những cú cào liên tục gây <sprite=2><color=#fff><gradient=sv_ad>100%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên kẻ địch và <color=yellow>hồi phục</color> Máu của bạn <sprite=2><color=#fff><gradient=sv_ad>13%</gradient></color><sprite=5>. Nếu Máu của bạn dưới 40%, lượng hồi phục tăng 150%. Kích hoạt <color=yellow>hiệu ứng tấn công</color> lên mục tiêu đầu tiên trúng đòn. Tốc độ cào nhanh hơn khi <color=yellow>Tốc độ Đánh</color> cao hơn."
+  },
+  "U_ShoutOfOblivion": {
+    "name": "Tiếng Thét Lãng Quên",
+    "description": "Trở nên <color=yellow>Bất Khả Xâm Phạm</color> trong thời gian ngắn khi kênh, sau đó giải phóng một tiếng thét mạnh mẽ về phía trước, gây <sprite=2><color=#fff><gradient=sv_ad>1,300%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên tất cả kẻ địch và <color=yellow>làm choáng</color> chúng trong 3 giây.\n\n<color=yellow>Sát thương</color> này tăng 25% cho mỗi <color=yellow>Cấp độ Đe dọa Săn đuổi</color> hiện tại."
+  },
+  "U_WorldCracker": {
+    "name": "Phá Hủy Thế Giới",
+    "description": "Kênh một chùm tia mạnh mẽ gây <sprite=1><color=#fff><gradient=sv_ap>575%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> mỗi giây lên tất cả kẻ địch nó chạm vào. Bạn không thể di chuyển trong khi kênh, nhưng có thể duy trì vô thời hạn cho đến khi hủy bỏ."
+  }
+}

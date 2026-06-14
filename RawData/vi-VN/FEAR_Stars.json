@@ -1,0 +1,1081 @@
+{
+  "Se_Star_D_AbilityPower": {
+    "name": "Màn Đêm",
+    "description": "Tăng <color=yellow>Sức Mạnh Phép Thuật</color> thêm 2<sprite=5>."
+  },
+  "Se_Star_D_AttackDamage": {
+    "name": "Tư Thế Hiếu Chiến",
+    "description": "Tăng <color=yellow>Sát Thương Vật Lý</color> thêm 2<sprite=5>."
+  },
+  "Se_Star_D_AttackSpeed": {
+    "name": "Cuồng Phong",
+    "description": "Tăng <color=yellow>Tốc Độ Đánh</color> thêm 6%<sprite=5>."
+  },
+  "Se_Star_D_BossDamageAmp": {
+    "name": "Kẻ Thách Thức Dũng Mãnh",
+    "description": "Tăng sát thương gây ra lên <color=yellow>Trùm</color> thêm 10%<sprite=5>."
+  },
+  "Se_Star_D_CritChance": {
+    "name": "Cỏ Bốn Lá",
+    "description": "Tăng <color=yellow>Tỷ Lệ Chí Mạng</color> thêm 5%<sprite=5>."
+  },
+  "Se_Star_D_CritDamage": {
+    "name": "Đòn Đánh Uy Lực",
+    "description": "Tăng <color=yellow>Sát Thương Chí Mạng</color> thêm 15%<sprite=5>."
+  },
+  "Se_Star_D_CritUpHitDecay": {
+    "name": "Tập Trung Bẩm Sinh",
+    "description": "Nhận 25%<sprite=5> <color=yellow>Tỷ Lệ Chí Mạng</color>. Nhận <color=yellow>Sát Thương</color> từ kẻ địch sẽ vĩnh viễn giảm lượng thưởng này đi 1%. Sát Thương Thiêu Đốt không kích hoạt hiệu ứng này."
+  },
+  "Se_Star_D_DamageBonusOnAllElemental": {
+    "name": "Nhà Nguyên Tố",
+    "description": "Sát thương bạn gây ra lên kẻ địch bị ảnh hưởng bởi <color=yellow>cả 4 nguyên tố</color> tăng thêm 18%<sprite=5>."
+  },
+  "Se_Star_D_DarkAmp": {
+    "name": "Tâm Trí Đồi Bại",
+    "description": "<color=yellow>Sát thương hệ Bóng Tối</color> của bạn lên kẻ địch bị lộ diện <color=yellow>Bóng Tối</color> được tăng thêm 1.5%<sprite=5> mỗi cấp chồng."
+  },
+  "Se_Star_D_FireAmp": {
+    "name": "Ngọn Lửa Đỏ Thẫm",
+    "description": "Tăng <color=yellow>sát thương Thiêu Đốt</color> thêm 30%<sprite=5>."
+  },
+  "Se_Star_D_LightAmp": {
+    "name": "Ánh Sáng Ban Ngày",
+    "description": "<color=yellow>Sát thương hệ Ánh Sáng</color> của bạn lên kẻ địch bị lộ diện <color=yellow>Ánh Sáng</color> được tăng thêm 1.5%<sprite=5> mỗi cấp chồng."
+  },
+  "Se_Star_D_LowerADScalingAP": {
+    "name": "Linh Hồn Hoa Anh Đào",
+    "description": "Mất 35% <color=yellow>Sát Thương Vật Lý</color>, nhưng nhận 1.5<sprite=5> <color=yellow>Sức Mạnh Phép Thuật</color> mỗi cấp."
+  },
+  "Se_Star_D_LowerAPScalingAD": {
+    "name": "Hóa Thú",
+    "description": "Mất 40% <color=yellow>Sức Mạnh Phép Thuật</color>, nhưng nhận 1<sprite=5> <color=yellow>Sát Thương Vật Lý</color> mỗi cấp."
+  },
+  "Se_Star_D_LowerASHigherAD": {
+    "name": "Cường Hóa Sức Mạnh",
+    "description": "Giảm 20% <color=yellow>Tốc Độ Đánh</color>. Tăng 8<sprite=5> <color=yellow>Sát Thương Vật Lý</color>."
+  },
+  "Se_Star_D_RiftFirstCastDamageUp": {
+    "name": "Biểu Ngữ Tiên Phong",
+    "description": "Mỗi khi đi qua Khe Nứt, <color=yellow>Sát thương</color> của Ký Ức đầu tiên bạn thi triển tăng thêm 90%<sprite=5>."
+  },
+  "Se_Star_D_ScalingAbilityPower": {
+    "name": "Tâm Trí Trưởng Thành",
+    "description": "Nhận 2<sprite=5> <color=yellow>Sức Mạnh Phép Thuật</color> mỗi khi đạt cấp 5, 10, 15 và 20."
+  },
+  "Se_Star_D_ScalingAttackDamage": {
+    "name": "Bản Tính Hủy Diệt",
+    "description": "Nhận 2<sprite=5> <color=yellow>Sát Thương Vật Lý</color> mỗi khi đạt cấp 5, 10, 15 và 20."
+  },
+  "Se_Star_D_ScalingAttackSpeedWithPenalty": {
+    "name": "Cơn Bão Tụ Tập",
+    "description": "<color=yellow>Tốc Độ Đánh</color> giảm 10%. <color=yellow>Tốc Độ Đánh</color> tăng 1%<sprite=5> mỗi khi bạn lên cấp."
+  },
+  "Se_Star_D_ShieldDamageAmp": {
+    "name": "Kẻ Phá Khiên Ảo",
+    "description": "Tăng sát thương lên <color=yellow>Khiên</color> thêm 20%<sprite=5>."
+  },
+  "Se_Star_D_TempAbilityPower": {
+    "name": "Ma Thuật Thức Tỉnh",
+    "description": "Nhận 14<sprite=5> <color=yellow>Sức Mạnh Phép Thuật</color> trong 3 thế giới đầu tiên."
+  },
+  "Se_Star_D_TempAttackDamage": {
+    "name": "Khát Máu Cháy Bỏng",
+    "description": "Nhận 14<sprite=5> <color=yellow>Sát Thương Vật Lý</color> trong 3 thế giới đầu tiên."
+  },
+  "Se_Star_D_UltimateChargeSpeed": {
+    "name": "Ác Ý Tối Thượng",
+    "description": "Tăng tốc độ nạp <color=yellow>Chiêu Cuối</color> thêm 20%<sprite=5>."
+  },
+  "Se_Star_I_DismantleReroll": {
+    "name": "Đổi Vận",
+    "description": "Lần đầu tiên bạn <color=yellow>Tháo Dỡ</color> một Tinh Hoa hoặc Ký Ức, nó sẽ được thay thế bằng một vật phẩm ngẫu nhiên cùng độ hiếm thay vì bị tháo dỡ. Có thể kích hoạt tối đa 1<sprite=5> lần mỗi thế giới."
+  },
+  "Se_Star_I_AdditionalChaosChance": {
+    "name": "Hỗn Mang Nguyên Thủy",
+    "description": "Khi nhận được <color=yellow>Hỗn Mang</color> làm phần thưởng, có 12%<sprite=5> cơ hội nhận thêm một Hỗn Mang."
+  },
+  "Se_Star_I_DismantleBonus": {
+    "name": "Khai Thác Hiệu Quả",
+    "description": "Tăng lượng <color=yellow>Bụi Mơ</color> nhận được từ việc <color=yellow>tháo dỡ</color> Ký Ức hoặc Tinh Hoa thêm 7%<sprite=5>."
+  },
+  "Se_Star_I_DismantleDustToBonusGold": {
+    "name": "Thay Đổi Mô Hình",
+    "description": "Nhận <color=yellow>Vàng</color> bằng 15%<sprite=5> lượng <color=yellow>Bụi Mơ</color> nhận được khi tháo dỡ Ký Ức hoặc Tinh Hoa."
+  },
+  "Se_Star_I_DreamDustOnKillChance": {
+    "name": "Tháo Dỡ và Phân Tích",
+    "description": "<color=yellow>Đánh bại</color> kẻ địch có 12%<sprite=5> cơ hội nhận 2 <color=yellow>Bụi Mơ</color>."
+  },
+  "Se_Star_I_ExtraChaosOptionGoldOnUse": {
+    "name": "Hỗn Mang Có Trật Tự",
+    "description": "Tăng thêm 1 lựa chọn <color=yellow>Hỗn Mang</color> và nhận 15<sprite=5> <color=yellow>Vàng</color> khi sử dụng Hỗn Mang."
+  },
+  "Se_Star_I_FirstBossGemDrop": {
+    "name": "Kho Báu Của Ai Đó",
+    "description": "Sau khi đánh bại <color=yellow>Trùm Anh Hùng</color> đầu tiên, bạn nhận được 1<sprite=5> Tinh Hoa Thường có chất lượng 10%."
+  },
+  "Se_Star_I_FirstGemUpgrade": {
+    "name": "May Mắn Của Người Mới",
+    "description": "Tăng <color=yellow>chất lượng của Tinh Hoa đầu tiên</color> bạn trang bị thêm 40%<sprite=5>."
+  },
+  "Se_Star_I_GemOnMiniBossKill": {
+    "name": "Chiến Lợi Phẩm Kỳ Dị",
+    "description": "Đánh bại <color=yellow>Tiểu Trùm</color> có 40%<sprite=5> cơ hội nhận một Tinh Hoa ngẫu nhiên."
+  },
+  "Se_Star_I_GoldPerCrit": {
+    "name": "Móc Túi",
+    "description": "Nhận 0.7<sprite=5> Vàng khi <color=yellow>Đòn Chí Mạng</color> đầu tiên trúng mỗi kẻ địch."
+  },
+  "Se_Star_I_GoldRiskAndReturn": {
+    "name": "Túi Thủy Tinh",
+    "description": "Tăng Vàng nhận được khi hạ gục thêm 15%<sprite=5>, nhưng bạn mất 2% Vàng khi nhận sát thương từ kẻ địch."
+  },
+  "Se_Star_I_KillGoldBonus": {
+    "name": "Tích Lũy Của Cải",
+    "description": "Tăng lượng <color=yellow>Vàng</color> nhận được từ việc <color=yellow>đánh bại</color> kẻ địch thêm 4%<sprite=5>."
+  },
+  "Se_Star_I_MawDiscountAndProtection": {
+    "name": "Mồm Miệng Sạch Bong",
+    "description": "Giảm chi phí của <color=yellow>Hàm Tử Thần</color> thêm 20%<sprite=5>. Hàm Tử Thần không còn phá hủy vật phẩm nó tiêu thụ nữa, thay vào đó sẽ thiết lập lại cấp độ hoặc chất lượng của chúng."
+  },
+  "Se_Star_I_MoreShopItems": {
+    "name": "Bùa Quái Vật",
+    "description": "Có 50%<sprite=5> cơ hội <color=yellow>Jonas</color> chào bán thêm 2 vật phẩm."
+  },
+  "Se_Star_I_MoreShrineItems": {
+    "name": "Mở Rộng Giới Hạn",
+    "description": "<color=yellow>Tàn Tích Hồi Tưởng</color> và <color=yellow>Tàn Tích Giác Ngộ</color> có 50%<sprite=5> cơ hội đưa ra thêm một lựa chọn."
+  },
+  "Se_Star_I_ShopDiscount": {
+    "name": "Nhà Đàm Phán Sắc Sảo",
+    "description": "<color=yellow>Giá Vàng</color> của vật phẩm do Jonas bán được giảm 10%<sprite=5>."
+  },
+  "Se_Star_I_ShopRefreshToken": {
+    "name": "Chợ Đen",
+    "description": "Nhận 1<sprite=5> <color=yellow>Xu Bạch Kim</color> khi bắt đầu cuộc phiêu lưu và mỗi khi chuyển sang thế giới mới, tối đa 3. Dùng xu này để làm mới kho đồ của Jonas."
+  },
+  "Se_Star_I_StartGold": {
+    "name": "Vốn Ban Đầu",
+    "description": "Nhận 50<sprite=5> <color=yellow>Vàng</color> khi bắt đầu cuộc phiêu lưu."
+  },
+  "Se_Star_I_StartSkill": {
+    "name": "Ký Ức Giao Thoa",
+    "description": "Nhận một <color=yellow>Ký Ức</color> cấp 1<sprite=5> <color=yellow>ngẫu nhiên</color> khi bắt đầu cuộc phiêu lưu."
+  },
+  "Se_Star_L_Armor": {
+    "name": "Da Đá",
+    "description": "Tăng <color=yellow>Giáp</color> thêm 5<sprite=5>."
+  },
+  "Se_Star_L_ArmorOnTravel": {
+    "name": "Áo Giáp Rách Rưới",
+    "description": "Nhận 2.5<sprite=5> <color=yellow>Giáp</color> mỗi khi bước vào thế giới mới."
+  },
+  "Se_Star_L_DamageReductionFromChilled": {
+    "name": "Ái Lực Hàn Băng",
+    "description": "<color=yellow>Sát thương phải chịu</color> từ kẻ địch bị trạng thái <color=yellow>Giá Lạnh</color> giảm 25%<sprite=5>."
+  },
+  "Se_Star_L_DodgeCooldown": {
+    "name": "Phát Hiện Mối Đe Dọa",
+    "description": "Giảm thời gian hồi chiêu của <color=yellow>Né Tránh</color> thêm 10%<sprite=5>."
+  },
+  "Se_Star_L_DodgeCooldownOnLowHealth": {
+    "name": "Di Chuyển Bản Năng",
+    "description": "Khi Máu dưới 50%, thời gian hồi chiêu của <color=yellow>Né Tránh</color> giảm thêm 20%<sprite=5>."
+  },
+  "Se_Star_L_ElementalResistance": {
+    "name": "Kháng Nguyên Tố",
+    "description": "Giảm thời gian duy trì của các <color=yellow>hiệu ứng nguyên tố</color> trên bạn thêm 40%<sprite=5>. Đối với <color=yellow>Thiêu Đốt</color>, sát thương được giảm thay vào đó."
+  },
+  "Se_Star_L_FatalHitProtection": {
+    "name": "Hơi Thở Thứ Hai",
+    "description": "Khi bạn nhận <color=yellow>sát thương chí mạng</color>, bạn bỏ qua sát thương đó và trở nên <color=yellow>Bất Khả Xâm Phạm</color> trong 1<sprite=5> giây. Hiệu ứng này chỉ xảy ra một lần mỗi trận."
+  },
+  "Se_Star_L_GuidanceShrineDiscount": {
+    "name": "Tình Yêu Vô Điều Kiện",
+    "description": "Giảm chi phí của <color=yellow>Đền Chỉ Dẫn</color> thêm 25%<sprite=5>."
+  },
+  "Se_Star_L_HealOnAttack": {
+    "name": "Sinh Lực Tai Ương",
+    "description": "<color=yellow>Đánh Thường</color> hồi phục 0.40%<sprite=5> Máu Tối Đa khi trúng đòn. Lượng hồi phục này tăng 150% khi đòn chí mạng."
+  },
+  "Se_Star_L_HealOnKill": {
+    "name": "Sơ Cứu Chiến Trường",
+    "description": "Hồi phục 1.00%<sprite=5> Máu Tối Đa mỗi khi bạn <color=yellow>hạ gục</color> kẻ địch."
+  },
+  "Se_Star_L_IgnoreDelusion": {
+    "name": "Mỏ Neo Với Thực Tại",
+    "description": "Bỏ qua một hiệu ứng <color=yellow>Ảo Tưởng</color> mỗi 15<sprite=5> giây."
+  },
+  "Se_Star_L_IncreaseMaxHealthByGuidance": {
+    "name": "Phước Lành Vô Biên Của Đấng Dẫn Đối",
+    "description": "Kích hoạt Đền Chỉ Dẫn tăng <color=yellow>Máu Tối Đa</color> thêm 20<sprite=5>. Kích hoạt Đền Chỉ Dẫn Được Ban Phước tăng thêm 50<sprite=5>."
+  },
+  "Se_Star_L_MaxHealth": {
+    "name": "Kiên Trì Được Truyền Sức Mạnh",
+    "description": "Tăng <color=yellow>Máu Tối Đa</color> thêm 60<sprite=5>."
+  },
+  "Se_Star_L_MaxHealthUpHealDown": {
+    "name": "Da Dày",
+    "description": "Tăng <color=yellow>Máu Tối Đa</color> thêm 15%<sprite=5>. Giảm 50% <color=yellow>Lượng Hồi Phục Nhận Vào</color>."
+  },
+  "Se_Star_L_PeriodicScalingArmor": {
+    "name": "Vảy Lớp",
+    "description": "Nhận 7<sprite=5> <color=yellow>Giáp</color> cho mỗi 3 thế giới đã ghé qua."
+  },
+  "Se_Star_L_PostHitDamageImmune": {
+    "name": "Búp Bê Nhút Nhát",
+    "description": "Nhận <color=yellow>Miễn Nhiễm Sát Thương</color> trong 1 giây sau khi nhận <color=yellow>Sát Thương</color>. Kích hoạt một lần mỗi 14<sprite=5> giây."
+  },
+  "Se_Star_L_PotionChance": {
+    "name": "Asclepius",
+    "description": "Tăng cơ hội xuất hiện <color=yellow>Bình Máu</color> thêm 25%<sprite=5>."
+  },
+  "Se_Star_L_PotionHealAmount": {
+    "name": "Hỗn Hợp Đáng Ngờ",
+    "description": "Tăng lượng hồi phục của <color=yellow>Bình Máu</color> thêm 55%<sprite=5>."
+  },
+  "Se_Star_L_PotionOnBuyOrSell": {
+    "name": "Quà Miễn Phí Khiêm Tốn",
+    "description": "Nhận một <color=yellow>Bình Máu</color> khi bạn mua hoặc bán vật phẩm ở cửa hàng. Có thể kích hoạt tối đa 1<sprite=5> lần mỗi thương nhân."
+  },
+  "Se_Star_L_ReceivedHealingAndShieldBonus": {
+    "name": "Da Tái Tạo",
+    "description": "Tăng lượng <color=yellow>Hồi Phục</color> và <color=yellow>Khiên</color> nhận được thêm 12%<sprite=5>."
+  },
+  "Se_Star_L_ScalingMaxHealth": {
+    "name": "Tôi Luyện Thép",
+    "description": "Tăng <color=yellow>Máu Tối Đa</color> thêm 15<sprite=5> mỗi khi bạn lên cấp."
+  },
+  "Se_Star_L_TempArmor": {
+    "name": "Tự Tin Vô Căn Cứ",
+    "description": "Nhận 7<sprite=5> <color=yellow>Giáp</color> trong 2 thế giới đầu tiên."
+  },
+  "Se_Star_Aurena_D_AbilityPower": {
+    "name": "Đưa Ra Kết Luận",
+    "description": "Tăng <color=yellow>Sức Mạnh Phép Thuật</color> thêm 3<sprite=5>."
+  },
+  "Se_Star_Aurena_D_AtkSpd": {
+    "name": "Hình Thành Giả Thuyết",
+    "description": "Tăng <color=yellow>Tốc Độ Đánh</color> thêm 5%<sprite=5>."
+  },
+  "Se_Star_Aurena_D_AttackDamage": {
+    "name": "Thí Nghiệm và Kiểm Chứng",
+    "lore": "Thí nghiệm và kiểm chứng phải luôn được tiến hành kỹ lưỡng. Nỗi đau hay tính mạng của đối tượng thí nghiệm chỉ là những cân nhắc thứ yếu đối với cô ấy.",
+    "description": "Tăng <color=yellow>Sát Thương Vật Lý</color> thêm 3<sprite=5>."
+  },
+  "Se_Star_Aurena_D_BonusStatOnLowHp": {
+    "name": "Hiệu Ứng Cộng Hưởng",
+    "description": "Khi Máu của bạn dưới 50%, <color=yellow>Sát Thương Vật Lý</color> và <color=yellow>Sức Mạnh Phép Thuật</color> của bạn tăng thêm 8%<sprite=5>."
+  },
+  "Se_Star_Aurena_F_CR_EarnGold": {
+    "name": "Giả Kim Bậc Thầy",
+    "description": "<color=yellow>Phản Ứng Dây Chuyền</color> kiếm được 2 Vàng mỗi giây cho mỗi kẻ địch bên trong phù hiệu."
+  },
+  "Se_Star_Aurena_F_CR_GlobalHeal": {
+    "name": "Tâm Trí Vàng",
+    "description": "<color=yellow>Phản Ứng Dây Chuyền</color> áp dụng 70% lượng hồi phục lên Nhà Du Hành ngay cả khi họ không ở bên trong phù hiệu."
+  },
+  "Se_Star_Aurena_F_CR_NoHealCooldownReduction": {
+    "name": "Ngọn Gió Vàng",
+    "description": "<color=yellow>Phản Ứng Dây Chuyền</color> không còn hồi phục nữa, nhưng thời gian hồi chiêu của nó giảm 15% mỗi khi kẻ địch chết bởi phù hiệu."
+  },
+  "Se_Star_Aurena_F_DT_LowerThresholdBiggerHeals": {
+    "name": "Lý Thuyết Cực Kỳ Nguy Hiểm",
+    "lore": "Hội đồng đạo đức của Hội Mặt Trăng đã xem xét luận án của cô ấy và nhất trí đưa ra hai kết luận. Thứ nhất, cô ấy nên bị trục xuất ngay lập tức. Thứ hai, tất cả các thành viên hội đồng tham gia đánh giá này sẽ được nghỉ phép có lương một tuần.",
+    "description": "Ngưỡng Máu để thi triển mạnh mẽ <color=yellow>Lý Thuyết Nguy Hiểm</color> giảm xuống 40%, nhưng lượng hồi phục tăng thêm 40%."
+  },
+  "Se_Star_Aurena_F_DT_TwiceWithPenalty": {
+    "name": "Nghiên Cứu Theo Dõi",
+    "description": "Thời gian hồi chiêu của <color=yellow>Lý Thuyết Nguy Hiểm</color> tăng 1 giây và nó chỉ có thể được sử dụng dưới dạng thi triển mạnh mẽ, nhưng nó cường hóa 2 đòn đánh cơ bản."
+  },
+  "Se_Star_Aurena_F_DT_UnstoppableAndRemoveDelusion": {
+    "name": "Thiên Tài Vô Song",
+    "lore": "Giờ đây cô ấy hiểu hoàn toàn về ảo tưởng, từ nguyên lý cơ bản đến cách chúng vận hành.",
+    "description": "Khi bạn thi triển <color=yellow>Lý Thuyết Nguy Hiểm</color>, trở nên Không Thể Bị Ngăn Cản trong 1.5 giây và loại bỏ các hiệu ứng Ảo Tưởng."
+  },
+  "Se_Star_Aurena_F_GB_LessDamageLessSacrifice": {
+    "name": "Tháo Dỡ Lỏng Lẻo",
+    "description": "Sát thương của <color=yellow>Vụ Nổ Vàng</color> giảm 40%, nhưng Máu hy sinh cũng giảm 30%."
+  },
+  "Se_Star_Aurena_F_GB_NoSacrificeAfterDodge": {
+    "name": "Tháo Dỡ, Phân Giải, Thấu Hiểu",
+    "description": "Nếu bạn thi triển <color=yellow>Vụ Nổ Vàng</color> trong vòng 3 giây sau khi sử dụng Né Tránh, sẽ không hy sinh Máu nào. Hiệu ứng này chỉ áp dụng trong chiến đấu."
+  },
+  "Se_Star_Aurena_F_GB_NoWitherNoSacrifice": {
+    "name": "Mối Liên Kết Bền Chặt",
+    "description": "Nếu bạn thi triển <color=yellow>Vụ Nổ Vàng</color> mà không có cấp chồng Héo Mòn nào, sẽ không hy sinh Máu nào. Hiệu ứng này chỉ áp dụng trong chiến đấu."
+  },
+  "Se_Star_Aurena_F_RE_AtkEffect": {
+    "name": "Mảnh Vụn Sắc Bén",
+    "description": "Mỗi Mảnh Vàng từ <color=yellow>Giảm Giá</color> kích hoạt hiệu ứng tấn công lên kẻ địch đầu tiên trúng phải."
+  },
+  "Se_Star_Aurena_F_RE_CooldownButNoHeal": {
+    "name": "Chuyển Hóa",
+    "description": "<color=yellow>Giảm Giá</color> không còn hồi phục Máu nữa, nhưng thời gian hồi chiêu của nó giảm 70%."
+  },
+  "Se_Star_Aurena_F_RE_MoreProjMoreSacrifice": {
+    "name": "Lực Lượng Tháo Dỡ Gia Cường",
+    "description": "<color=yellow>Giảm Giá</color> bắn thêm 1 Mảnh Vàng, nhưng lượng Máu hy sinh tăng lên 15%."
+  },
+  "Se_Star_Aurena_I_BonusFromStones": {
+    "name": "Phân Tích Thành Phần",
+    "description": "Tăng tài nguyên nhận được từ <color=yellow>Mảnh Vàng</color> và <color=yellow>Mảnh Bụi Mơ</color> thêm 40%<sprite=5>."
+  },
+  "Se_Star_Aurena_I_GoldEveryZone": {
+    "name": "Cặp Sừng Vàng Lấp Lánh",
+    "lore": "Với giấy nhám, vải và thời gian, bạn luôn có thể kiếm được một ít Vàng.",
+    "description": "Nhận 60<sprite=5> <color=yellow>Vàng</color> mỗi khi bước vào thế giới mới."
+  },
+  "Se_Star_Aurena_I_GoldOnMerchantDamage": {
+    "name": "Thí Nghiệm Vui Vẻ",
+    "lore": "Bản thân Aurena dường như cũng không thấy có gì sai với điều này.",
+    "description": "Nhận 4 Vàng mỗi khi bạn gây sát thương lên <color=yellow>Jonas</color>, tối đa 40<sprite=5> Vàng."
+  },
+  "Se_Star_Aurena_I_PotionGold": {
+    "name": "Trao Đổi Tương Đương",
+    "description": "Nhận 10<sprite=5> Vàng mỗi khi bạn nhận được <color=yellow>Bình Máu</color>."
+  },
+  "Se_Star_Aurena_I_RevealWorld": {
+    "name": "Siêu Giác Quan Anguillian",
+    "description": "Khi bước vào thế giới, <color=yellow>tiết lộ</color> 3<sprite=5> địa điểm ngẫu nhiên."
+  },
+  "Se_Star_Aurena_L_Armor": {
+    "name": "Bộ Lông Đẹp",
+    "description": "Tăng <color=yellow>Giáp</color> thêm 3<sprite=5>."
+  },
+  "Se_Star_Aurena_L_ArmorOnLowHp": {
+    "name": "Dầu Lông Vũ",
+    "description": "Tăng <color=yellow>Giáp</color> thêm 30<sprite=5> khi Máu của bạn dưới 40%."
+  },
+  "Se_Star_Aurena_L_HealAmpOnLowHp": {
+    "name": "Tự Thực Bào",
+    "description": "Tăng <color=yellow>lượng hồi phục</color> cho và nhận thêm 15%<sprite=5> khi Máu của bạn dưới 50%."
+  },
+  "Se_Star_Aurena_L_HealAmpWithPenalty": {
+    "name": "Giả Thuyết Thực Nghiệm",
+    "description": "Tăng sát thương nhận từ kẻ địch thêm 20%, nhưng tăng lượng hồi phục cho và nhận thêm 15%<sprite=5>."
+  },
+  "Se_Star_Aurena_L_ShareHeal": {
+    "name": "Sinh Mệnh Luân Chuyển",
+    "description": "Khi bạn hồi phục Máu, <color=yellow>hồi phục</color> cho một đồng đội khác không phải bạn có Máu thấp nhất gần đó với 20%<sprite=5> lượng đã hồi phục."
+  },
+  "Se_Star_Aurena_L_SpeedOnDamage": {
+    "name": "Sự Nhanh Nhẹn Như Lươn",
+    "lore": "Những chuyển động thanh lịch và uyển chuyển, không giống một học giả, là một trong những đặc điểm thể chất của người Anguillian.",
+    "description": "Khi bạn nhận sát thương, <color=yellow>Tốc Độ Di Chuyển</color> của bạn tăng thêm 10%<sprite=5> trong 2 giây."
+  },
+  "Se_Star_Bismuth_D_AtkSpd": {
+    "name": "Đọc Tốc Độ",
+    "description": "Tăng <color=yellow>Tốc Độ Đánh</color> thêm 9%<sprite=5>."
+  },
+  "Se_Star_Bismuth_D_AtkSpdFromDismantle": {
+    "name": "Giác Ngộ",
+    "description": "Mỗi khi bạn <color=yellow>tháo dỡ</color> một Ký Ức hoặc Tinh Hoa, Tốc Độ Đánh của bạn tăng vĩnh viễn thêm 3%<sprite=5>, nhưng Bụi Mơ nhận được giảm 35%. Lượng Tốc Độ Đánh tăng thay đổi theo độ hiếm: <color=#e6efff>70%</color>, <color=#8af5ff>100%</color>, <color=#c478ff>150%</color>, <color=#ff6969>300%</color>.\nNếu Bismuth không có nhiều bản sao của cùng một Ký Ức Nhà Du Hành, lượng Tốc Độ Đánh nhận được tăng thêm 50%."
+  },
+  "Se_Star_Bismuth_D_BonusAttackEffect": {
+    "name": "Mũi Tên Của Tâm Trí",
+    "description": "Máu Tối Đa của bạn giảm 15%, nhưng đổi lại, đánh thường của bạn có 25%<sprite=5> cơ hội bắn thêm một mũi tên kích hoạt <color=yellow>Hiệu Ứng Tấn Công</color>.\nNếu Bismuth không có nhiều bản sao của cùng một Ký Ức Nhà Du Hành, Máu Tối Đa không bị giảm."
+  },
+  "Se_Star_Bismuth_D_Conquerer": {
+    "name": "Hòa Hợp Tinh Thần",
+    "description": "Nhận 1 cấp chồng <color=yellow>Hòa Hợp</color> với mỗi đòn đánh thường, tối đa 8 cấp chồng. Mỗi cấp chồng tăng Sát Thương Vật Lý và Sức Mạnh Phép Thuật của bạn thêm 0.5<sprite=5>. Mất tất cả cấp chồng khi bạn nhận sát thương từ kẻ địch."
+  },
+  "Se_Star_Bismuth_D_SkillHasteAndAutoCast": {
+    "name": "Câu Chuyện Tự Viết",
+    "lore": "Đôi khi, câu chuyện trở nên thú vị đến nỗi nó tự động lật sang trang tiếp theo. Cô gái chỉ cần ngồi lại và xem những câu chuyện tuyệt vời mà cuốn sách viết nên.",
+    "description": "Tăng <color=yellow>Tốc Độ Hồi Ký Ức</color> thêm 8<sprite=5> và hầu hết các Ký Ức sẽ được <color=yellow>tự động thi triển</color> trong chiến đấu."
+  },
+  "Se_Star_Bismuth_F_DM_BonusOnFullCharge": {
+    "name": "Quá Tải",
+    "description": "Tăng thời gian hồi chiêu của <color=yellow>Tâm Trí Méo Mó</color> thêm 1.5 giây, nhưng bắn khi nạp đầy sẽ tăng số lượng mũi tên lên 3."
+  },
+  "Se_Star_Bismuth_F_DM_MoreShootNoMove": {
+    "name": "Pháo Kích",
+    "description": "Tăng số lượng mũi tên tối đa của <color=yellow>Tâm Trí Méo Mó</color> thêm 4, nhưng bạn không thể di chuyển trong khi nạp."
+  },
+  "Se_Star_Bismuth_F_DM_NonFullChargeCooldown": {
+    "name": "Ứng Biến",
+    "description": "Khi bạn thả <color=yellow>Tâm Trí Méo Mó</color> mà không nạp đầy, thời gian hồi chiêu của nó giảm 40%."
+  },
+  "Se_Star_Bismuth_F_IN_Elementals": {
+    "name": "Chủ Đề Đa Dạng",
+    "description": "Mỗi tên lửa linh hồn từ <color=yellow>Linh Hồn Thuần Khiết</color> nhận một hiệu ứng nguyên tố ngẫu nhiên."
+  },
+  "Se_Star_Bismuth_F_IN_LessCooldownLessMissiles": {
+    "name": "Giảm Điện Áp",
+    "description": "Số lượng tên lửa linh hồn của <color=yellow>Linh Hồn Thuần Khiết</color> giảm 2, nhưng thời gian hồi chiêu của nó giảm 50%."
+  },
+  "Se_Star_Bismuth_F_IN_MoreProjByAtkSpd": {
+    "name": "Hãy Chào Hỏi Những Người Bạn Nhỏ Của Tôi!",
+    "lore": "Cô gái quyết định chia trái tim sáng chói của mình thành nhiều mảnh hơn để làm quà. Sau đó mọi người đều lấy lại được trái tim nhân hậu và lặng lẽ chìm vào giấc ngủ!",
+    "description": "Thời gian hồi chiêu của <color=yellow>Linh Hồn Thuần Khiết</color> tăng 2 giây, nhưng số lượng tên lửa linh hồn cũng tăng theo số đòn đánh mỗi giây của bạn.\nNếu Bismuth không có nhiều bản sao của cùng một Ký Ức Nhà Du Hành, thời gian hồi chiêu không bị tăng."
+  },
+  "Se_Star_Bismuth_F_IT_AddedDurationOnHit": {
+    "name": "Nỗi Đau Kéo Dài",
+    "description": "Thời gian hồi chiêu của <color=yellow>Câu Chuyện Địa Ngục Lửa</color> tăng 1 giây, nhưng mỗi khi nó trúng kẻ địch, thời gian duy trì của nó tăng 0.2 giây, tối đa 2 giây."
+  },
+  "Se_Star_Bismuth_F_IT_InnerDamage": {
+    "name": "Lò Rèn",
+    "description": "Sát thương của <color=yellow>Câu Chuyện Địa Ngục Lửa</color> giảm 40% nhưng giờ đây cũng gây sát thương lên kẻ địch bên trong vòng tròn."
+  },
+  "Se_Star_Bismuth_F_IT_SmallerRingMoreDamage": {
+    "name": "Gần Gũi và Cá Nhân",
+    "description": "Bán kính vòng tròn của <color=yellow>Câu Chuyện Địa Ngục Lửa</color> giảm 35% nhưng sát thương của nó tăng 35%."
+  },
+  "Se_Star_Bismuth_F_VH_FullCharge": {
+    "name": "Không Còn Sợ Hãi",
+    "lore": "Giờ đây, cho dù có bao nhiêu kẻ xấu xuất hiện cũng không sao. Đôi tay cô gái sẽ luôn tràn đầy dũng khí để đánh bại chúng!",
+    "description": "Lượng nạp của <color=yellow>Trái Tim Dũng Cảm</color> giờ đây được phục hồi hoàn toàn cùng một lúc."
+  },
+  "Se_Star_Bismuth_F_VH_ResetOnDodge": {
+    "name": "Quyết Định Nhanh Chóng",
+    "description": "Sử dụng <color=yellow>Bước Chạy Méo Mó</color> làm mới thời gian hồi chiêu của <color=yellow>Trái Tim Dũng Cảm</color>, nhưng nó chỉ trúng tối đa 2 kẻ địch."
+  },
+  "Se_Star_Bismuth_F_VH_Shield": {
+    "name": "Trái Tim Kiên Định",
+    "description": "Thời gian hồi chiêu của <color=yellow>Trái Tim Dũng Cảm</color> tăng 1 giây, nhưng bạn nhận một Lá Chắn bằng 30% sát thương gây ra, kéo dài 2.5 giây.\nNếu Bismuth không có nhiều bản sao của cùng một Ký Ức Nhà Du Hành, lượng Lá Chắn nhận được tăng thêm 100%."
+  },
+  "Se_Star_Bismuth_I_DismantleMemoryDreamDust": {
+    "name": "Nguyên Liệu Tốt",
+    "description": "Tăng lượng Bụi Mơ nhận được khi <color=yellow>tháo dỡ</color> <color=yellow>Ký Ức</color> thêm 20%<sprite=5>."
+  },
+  "Se_Star_Bismuth_I_KnowledgeBook": {
+    "name": "Sách Tri Thức",
+    "description": "Nhận 1-4 <color=yellow>Sách Tri Thức</color> cho mỗi trùm bạn đánh bại. Mỗi cuốn sách cấp một chỉ số ngẫu nhiên tương đương 15%<sprite=5> Hỗn Mang cấp Thường.\nNếu Bismuth không có nhiều bản sao của cùng một Ký Ức Nhà Du Hành, lượng chỉ số nhận được tăng thêm 50%."
+  },
+  "Se_Star_Bismuth_I_RevealWorld": {
+    "name": "Con Mắt Tâm Trí",
+    "lore": "Khi cô gái nhìn thế giới qua cuốn sách của mình, những ngôi nhà bánh gừng đang chờ đợi cuộc phiêu lưu tiếp theo sẽ xuất hiện ở những nơi trước đây trống rỗng.",
+    "description": "Khi bước vào thế giới, <color=yellow>tiết lộ</color> 2<sprite=5> địa điểm ngẫu nhiên."
+  },
+  "Se_Star_Bismuth_I_SecretJournal": {
+    "name": "Nhật Ký Bí Mật",
+    "description": "Bắt đầu cuộc phiêu lưu của bạn với Tinh Hoa <color=yellow>Câu Chuyện Của Chúng Ta</color>. Chất lượng của nó tăng 50% mỗi khi bạn đánh bại 75 kẻ địch và hoàn thành khi chất lượng đạt 500%. Khi hoàn thành, Tinh Hoa này tăng Sức Mạnh Phép Thuật và Sát Thương Vật Lý của Bismuth thêm 10%<sprite=5>, và tăng cường tất cả hiệu ứng buff từ Bước Chạy Méo Mó thêm 30%<sprite=5>."
+  },
+  "Se_Star_Bismuth_I_ShopDiscount": {
+    "name": "Tôi Đáng Yêu",
+    "description": "<color=yellow>Giá Vàng</color> của vật phẩm do Jonas bán được giảm 5%<sprite=5>."
+  },
+  "Se_Star_Bismuth_I_TreasureWithHealthPenalty": {
+    "name": "Kim Loại Đẹp",
+    "description": "Bắt đầu cuộc phiêu lưu với Tinh Hoa <color=yellow>Pha Lê Kim Loại</color>. Bạn có thể bán Tinh Hoa này cho Thương Nhân với giá 200<sprite=5> Vàng, hoặc tháo dỡ nó để lấy 120<sprite=5> Bụi Mơ. Tuy nhiên, việc mất mảnh vỡ này sẽ giảm Máu Tối Đa của bạn đi 15%."
+  },
+  "Se_Star_Bismuth_L_ContinuousSpeed": {
+    "name": "Bước Chân Nhẹ Nhàng",
+    "lore": "Lo lắng về đôi chân trần nhỏ bé của cô gái? Đừng. Cô ấy không bước đi trên mặt đất gồ ghề—cô ấy đang nhảy nhót vui vẻ trên những đám mây bông trong hành trình của mình!",
+    "description": "Trong khi di chuyển, <color=yellow>Tốc Độ Di Chuyển</color> tăng dần trong 5 giây, tối đa 10%<sprite=5>. Phần thưởng này biến mất khi bạn ngừng di chuyển.\nNếu Bismuth không có bản sao của cùng một Ký Ức Nhà Du Hành, phần thưởng Tốc Độ Di Chuyển tăng thêm 30%."
+  },
+  "Se_Star_Bismuth_L_DodgeNoDashMoreCharges": {
+    "name": "Thay Đổi Cách Nghĩ",
+    "description": "<color=yellow>Bước Chạy Méo Mó</color> không còn lao nữa, nhưng nhận thêm 1<sprite=5> số lần nạp tối đa."
+  },
+  "Se_Star_Bismuth_L_SecondWindWithPenalty": {
+    "name": "Hai Linh Hồn",
+    "description": "Khi bạn nhận <color=yellow>sát thương chí mạng</color>, bạn bỏ qua sát thương đó và trở nên <color=yellow>Bất Khả Xâm Phạm</color> trong 1<sprite=5> giây. Tuy nhiên, một Ký Ức ngẫu nhiên bị phá hủy, và Ký Ức Danh Tính cũng có thể bị phá hủy. Hiệu ứng này chỉ xảy ra một lần mỗi trận."
+  },
+  "Se_Star_Husk_D_AttackDamage": {
+    "name": "Mục Đích Của Sự Tồn Tại Của Tôi",
+    "description": "Tăng <color=yellow>Sát Thương Vật Lý</color> thêm 4<sprite=5>."
+  },
+  "Se_Star_Husk_D_CritAmp": {
+    "name": "Điệu Nhảy Tử Thần",
+    "description": "Tăng <color=yellow>Sát Thương Chí Mạng</color> thêm 15%<sprite=5>."
+  },
+  "Se_Star_Husk_D_DamageAmpOnLowHpTarget": {
+    "name": "Tàn Nhẫn",
+    "lore": "Đối với một kẻ vô cảm, việc tỏ ra khoan dung với kẻ thù chẳng khác gì sự kém hiệu quả đến mức đáng thương.",
+    "description": "Tất cả sát thương gây ra lên kẻ địch có Máu dưới 35% tăng thêm 15%<sprite=5>."
+  },
+  "Se_Star_Husk_D_DamageOverTimeCritWithPenalty": {
+    "name": "Bỏ Mặc Sự Sống",
+    "description": "Giảm 30% lượng hồi phục nhận được, nhưng khi <color=yellow>Đòn Chí Mạng</color> trúng, nó gây thêm sát thương bằng 15%<sprite=5> sát thương đó trong 2 giây."
+  },
+  "Se_Star_Husk_D_DarkAttackWithPenalty": {
+    "name": "Dầu Linh Hồn",
+    "description": "Máu Tối Đa của bạn giảm 15%, nhưng <color=yellow>Tốc Độ Đánh</color> của bạn tăng 8%<sprite=5> và đánh thường của bạn gây <color=yellow>sát thương hệ Bóng Tối</color>."
+  },
+  "Se_Star_Husk_D_MovementSkillHaste": {
+    "name": "Gia Tốc Linh Hồn",
+    "description": "<color=yellow>Thời gian Hồi Chiêu</color> của tất cả Ký Ức Lao và Dịch Chuyển giảm 10%<sprite=5>."
+  },
+  "Se_Star_Husk_D_ScalingAdAndAtkSpd": {
+    "name": "Nhận Thức, Học Hỏi, Thích Nghi",
+    "description": "Nhận 1.5<sprite=5> <color=yellow>Sát Thương Vật Lý</color> và 3%<sprite=5> <color=yellow>Tốc Độ Đánh</color> mỗi khi đạt cấp 5, 10, 15 và 20."
+  },
+  "Se_Star_Husk_F_AS_AddedDurationOnHit": {
+    "name": "Khát Máu Dây Chuyền",
+    "description": "Trong <color=yellow>Tư Thế Hủy Diệt</color>, mỗi khi đòn đánh thường hoặc Năng Lượng Kiếm của bạn trúng kẻ địch, thời gian duy trì của nó tăng thêm 0.2 giây."
+  },
+  "Se_Star_Husk_F_AS_NonUltimate": {
+    "name": "Điên Cuồng Có Kiểm Soát",
+    "lore": "Sau khi trở thành một cái xác rỗng không còn linh hồn, hắn còn có thể kiểm soát bản thân một cách hoàn hảo hơn.",
+    "description": "<color=yellow>Tư Thế Hủy Diệt</color> trở thành kỹ năng thông thường với thời gian hồi 14 giây, cho phép bạn sử dụng các Ký Ức khác khi nó đang hoạt động. Sát thương Năng Lượng Kiếm và lượng thưởng Sát Thương Vật Lý của nó giảm 50%, nó kéo dài 4 giây và không còn tăng Tốc Độ Hồi Ký Ức và Số Lần Nạp Tối Đa cho kỹ năng Né Tránh của bạn nữa."
+  },
+  "Se_Star_Husk_F_AS_NoShockwaveFasterAttack": {
+    "name": "Vũ Điệu Kiếm Điên Cuồng",
+    "description": "Giảm sát thương <color=yellow>Năng Lượng Kiếm</color> của <color=yellow>Tư Thế Hủy Diệt</color> đi 60% và tầm đánh của nó đi 80%, nhưng tăng Tốc Độ Đánh được cấp và <color=yellow>Tốc Độ Hồi Ký Ức</color> cho kỹ năng Né Tránh thêm 100%."
+  },
+  "Se_Star_Husk_F_LA_DodgeResetOnRed": {
+    "name": "Dòng Chảy Năng Lượng",
+    "lore": "Hắn đầu hàng trước dòng chảy và bước đi—hoàn hảo và vô cảm.",
+    "description": "Thời gian hồi chiêu của <color=yellow>Vết Cắt</color> tăng 1 giây, nhưng thi triển Hình Thái Đỏ làm mới thời gian hồi chiêu của Bước Chớp Nhoáng."
+  },
+  "Se_Star_Husk_F_LA_QuickBlueForm": {
+    "name": "Rút Nhanh",
+    "description": "Thời gian hồi chiêu của <color=yellow>Vết Cắt</color> giảm 30% và thời gian thi triển Hình Thái Xanh giảm 40%, nhưng nó không còn cấp trạng thái Bất Khả Xâm Phạm nữa."
+  },
+  "Se_Star_Husk_F_LA_SingleTargetCooldown": {
+    "name": "Đòn Chính Xác",
+    "description": "Nếu <color=yellow>Vết Cắt</color> chỉ trúng một mục tiêu, thời gian hồi chiêu của nó giảm 30%."
+  },
+  "Se_Star_Husk_I_BossKillPlatinumCoin": {
+    "name": "Tiền Thưởng",
+    "description": "Khi bạn đánh bại trùm, bạn có 30%<sprite=5> cơ hội nhận được một <color=yellow>Xu Bạch Kim</color>. Xu này có thể làm mới kho đồ của Jonas."
+  },
+  "Se_Star_Husk_I_ShopIntimidation": {
+    "name": "Búp Bê Một Mắt Rùng Rợn",
+    "lore": "Hắn tin rằng đe dọa là phương pháp hiệu quả và tiện lợi nhất. Tất nhiên, nó không hiệu quả với Jonas dũng cảm hơn.",
+    "description": "<color=yellow>Đe dọa</color> Jonas để giảm giá vật phẩm. Nếu bạn thành công (50% cơ hội), giá Vàng giảm 50%<sprite=5>. Nếu thất bại, giá tăng 50%."
+  },
+  "Se_Star_Husk_L_DodgeChargesAndRangeWithPenalty": {
+    "name": "Cú Nhảy Đẩy Bằng Thuốc Súng",
+    "description": "Thời gian hồi chiêu của <color=yellow>Bước Chớp Nhoáng</color> tăng 1 giây, nhưng số lần nạp tối đa của nó tăng 1 và khoảng cách di chuyển tăng 10%<sprite=5>."
+  },
+  "Se_Star_Husk_L_DodgeCooldownOnKillOrAttack": {
+    "name": "Đắm Chìm Hoàn Toàn",
+    "description": "Khi bạn hạ gục kẻ địch hoặc thực hiện đòn đánh thường lên trùm, thời gian hồi chiêu của <color=yellow>Bước Chớp Nhoáng</color> giảm 10%<sprite=5>."
+  },
+  "Se_Star_Husk_L_DodgeCooldownOnKillWithEmptyCharges": {
+    "name": "Siêu Việt",
+    "lore": "Cơ thể con rối thoát khỏi xiềng xích cảm xúc, những chuyển động hiệu quả và hoàn hảo, và trung tâm của biển máu.",
+    "description": "Thời gian hồi chiêu của <color=yellow>Bước Chớp Nhoáng</color> tăng 1 giây. Khi bạn không còn lần nạp <color=yellow>Bước Chớp Nhoáng</color> nào và hạ gục kẻ địch, thời gian hồi chiêu hiện tại của nó giảm 40%<sprite=5>."
+  },
+  "Se_Star_Husk_L_FatalHitProtectionWithPenalty": {
+    "name": "Sửa Chữa Khẩn Cấp",
+    "description": "Khi bạn nhận <color=yellow>sát thương chí mạng</color>, bạn bỏ qua sát thương đó và trở nên <color=yellow>Bất Khả Xâm Phạm</color> trong 1<sprite=5> giây, nhưng Máu Tối Đa của bạn giảm 15%. Hiệu ứng này chỉ xảy ra một lần mỗi trận."
+  },
+  "Se_Star_Lacerta_D_AbilityPower": {
+    "name": "Trí Tuệ Thằn Lằn",
+    "description": "Tăng <color=yellow>Sức Mạnh Phép Thuật</color> thêm 4<sprite=5>."
+  },
+  "Se_Star_Lacerta_D_AttackDamage": {
+    "name": "Thuốc Súng Cao Cấp",
+    "description": "Tăng <color=yellow>Sát Thương Vật Lý</color> thêm 4<sprite=5>."
+  },
+  "Se_Star_Lacerta_D_AttackRange": {
+    "name": "Ống Ngắm Ứng Biến",
+    "description": "Tăng <color=yellow>Tầm Đánh</color> thêm 0.5<sprite=5> m."
+  },
+  "Se_Star_Lacerta_D_AttackSpeed": {
+    "name": "Thuần Thục Nạp Đạn",
+    "description": "Tăng <color=yellow>Tốc Độ Đánh</color> thêm 6%<sprite=5>."
+  },
+  "Se_Star_Lacerta_F_HC_KnockbackAndSlow": {
+    "name": "Thuốc Súng Bẩn",
+    "description": "<color=yellow>Súng Cầm Tay</color> luôn đẩy lùi kẻ địch và giảm <color=yellow>Tốc Độ Di Chuyển</color> của chúng đi 75% trong 4 giây."
+  },
+  "Se_Star_Lacerta_F_HC_NearDamage": {
+    "name": "Cơn Thịnh Nộ Của Barasus",
+    "lore": "Anh ấy không bao giờ quên sức mạnh áp đảo mà mình từng chứng kiến từ xa. Và cuối cùng, anh ấy đã tái tạo nó bằng chính đôi tay của mình.",
+    "description": "Tăng sát thương của <color=yellow>Súng Cầm Tay</color> lên kẻ địch ở gần thêm 150%."
+  },
+  "Se_Star_Lacerta_F_IR_AoEDamage": {
+    "name": "Đạn Cháy",
+    "description": "<color=yellow>Đạn Cháy</color> phát nổ, gây sát thương lên kẻ địch gần đó."
+  },
+  "Se_Star_Lacerta_F_IR_MoreShots": {
+    "name": "Thắt Lưng Đạn",
+    "description": "Thời gian hồi chiêu của <color=yellow>Đạn Cháy</color> tăng 2 giây, nhưng số lượng đạn bắn ra cũng tăng thêm 2."
+  },
+  "Se_Star_Lacerta_F_PS_ChargeSpeed": {
+    "name": "Ngắm Bắn Dày Dạn",
+    "description": "Tốc độ nạp của <color=yellow>Phát Bắn Chính Xác</color> tăng 33%."
+  },
+  "Se_Star_Lacerta_F_PS_CooldownReset": {
+    "name": "Chiến Dịch Đặc Biệt",
+    "description": "Chiều rộng của <color=yellow>Phát Bắn Chính Xác</color> giảm 60%, nhưng hạ gục kẻ địch bằng phát bắn sẽ <color=yellow>làm mới</color> <color=yellow>thời gian hồi chiêu</color>."
+  },
+  "Se_Star_Lacerta_F_PS_SlowerStronger": {
+    "name": "Không Có Gì Là Quá Đáng",
+    "description": "Tốc độ nạp của <color=yellow>Phát Bắn Chính Xác</color> giảm 40%, nhưng sát thương của nó tăng 50% và chiều rộng tăng 30%."
+  },
+  "Se_Star_Lacerta_F_QT_AddedCharges": {
+    "name": "Nạp Đạn Nhanh",
+    "description": "Thời gian hồi chiêu của <color=yellow>Rút Súng Nhanh</color> tăng 3 giây, nhưng giờ đây nó nạp lại tất cả cùng một lúc."
+  },
+  "Se_Star_Lacerta_F_QT_AttackEffect": {
+    "name": "Đạn Mơ",
+    "description": "<color=yellow>Rút Súng Nhanh</color> kích hoạt <color=yellow>hiệu ứng tấn công</color>."
+  },
+  "Se_Star_Lacerta_F_QT_RapidFire": {
+    "name": "Bắn Phá Bừa Bãi",
+    "description": "Số lần nạp của <color=yellow>Rút Súng Nhanh</color> giảm 1, nhưng nó bắn ra 6 phát."
+  },
+  "Se_Star_Lacerta_I_BonusFromStones": {
+    "name": "Bộ Sưu Tập Bổ Ích",
+    "description": "Phá vỡ <color=yellow>Mảnh Vàng</color> hoặc <color=yellow>Mảnh Bụi Mơ</color> mang lại thêm 6<sprite=5> Vàng và Bụi Mơ."
+  },
+  "Se_Star_Lacerta_I_BossBounty": {
+    "name": "Thợ Săn Quái Vật Hoang Dã",
+    "lore": "<i>\"Giết Quái Vật\"</i>",
+    "description": "Nhận thêm 45<sprite=5> Vàng mỗi khi bạn đánh bại một <color=yellow>Trùm</color>."
+  },
+  "Se_Star_Lacerta_I_ShopDiscount": {
+    "name": "Nhà Đàm Phán Lão Luyện",
+    "description": "<color=yellow>Giá Vàng</color> của vật phẩm do <color=yellow>Jonas</color> bán được giảm 10%<sprite=5>."
+  },
+  "Se_Star_Lacerta_I_ShopMoreItemsWithPenalty": {
+    "name": "Mặc Cả Của Người Thằn Lằn Phương Bắc",
+    "lore": "Người Thằn Lằn phương Bắc thường nắm thế thượng phong trong các cuộc đàm phán. Sự điềm tĩnh và logic độc đáo của họ góp phần tạo nên điều đó, nhưng đôi mắt vô cảm của họ thực sự quá đáng sợ.",
+    "description": "<color=yellow>Giá Vàng</color> của vật phẩm do <color=yellow>Jonas</color> bán tăng 50%<sprite=5>, nhưng anh ta chào bán thêm 2 vật phẩm."
+  },
+  "Se_Star_Lacerta_L_DodgeCharges": {
+    "name": "Dầu Thằn Lằn",
+    "description": "Thời gian hồi chiêu của <color=yellow>kỹ năng Né Tránh</color> tăng 1.5<sprite=5> giây, nhưng nó nhận thêm 1 lần nạp."
+  },
+  "Se_Star_Lacerta_L_SpeedAfterDodge": {
+    "name": "Thằn Lằn Dẻo Dai",
+    "lore": "Cơ thể dẻo dai đáng kinh ngạc của Người Thằn Lằn là một lợi thế to lớn trong việc duy trì góc bắn hiệu quả trong mọi tình huống.",
+    "description": "Sử dụng <color=yellow>Né Tránh</color> giúp Tốc Độ Di Chuyển của bạn tăng 20%<sprite=5> trong 1.5 giây."
+  },
+  "Se_Star_Mist_I_CamillasGift": {
+    "name": "Món Quà Của Camilla",
+    "lore": "Lòng tốt của người bảo trợ Camilla không bao giờ là một chiều. Chắc chắn, đó vẫn là mối ràng buộc thân thương đối với Mist.",
+    "description": "Bạn bắt đầu cuộc phiêu lưu với <color=yellow>Món Quà Của Camilla</color>. Món Quà Của Camilla bán được 100<sprite=5> và tăng giá trị thêm 200<sprite=5> mỗi khi bạn bước vào thế giới mới. Tuy nhiên, nếu sát thương của kẻ địch khiến máu bạn giảm xuống dưới 50%, món quà sẽ bị phá hủy."
+  },
+  "Se_Star_Mist_L_PotionShield": {
+    "name": "Trái Cây Tẩm Mật Ong",
+    "description": "<color=yellow>Bình Máu</color> tạo ra Lá Chắn bằng 50%<sprite=5> lượng hồi phục được cung cấp."
+  },
+  "Se_Star_Mist_D_AttackDamage": {
+    "name": "Rèn Của Astrid",
+    "lore": "Lời cầu nguyện tha thiết của cô em gái dành cho sự an toàn của chị gái mình được truyền vào lưỡi kiếm cùng với âm thanh tôi luyện.",
+    "description": "Tăng <color=yellow>Sát Thương Vật Lý</color> thêm 3<sprite=5>."
+  },
+  "Se_Star_Mist_D_BonusOnDash": {
+    "name": "Tấn Công Kẻ Yếu!",
+    "description": "Sau khi <color=yellow>lao</color> hoặc <color=yellow>dịch chuyển</color>, nhận 5<sprite=5> Sát Thương Vật Lý và 10%<sprite=5> Tỷ Lệ Chí Mạng trong 2.5 giây."
+  },
+  "Se_Star_Mist_D_BossDamageOnHighHp": {
+    "name": "Sự Tập Trung Của Nhà Vô Địch",
+    "description": "Khi Máu của bạn trên 90%, tất cả sát thương gây ra lên <color=yellow>bất kỳ Trùm nào</color> tăng thêm 20%<sprite=5>."
+  },
+  "Se_Star_Mist_D_HunterDamage": {
+    "name": "Cuối Cùng, Một Đối Thủ Xứng Đáng",
+    "lore": "Cô ấy chưa bao giờ thua một cuộc đấu tay đôi nào, dù bí mật hay chính thức.",
+    "description": "Tất cả sát thương gây ra lên <color=yellow>Thợ Săn</color> tăng thêm 20%<sprite=5>."
+  },
+  "Se_Star_Mist_D_ScalingAD": {
+    "name": "Kiểu Thấm Đẫm Giấc Mơ",
+    "description": "Nhận 2<sprite=5> <color=yellow>Sát Thương Vật Lý</color> mỗi khi đạt cấp 5, 10, 15 và 20."
+  },
+  "Se_Star_Mist_F_FL_DecreasedCooldownAndCharge": {
+    "name": "Giấc Mơ Nở Hoa",
+    "description": "<color=yellow>Flèche</color> có ít hơn 2 lần nạp, nhưng thời gian hồi chiêu của nó giảm 6 giây."
+  },
+  "Se_Star_Mist_F_FL_Lightning": {
+    "name": "Hơi Thở Sấm Sét",
+    "description": "Sát thương của <color=yellow>Flèche</color> được chuyển thành sát thương hệ Ánh Sáng và bạn dịch chuyển thay vì lao."
+  },
+  "Se_Star_Mist_F_FL_MaxRangeExplosion": {
+    "name": "Đòn Kết Liễu",
+    "description": "Khi <color=yellow>Flèche</color> trúng đích ở tầm xa tối đa, sát thương của nó tăng 80% và phát nổ, gây sát thương lên một vùng rộng."
+  },
+  "Se_Star_Mist_F_LG_IncreasedCooldownReduction": {
+    "name": "Chém Gió",
+    "description": "<color=yellow>Đâm</color> gây sát thương giảm 50%, nhưng bạn nhận được 100% tăng giảm thời gian hồi chiêu khi Kiệt Tác Của Astrid kích hoạt."
+  },
+  "Se_Star_Mist_F_LG_RangeAndSpeed": {
+    "name": "Gió Tây",
+    "description": "Tăng tầm thi triển của <color=yellow>Đâm</color> thêm 33%."
+  },
+  "Se_Star_Mist_F_LG_SingleTarget": {
+    "name": "Đòn Tập Trung",
+    "description": "<color=yellow>Đâm</color> giờ chỉ trúng một mục tiêu duy nhất, nhưng thời gian hồi chiêu của nó giảm 1.5 giây và sát thương tăng 100%. Nó cũng đẩy lùi kẻ địch."
+  },
+  "Se_Star_Mist_F_PR_AllDirections": {
+    "name": "Tầm Nhìn Rộng",
+    "description": "Thời gian hồi chiêu của <color=yellow>Đỡ Đòn</color> tăng 1.5 giây, nhưng bạn có thể đỡ đòn từ mọi hướng."
+  },
+  "Se_Star_Mist_F_PR_PerfectParry": {
+    "name": "Phòng Thủ Tốt Nhất Chính Là Tấn Công",
+    "lore": "Cô ấy không bao giờ vội vàng. Cơ hội quan trọng nhất đến vào khoảnh khắc đối thủ ra đòn.",
+    "description": "Thời gian hồi chiêu của <color=yellow>Đỡ Đòn</color> giảm 4 giây, nhưng cửa sổ đỡ đòn hiệu quả giảm 40%."
+  },
+  "Se_Star_Mist_F_PR_ShieldAndCrit": {
+    "name": "Kiếm Tích Điện",
+    "description": "Sau khi <color=yellow>Đỡ Đòn</color> thành công, đòn tấn công tiếp theo của bạn trở thành đòn chí mạng và bạn nhận được một lá chắn bằng 250% sát thương đã đỡ, lá chắn này suy giảm trong 4 giây. Thời gian duy trì của lá chắn tăng 0.5 giây mỗi khi bạn cường hóa Đỡ Đòn."
+  },
+  "Se_Star_Mist_F_UD_ExplosionDamage": {
+    "name": "Vụ Nổ Kiên Định",
+    "description": "Thời gian duy trì của <color=yellow>Quyết Tâm Bất Diệt</color> giảm 30%, nhưng sát thương của vụ nổ ban đầu tăng 200%."
+  },
+  "Se_Star_Mist_F_UD_HealLostHealth": {
+    "name": "Hai Trái Tim",
+    "description": "Thi triển <color=yellow>Quyết Tâm Bất Diệt</color> hồi phục 35% lượng Máu đã mất."
+  },
+  "Se_Star_Mist_I_BonusOnCatPet": {
+    "name": "Người Yêu Mèo",
+    "description": "Nhận 800<sprite=5> Vàng và 800<sprite=5> Bụi Mơ khi vuốt ve một <color=yellow>con Mèo</color>."
+  },
+  "Se_Star_Mist_I_StartGoldWithPenalty": {
+    "name": "Dòng Dõi Quý Tộc",
+    "lore": "Dù gia đình Verdesilver đã suy tàn, nhưng phẩm giá của cô ấy vẫn không bị hoen ố.",
+    "description": "Bạn bắt đầu cuộc phiêu lưu với 150<sprite=5> <color=yellow>Vàng</color>, nhưng giá Vàng của vật phẩm do Jonas bán tăng 10%."
+  },
+  "Se_Star_Mist_L_AddedDodgeWithPenalty": {
+    "name": "Trang Bị Nhẹ",
+    "description": "Sát thương nhận từ kẻ địch tăng 25%<sprite=5>, nhưng bạn nhận thêm 1 lần nạp cho <color=yellow>Né Tránh</color> của mình."
+  },
+  "Se_Star_Mist_L_ArmorWithPenalty": {
+    "name": "Miếng Đệm Vai",
+    "description": "<color=yellow>Giáp</color> của bạn tăng thêm 15<sprite=5>, nhưng hiệu ứng này biến mất trong 8 giây khi bạn nhận sát thương từ kẻ địch."
+  },
+  "Se_Star_Mist_L_DodgeCooldownWithPenalty": {
+    "name": "Balestra",
+    "description": "<color=yellow>Né Tránh</color> của bạn có ít hơn 1 lần nạp tối đa, nhưng thời gian hồi chiêu của nó giảm 0.8<sprite=5> giây."
+  },
+  "Se_Star_Mist_L_MovSpeed": {
+    "name": "Nhẹ Như Lông Vũ",
+    "description": "<color=yellow>Tốc Độ Di Chuyển</color> tăng thêm 3%<sprite=5>. Khi Máu của bạn trên 90%, hiệu ứng này tăng thêm 50%."
+  },
+  "Se_Star_Nachia_D_AbilityPower": {
+    "name": "Người Bảo Vệ Trật Tự",
+    "lore": "Trật tự của khu rừng rất đơn giản và rõ ràng: sự sống, cái chết và vòng tuần hoàn.",
+    "description": "Tăng <color=yellow>Sức Mạnh Phép Thuật</color> thêm 4<sprite=5>."
+  },
+
+  "Se_Star_Nachia_D_CanineLover": {
+    "name": "Người Yêu Chó",
+    "lore": "Cô ấy tin rằng không có con chó nào xấu trên thế giới này.",
+    "description": "Khi một quái vật hoặc vật triệu hồi giống chó chết gần đó, Nachia trở nên điên cuồng trong 5 giây, tăng <color=yellow>Tốc Độ Đánh</color> của cô ấy thêm 15%<sprite=5>. Tuy nhiên, sát thương của Nachia lên quái vật giống chó giảm 30%.\n \n \n "
+  },
+
+  "Se_Star_Nachia_D_SkillHaste": {
+    "name": "Làn Gió Nhẹ",
+    "description": "Tăng <color=yellow>Tốc Độ Hồi Ký Ức</color> thêm 5<sprite=5>."
+  },
+  "Se_Star_Nachia_D_SummonAtkSpd": {
+    "name": "Sự Hung Dữ Gia Cường",
+    "description": "Tăng <color=yellow>Tốc Độ Đánh</color> của tất cả vật triệu hồi thêm 9%<sprite=5>."
+  },
+  "Se_Star_Nachia_F_MP_NachiaHeal": {
+    "name": "Khế Ước Định Mệnh",
+    "description": "Nachia cũng nhận được 50% lượng hồi phục từ hiệu ứng thi triển của <color=yellow>Khế Ước Ánh Trăng</color>."
+  },
+  "Se_Star_Nachia_F_MP_NoJump": {
+    "name": "Vũ Điệu Tử Thần",
+    "description": "Số lần nạp của <color=yellow>Khế Ước Ánh Trăng</color> tăng thêm 1, nhưng khi thi triển, Fenrir ngay lập tức chém một vùng hình tròn rộng thay vì lao tới."
+  },
+  "Se_Star_Nachia_F_MP_StrongerFenrirNoCast": {
+    "name": "Sói Cô Độc",
+    "description": "Bạn không thể thi triển <color=yellow>Khế Ước Ánh Trăng</color> nữa, nhưng Giáp của Fenrir tăng 60 và sát thương đánh thường của hắn tăng 30%."
+  },
+  "Se_Star_Nachia_F_NW_LessCooldownLessAtkSpd": {
+    "name": "Quản Lý Vi Mô",
+    "description": "Thời gian hồi chiêu của <color=yellow>Lời Thì Thầm Của Tự Nhiên</color> giảm 80%, nhưng lượng thưởng Tốc Độ Đánh cũng giảm 50%."
+  },
+  "Se_Star_Nachia_F_NW_MovSpeed": {
+    "name": "Đi Lấy Đồ!",
+    "description": "Mục tiêu cũng nhận được Tốc Độ Di Chuyển bằng 80% lượng thưởng Tốc Độ Đánh từ <color=yellow>Lời Thì Thầm Của Tự Nhiên</color>."
+  },
+  "Se_Star_Nachia_F_NW_Teleport": {
+    "name": "Mệnh Lệnh Của Tự Nhiên",
+    "description": "<color=yellow>Lời Thì Thầm Của Tự Nhiên</color> ngay lập tức dịch chuyển vật triệu hồi đến vị trí mục tiêu."
+  },
+  "Se_Star_Nachia_F_SB_DurationBonus": {
+    "name": "Phước Lành Nhân Từ",
+    "description": "Tăng thời gian duy trì của <color=yellow>Phước Lành Của Rắn</color> thêm 4 giây."
+  },
+  "Se_Star_Nachia_F_SB_SecondWind": {
+    "name": "Sự Bảo Vệ Bất Tử",
+    "description": "Khi một đồng minh chịu ảnh hưởng của <color=yellow>Phước Lành Của Rắn</color> nhận sát thương chí mạng, phước lành sẽ ngay lập tức bị loại bỏ thay vào đó và họ hồi phục 50% Máu Tối Đa."
+  },
+  "Se_Star_Nachia_F_SB_StrongerBuffNoSelf": {
+    "name": "Tình Yêu Của Rắn",
+    "description": "Lượng thưởng Tốc Độ Đánh của <color=yellow>Phước Lành Của Rắn</color> tăng 50%, nhưng nó không còn buff cho chính bạn khi nhắm vào đồng minh nữa."
+  },
+  "Se_Star_Nachia_F_SC_AtkEffect": {
+    "name": "Móng Vuốt Sắc Bén",
+    "lore": "Cắt móng tay thường xuyên là điều cần thiết cho bất kỳ chú chó tốt nào.",
+    "description": "Những Chú Chó Lá từ <color=yellow>Tiếng Gọi Của Rừng Xanh</color> kích hoạt 30% hiệu ứng tấn công với đòn đánh thường của chúng."
+  },
+  "Se_Star_Nachia_F_SC_AtkSpd": {
+    "name": "Sự Sống Tăng Tốc",
+    "description": "Chó Lá từ <color=yellow>Tiếng Gọi Của Rừng Xanh</color> có thời gian duy trì ngắn hơn 3 giây, nhưng Tốc Độ Đánh của chúng tăng 50% trong 5 giây sau khi được triệu hồi."
+  },
+  "Se_Star_Nachia_F_SC_MoreSummons": {
+    "name": "Thêm Chó Nữa!",
+    "description": "Thời gian duy trì của Chó Lá từ <color=yellow>Tiếng Gọi Của Rừng Xanh</color> giảm 3 giây, nhưng số lần nạp tối đa tăng thêm 1 và số lượng triệu hồi tối đa cũng tăng thêm 1."
+  },
+  "Se_Star_Nachia_I_ForestKillDreamDust": {
+    "name": "Gặt Hái Sự Sống",
+    "description": "Tăng Tốc Độ Di Chuyển thêm 8%<sprite=5> trong <color=yellow>Khu Rừng Hỗn Loạn</color> và nhận 0.5<sprite=5> Bụi Mơ cho mỗi kẻ địch bị hạ gục."
+  },
+  "Se_Star_Nachia_I_ForestShopDiscount": {
+    "name": "Lâu Rồi Không Gặp! Nhớ Tôi Chứ?",
+    "description": "Giá Vàng của vật phẩm do Jonas bán trong <color=yellow>Khu Rừng Hỗn Loạn</color> được giảm 30%<sprite=5>."
+  },
+  "Se_Star_Nachia_I_ForestStartDreamDust": {
+    "name": "Sương Mai Sảng Khoái",
+    "description": "Nhận 100<sprite=5> Bụi Mơ mỗi khi bạn ghé thăm <color=yellow>Khu Rừng Hỗn Loạn</color>."
+  },
+  "Se_Star_Nachia_I_SummonKillGold": {
+    "name": "Huấn Luyện Săn Bắt",
+    "description": "Khi một <color=yellow>vật triệu hồi</color> hạ gục kẻ địch bằng đòn đánh thường, có 25% cơ hội nhận thêm 2<sprite=5> Vàng."
+  },
+  "Se_Star_Nachia_L_AllyUnstoppable": {
+    "name": "Ban Tặng Ý Chí",
+    "description": "Khi bạn áp dụng buff cho đồng minh, họ trở nên <color=yellow>Không Thể Bị Ngăn Cản</color> trong 1.5<sprite=5> giây. Hiệu ứng này có thời gian hồi 5 giây mỗi mục tiêu."
+  },
+  "Se_Star_Nachia_L_HealAndShieldAmp": {
+    "name": "Sự Sống Là Thiêng Liêng",
+    "description": "Tăng <color=yellow>lượng hồi phục</color> và <color=yellow>Lá Chắn</color> bạn cung cấp cho chính mình thêm 5%<sprite=5> và cho đồng minh thêm 15%<sprite=5>."
+  },
+  "Se_Star_Nachia_L_SelfWaltz": {
+    "name": "Luyện Tập Valse",
+    "description": "Các hiệu ứng buff từ <color=yellow>Valse Mộng Mơ</color> cũng áp dụng lên chính bạn với hiệu quả 50%<sprite=5>."
+  },
+  "Se_Star_Nachia_L_SummonBonus": {
+    "name": "Mối Ràng Buộc Vững Chắc",
+    "description": "Khi các vật triệu hồi của Nachia ở gần, <color=yellow>Giáp</color> của cô ấy tăng thêm 6<sprite=5> và <color=yellow>lượng hồi phục</color> và <color=yellow>Lá Chắn</color> cô ấy cung cấp cho vật triệu hồi tăng thêm 15%<sprite=5>."
+  },
+  "Se_Star_Nachia_L_WaltzArmor": {
+    "name": "Điệu Nhảy Bảo Vệ",
+    "lore": "Bất cứ nơi nào cô ấy đến, chim chóc, thú vật và linh hồn thuần khiết tụ tập quanh cô ấy, tạo thành một thánh địa nhỏ bé của hòa bình.",
+    "description": "Thời gian hồi chiêu của <color=yellow>Valse Mộng Mơ</color> tăng 2.2<sprite=5> giây, nhưng phạm vi hiệu ứng của nó tăng 25% và Giáp của mục tiêu tăng 50."
+  },
+  "Se_Star_Nachia_L_WaltzDurationWithPenalty": {
+    "name": "Bước Nhảy Ấn Tượng",
+    "description": "Số lần nạp của <color=yellow>Valse Mộng Mơ</color> giảm 1, nhưng thời gian duy trì của các hiệu ứng buff tăng 50%<sprite=5>."
+  },
+  "Se_Star_Vesper_D_ADWithNearbyBurning": {
+    "name": "Lời Ca Ngợi Mặt Trời",
+    "description": "Tăng <color=yellow>Sát Thương Vật Lý</color> thêm 10%<sprite=5> khi có lửa trại, dung nham hoặc kẻ địch hoặc đồng minh đang cháy ở gần."
+  },
+  "Se_Star_Vesper_D_AtkSpd": {
+    "name": "Máy Nghiền",
+    "lore": "Cây búa thiêng của hắn hoàn hảo để đập ai đó phải phục tùng.",
+    "description": "Tăng <color=yellow>Tốc Độ Đánh</color> thêm 9%<sprite=5>."
+  },
+  "Se_Star_Vesper_D_AtkSpdWithPenalty": {
+    "name": "Cơn Thịnh Nộ Liều Lĩnh",
+    "description": "Máu Tối Đa giảm 20% nhưng <color=yellow>Tốc Độ Đánh</color> tăng thêm 10%<sprite=5>."
+  },
+  "Se_Star_Vesper_D_BossHunterAmpWithPenalty": {
+    "name": "Mục Đích Lớn Lao",
+    "description": "Máu Tối Đa giảm 10% nhưng <color=yellow>sát thương hệ Ánh Sáng</color> và <color=yellow>Hệ Lửa</color> gây ra lên Trùm và Thợ Săn tăng thêm 20%<sprite=5>."
+  },
+  "Se_Star_Vesper_D_ConvertAPToAD": {
+    "name": "Búa Của Thần Thánh",
+    "description": "Nhận <color=yellow>Sát Thương Vật Lý</color> bằng 25%<sprite=5> <color=yellow>Sức Mạnh Phép Thuật</color> của bạn."
+  },
+  "Se_Star_Vesper_F_BS_AddedDurationPerAtk": {
+    "name": "Đập Không Ngừng Nghỉ",
+    "description": "Mỗi đòn đánh thường trong <color=yellow>Lễ Rửa Tội Của Mặt Trời</color> kéo dài <color=yellow>thời gian duy trì</color> của nó thêm 0.2 giây."
+  },
+  "Se_Star_Vesper_F_BS_ADWithArmor": {
+    "name": "Không Đau Không Được",
+    "description": "<color=yellow>Lễ Rửa Tội Của Mặt Trời</color> cấp <color=yellow>Sát Thương Vật Lý</color> thay vì Tốc Độ Đánh với cùng một lượng và cấp 10 <color=yellow>Giáp</color> cho mỗi kẻ địch trúng vụ nổ ban đầu. Trúng trùm cấp 40 Giáp thay vào đó."
+  },
+  "Se_Star_Vesper_F_BS_MovSpd": {
+    "name": "Hơi Nóng Tiếp Thêm Sinh Lực",
+    "lore": "Mồ hôi làm cho cơ bắp càng thêm rạng rỡ.",
+    "description": "<color=yellow>Lễ Rửa Tội Của Mặt Trời</color> cấp <color=yellow>Tốc Độ Di Chuyển</color> bằng 50% lượng thưởng Tốc Độ Đánh."
+  },
+  "Se_Star_Vesper_F_CS_ColdDamage": {
+    "name": "Cơn Thịnh Nộ Lạnh Giá",
+    "description": "Sát thương của <color=yellow>Mặt Trời Tàn Nhẫn</color> được chuyển thành sát thương hệ Lạnh, thời gian choáng tăng 2 giây và lượng Giáp nó cấp tăng 50%."
+  },
+  "Se_Star_Vesper_F_CS_LingeringBenefits": {
+    "name": "Tàn Lửa",
+    "description": "Trạng thái Không Thể Bị Ngăn Cản và lượng thưởng Giáp từ <color=yellow>Mặt Trời Tàn Nhẫn</color> kéo dài thêm 2.5 giây sau khi kênh kết thúc."
+  },
+  "Se_Star_Vesper_F_CS_UnlockMoveWithPenalty": {
+    "name": "Ngọn Lửa Kiêu Hãnh",
+    "lore": "Hắn tin rằng mình gần gũi với thần thánh hơn hầu hết mọi người. Nhưng gọi đó là kiêu ngạo thôi thì - hắn quá mạnh mẽ để như vậy.",
+    "description": "Tăng sát thương của <color=yellow>Mặt Trời Tàn Nhẫn</color> thêm 25% và cho phép bạn di chuyển trong khi kênh, nhưng bạn không còn nhận được thưởng Giáp nữa."
+  },
+  "Se_Star_Vesper_F_DP_FarTargetBonus": {
+    "name": "Đà",
+    "description": "Giảm Máu Tối Đa 15%, nhưng tăng tầm thi triển của <color=yellow>Kỷ Luật</color> thêm 30%. Bạn càng xa mục tiêu, sát thương và bán kính của bạn càng tăng, tối đa lên đến 150% và 50%."
+  },
+  "Se_Star_Vesper_F_DP_PointCast": {
+    "name": "Cú Nhảy Liều Lĩnh",
+    "description": "Tăng bán kính sát thương của <color=yellow>Kỷ Luật</color> thêm 20% và cho phép nó được thi triển mà không cần mục tiêu."
+  },
+  "Se_Star_Vesper_F_DP_SwitchToMelee": {
+    "name": "Phán Quyết Đối Diện",
+    "description": "Giảm tầm thi triển của <color=yellow>Kỷ Luật</color> 50%, nhưng cấp thêm 1 lần nạp và làm choáng kẻ địch trúng đòn trong 1 giây."
+  },
+  "Se_Star_Vesper_F_SE_FullOffense": {
+    "name": "Tổng Tấn Công",
+    "description": "Tăng lượng thưởng Tốc Độ Đánh cho đồng minh chịu ảnh hưởng của <color=yellow>Thánh Địa Của El</color> thêm 50% và giảm số đòn đánh thường cần thiết để kích hoạt hiệu ứng đánh thường thứ 4 đi 1. Không cấp hiệu ứng Lá Chắn, Giáp hoặc Không Thể Bị Ngăn Cản."
+  },
+  "Se_Star_Vesper_F_SE_Invulnerability": {
+    "name": "Thánh Địa",
+    "description": "Giảm thời gian duy trì của <color=yellow>Thánh Địa Của El</color> 50%, nhưng cấp trạng thái Bất Khả Xâm Phạm cho đồng minh."
+  },
+  "Se_Star_Vesper_F_SE_PointCast": {
+    "name": "Một Chút Vị Tha",
+    "lore": "Vesper có một điểm yếu đáng ngạc nhiên dành cho trẻ em. Có lẽ là tiếng vọng từ tuổi thơ sóng gió của chính hắn?",
+    "description": "Triệu hồi <color=yellow>Thánh Địa Của El</color> tại một vị trí mục tiêu thay vì vị trí của Vesper. Thời gian hồi chiêu giảm 12% cho mỗi đồng minh và 6% cho mỗi kẻ địch trúng đợt nổ ban đầu."
+  },
+  "Se_Star_Vesper_I_ShopDiscount": {
+    "name": "Sự Hiện Diện Áp Đảo",
+    "lore": "Mọi người đều có kế hoạch. Cho đến khi họ đối mặt với hắn trực diện.",
+    "description": "<color=yellow>Giá Vàng</color> của vật phẩm do Jonas bán được giảm 10%<sprite=5>."
+  },
+  "Se_Star_Vesper_I_StartGold": {
+    "name": "Rương Chiến Tranh",
+    "description": "Nhận 100<sprite=5> <color=yellow>Vàng</color> khi bắt đầu cuộc phiêu lưu."
+  },
+  "Se_Star_Vesper_L_Armor": {
+    "name": "Người Sống Sót Qua Thử Thách",
+    "lore": "Dòng tu bắt hắn đi chân trần trên lửa và dùng tay không múc dầu sôi.",
+    "description": "Tăng <color=yellow>Giáp</color> thêm 6<sprite=5>."
+  },
+  "Se_Star_Vesper_L_ArmorOnLowHealth": {
+    "name": "Tôi Sẽ Không Dao Động!",
+    "description": "Khi Máu dưới 35%, nhận thêm 10<sprite=5> <color=yellow>Giáp</color>."
+  },
+  "Se_Star_Vesper_L_EmpowerDodgeShield": {
+    "name": "Thuần Thục Giáp Nặng",
+    "description": "Tăng lượng Lá Chắn của <color=yellow>Đòn Đánh Nặng</color> thêm 45%<sprite=5> và kéo dài thời gian duy trì của nó thêm 75%<sprite=5>."
+  },
+  "Se_Star_Vesper_L_FireResistance": {
+    "name": "Trái Tim Của Mặt Trời",
+    "description": "Giảm <color=yellow>sát thương hệ Lửa</color> phải chịu thêm 30%<sprite=5> và <color=yellow>sát thương Thiêu Đốt theo thời gian</color> phải chịu thêm 50%<sprite=5>."
+  },
+  "Se_Star_Vesper_L_Health": {
+    "name": "Da Cứng",
+    "description": "Tăng <color=yellow>Máu Tối Đa</color> thêm 80<sprite=5>."
+  },
+  "Se_Star_Vesper_L_ScalingArmor": {
+    "name": "Đức Tin Lớn Dần",
+    "description": "Nhận 2<sprite=5> <color=yellow>Giáp</color> mỗi khi đạt cấp 5, 10, 15 và 20."
+  },
+  "Se_Star_Vesper_L_ScalingHealth": {
+    "name": "Cơ Bắp Kỳ Diệu",
+    "description": "Tăng <color=yellow>Máu Tối Đa</color> thêm 15<sprite=5> mỗi khi bạn lên cấp."
+  },
+  "Se_Star_Vesper_L_SlowSpeedMoreHealth": {
+    "name": "Không Có Giáp Nào Là Quá Dày",
+    "description": "Giảm 20% Tốc Độ Di Chuyển, nhưng tăng <color=yellow>Máu Tối Đa</color> thêm 14%<sprite=5>."
+  },
+  "Se_Star_Yubar_D_APOnDodge": {
+    "name": "Đảo Ngược Kỳ Dị",
+    "description": "Thi triển <color=yellow>Né Tránh</color> cấp 12%<sprite=5> <color=yellow>Sức Mạnh Phép Thuật</color> trong 2 giây."
+  },
+  "Se_Star_Yubar_D_AbilityPower": {
+    "name": "Tấm Thảm Bầu Trời Đầy Sao",
+    "description": "Tăng <color=yellow>Sức Mạnh Phép Thuật</color> thêm 5<sprite=5>."
+  },
+  "Se_Star_Yubar_D_ADAPWithPenalty": {
+    "name": "Pháo Thủy Tinh",
+    "lore": "Cơ thể hắn giờ chỉ còn là một chiếc bình mong manh. Tất nhiên, tất cả những ai nghĩ vậy đã bị biến thành một nắm bụi.",
+    "description": "Nhận 5<sprite=5> <color=yellow>Sát Thương Vật Lý</color> và 7<sprite=5> <color=yellow>Sức Mạnh Phép Thuật</color>, nhưng <color=yellow>Máu Tối Đa</color> của bạn giảm 15%."
+  },
+  "Se_Star_Yubar_D_APPerLightSkill": {
+    "name": "Ánh Nhìn Đầy Sao",
+    "description": "Nhận 2<sprite=5> <color=yellow>Sức Mạnh Phép Thuật</color> cho mỗi <color=yellow>Ký Ức sát thương hệ Ánh Sáng</color> bạn sở hữu."
+  },
+  "Se_Star_Yubar_D_BonusDamageToLight": {
+    "name": "Đôi Mắt Đầy Sao",
+    "description": "Tăng tất cả sát thương gây ra lên kẻ địch có 5 cấp chồng <color=yellow>Ánh Sáng</color> trở lên thêm 10%<sprite=5>."
+  },
+  "Se_Star_Yubar_D_ConvertADToAP": {
+    "name": "Nhật Thực",
+    "description": "Nhận <color=yellow>Sức Mạnh Phép Thuật</color> bằng 25%<sprite=5> <color=yellow>Sát Thương Vật Lý</color> của bạn."
+  },
+  "Se_Star_Yubar_D_ScalingAP": {
+    "name": "Sao Băng Rực Rỡ",
+    "description": "Nhận 3<sprite=5> <color=yellow>Sức Mạnh Phép Thuật</color> mỗi khi đạt cấp 5, 10, 15 và 20."
+  },
+  "Se_Star_Yubar_D_SkillHaste": {
+    "name": "Dòng Chảy Đầy Sao",
+    "description": "Tăng <color=yellow>Tốc Độ Hồi Ký Ức</color> thêm 5<sprite=5>."
+  },
+  "Se_Star_Yubar_F_CC_DamageOverTime": {
+    "name": "Thiên Thạch Cháy",
+    "description": "Vị trí va chạm của thiên thạch <color=yellow>Đại Hồng Thủy</color> bùng cháy, gây 100% sát thương của thiên thạch lên kẻ địch trong 2 giây."
+  },
+  "Se_Star_Yubar_F_CC_IncreaseAD": {
+    "name": "Chọn Bạo Lực",
+    "lore": "Hắn có vẻ hơi khó chịu trước những người phàm cứ nhầm lẫn giới tính của hắn.",
+    "description": "<color=yellow>Đại Hồng Thủy</color> tăng Sát Thương Vật Lý và Tốc Độ Đánh của Yubar thay vì Sức Mạnh Phép Thuật."
+  },
+  "Se_Star_Yubar_F_CC_LongerDuration": {
+    "name": "Tập Trung Sức Mạnh",
+    "description": "Thời gian duy trì của <color=yellow>Đại Hồng Thủy</color> tăng 50%."
+  },
+  "Se_Star_Yubar_F_CC_MeteorPerLightSkill": {
+    "name": "Trận Mưa Sao Băng",
+    "description": "Số lượng thiên thạch có thể triệu hồi bằng <color=yellow>Đại Hồng Thủy</color> tăng thêm 1 cho mỗi Ký Ức Ánh Sáng khác mà Yubar sở hữu."
+  },
+  "Se_Star_Yubar_F_EI_AutoExplosion": {
+    "name": "Ete Không Ổn Định",
+    "description": "Khi đạn của <color=yellow>Ảnh Hưởng Của Ether</color> trúng kẻ địch có 3 cấp chồng Ánh Sáng trở lên, nó kích hoạt một vụ nổ gây 50% sát thương."
+  },
+  "Se_Star_Yubar_F_EI_BiggerExplosion": {
+    "name": "Sự Tự Tin Bùng Nổ",
+    "description": "Bán kính vụ nổ của <color=yellow>Ảnh Hưởng Của Ether</color> tăng 15% và thời gian hồi chiêu của nó giảm 7% cho mỗi kẻ địch trúng vụ nổ."
+  },
+  "Se_Star_Yubar_F_EI_NoRootMoreDamage": {
+    "name": "Đảo Ngược Dòng Chảy",
+    "description": "<color=yellow>Ảnh Hưởng Của Ether</color> không còn làm rễ kẻ địch nữa nhưng sát thương vụ nổ của nó tăng 50%."
+  },
+  "Se_Star_Yubar_F_SN_Artillery": {
+    "name": "Súng Cối",
+    "description": "Tăng thời gian hồi chiêu của <color=yellow>Siêu Tân Tinh</color> thêm 3 giây, nhưng tăng tầm thi triển thêm 30%, bán kính vụ nổ thêm 20% và số lần nạp tối đa thêm 2."
+  },
+  "Se_Star_Yubar_F_SN_AutoExplosion": {
+    "name": "Chăn Sao",
+    "lore": "Ngay cả khi không có sự chú ý của hắn, các vì sao vẫn tự béo lên nhờ bụi vũ trụ.",
+    "description": "<color=yellow>Siêu Tân Tinh</color> không thể tự kích nổ được nữa. Kênh bị loại bỏ và nó tự động phát nổ khi được nạp đầy."
+  },
+  "Se_Star_Yubar_F_SN_DodgeReset": {
+    "name": "Thi Triển Nhanh Chóng",
+    "description": "Cho mỗi kẻ địch trúng vụ nổ của <color=yellow>Siêu Tân Tinh</color>, thời gian hồi chiêu giảm 0.5 giây và sát thương của lần Siêu Tân Tinh tiếp theo tăng 10%."
+  },
+  "Se_Star_Yubar_F_TQ_EssenceCooldown": {
+    "name": "Bài Ca Của Những Vì Sao",
+    "description": "Thời gian hồi chiêu của <color=yellow>Tĩnh Lặng</color> tăng 2 giây, nhưng nó cũng giảm thời gian hồi chiêu của tất cả tinh hoa."
+  },
+  "Se_Star_Yubar_F_TQ_LowerCooldownNoInvul": {
+    "name": "Suy Nghĩ Linh Hoạt",
+    "description": "Thời gian hồi chiêu của <color=yellow>Tĩnh Lặng</color> giảm 2 giây, nhưng thay vì trở nên Bất Khả Xâm Phạm, bạn nhận được một Lá Chắn bằng 100% Máu Tối Đa kéo dài trong thời gian Bất Khả Xâm Phạm."
+  },
+  "Se_Star_Yubar_F_TQ_ReducedCooldownAndDuration": {
+    "name": "Trái Tim Nhẹ Nhàng",
+    "description": "Thời gian hồi chiêu của <color=yellow>Tĩnh Lặng</color> giảm 4 giây, nhưng thời gian Bất Khả Xâm Phạm cũng giảm 40%."
+  },
+  "Se_Star_Yubar_I_DisintegrateDreamDust": {
+    "name": "Sinh Ra Từ Giấc Mơ",
+    "lore": "Biết sự thật và đối mặt với nó là hai vấn đề khác nhau. Cảm giác sẽ thế nào khi nhìn thấy một câu chuyện cổ tích có viết câu chuyện của chính bạn trong đó?",
+    "description": "Khi sử dụng <color=yellow>Đền Tháo Dỡ</color>, nhận thêm <color=yellow>Bụi Mơ</color> bằng 50%<sprite=5> lượng Vàng nhận được làm phần thưởng."
+  },
+  "Se_Star_Yubar_I_MoreDreamDustWithPenalty": {
+    "name": "Vị Thần Trong Truyện Cổ Tích",
+    "description": "<color=yellow>Máu Tối Đa</color> của bạn giảm 10%, nhưng bạn nhận được thêm 10%<sprite=5> <color=yellow>Bụi Mơ</color> từ mọi nguồn."
+  },
+  "Se_Star_Yubar_I_StarCookie": {
+    "name": "Người làm bánh Cookie",
+    "lore": "Hắn đã đốt cháy một số lượng sao khổng lồ trong hành trình tìm kiếm chiếc bánh cookie hoàn hảo.",
+    "description": "Tiêu diệt kẻ địch có 0.6%<sprite=5> cơ hội và tiêu diệt boss có 100% cơ hội tạo ra một <color=yellow>Star Cookie</color>. <color=yellow>Star Cookie</color> hồi một lượng nhỏ máu cho Yubar và nhận thêm một lượng nhỏ Vàng và Bụi Mộng Mơ.",
+    "rawDesc": "Tiêu diệt kẻ địch có {0} cơ hội và tiêu diệt boss có 100% cơ hội tạo ra một <color=yellow>Star Cookie</color>. <color=yellow>Star Cookie</color> hồi một lượng nhỏ máu cho Yubar và nhận thêm một lượng nhỏ Vàng và Bụi Mộng Mơ."
+  },
+  "Se_Star_Yubar_L_DodgeChargeWithLongerCooldown": {
+    "name": "Dấu Vết Đầy Sao",
+    "description": "Nhận thêm 1 lần nạp cho <color=yellow>Né Tránh</color>, nhưng thời gian hồi chiêu của nó tăng 2<sprite=5> giây."
+  },
+  "Se_Star_Yubar_L_DodgeCooldownWithShorterRange": {
+    "name": "Ú Oa!",
+    "description": "Thời gian hồi chiêu của <color=yellow>Né Tránh</color> giảm 0.8 giây, nhưng khoảng cách di chuyển của nó giảm 40%<sprite=5>."
+  },
+  "Se_Star_Yubar_L_DodgeRange": {
+    "name": "Trốn Tìm",
+    "description": "Khoảng cách di chuyển của <color=yellow>Né Tránh</color> tăng 33%."
+  }
+}

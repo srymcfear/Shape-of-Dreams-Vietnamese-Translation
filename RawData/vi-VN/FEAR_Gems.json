@@ -1,0 +1,374 @@
+{
+  "C_CamillasGiftRuined": {
+    "name": "Món Quà Của Camilla (Đã Vỡ)",
+    "description": "Viên ngọc này đã bị phá hủy sau khi nhận quá nhiều sát thương."
+  },
+  "C_Charcoal": {
+    "name": "Tinh Hoa Than Củi",
+    "description": "Khi Ký Ức này <color=yellow>trúng</color> kẻ địch, nó bắn ra một mảnh than, gây <sprite=1><color=#fff><gradient=sv_ap>60%</gradient></color><sprite=5> <color=yellow>sát thương</color>. Nếu mục tiêu đã <color=yellow>bị thiêu đốt</color>, nó gây <sprite=1><color=#fff><gradient=sv_ap>100%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> thay vào đó."
+  },
+  "C_Confidence": {
+    "name": "Tinh Hoa Tự Tin",
+    "description": "Sát thương của Ký Ức này gây ra lên kẻ địch ở gần được tăng thêm 40%<sprite=5>."
+  },
+  "C_Efficiency": {
+    "name": "Tinh Hoa Hiệu Quả",
+    "description": "Ký Ức này nhận 36<sprite=5> <color=yellow>Tốc độ Hồi Ký Ức</color>, giảm <color=yellow>thời gian hồi chiêu</color> của nó đi 26%<sprite=5>."
+  },
+  "C_Guidance": {
+    "name": "Tinh Hoa Chỉ Dẫn",
+    "description": "<color=yellow>Lượng hồi phục</color> của Ký Ức này tăng thêm 40%<sprite=5>. 30% lượng hồi phục dư thừa từ Ký Ức này được chuyển thành <color=yellow>Lá Chắn</color> áp dụng lên bạn, kéo dài 2 giây."
+  },
+  "C_Lethality": {
+    "name": "Tinh Hoa Sát Thương",
+    "description": "Sát thương của Ký Ức này gây ra lên kẻ địch có 70% Máu trở lên được tăng thêm 60%<sprite=5>."
+  },
+  "C_Love": {
+    "name": "Tinh Hoa Tình Yêu",
+    "description": "Khi Ký Ức này <color=yellow>hồi phục</color> <color=yellow>Máu</color> hoặc cấp <color=yellow>Lá Chắn</color> cho đồng minh, <color=yellow>Tốc độ Di chuyển</color> và <color=yellow>Tốc độ Đánh</color> của họ tăng 16%<sprite=5> trong 2 giây. Hiệu ứng giảm 50% khi áp dụng lên chính bạn."
+  },
+  "C_Quicksilver": {
+    "name": "Tinh Hoa Linh Hoạt",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này hoặc gây <color=yellow>sát thương hệ Lửa</color> với nó giúp tăng <color=yellow>Tốc độ Di chuyển</color> thêm 30%<sprite=5>, giảm dần về bình thường trong 2.5 giây."
+  },
+  "C_Regeneration": {
+    "name": "Tinh Hoa Tái Sinh",
+    "description": "Nếu Ký Ức này được <color=yellow>thi triển</color> <color=yellow>trong chiến đấu</color>, nó <color=yellow>hồi phục</color> 51<sprite=5> Máu cho bạn trong 5 giây."
+  },
+  "C_Responsibility": {
+    "name": "Tinh Hoa Trách Nhiệm",
+    "description": "Mỗi 8 giây, <color=yellow>lần thi triển</color> của Ký Ức này được <color=yellow>cường hóa</color>. 1.2 giây sau <color=yellow>lần thi triển được cường hóa</color>, nó gây <sprite=2><color=#fff><gradient=sv_ad>400%</gradient></color><sprite=5> <color=yellow>sát thương</color> chia đều cho tất cả kẻ địch trúng đòn trong lần thi triển đó."
+  },
+  "C_Sharp": {
+    "name": "Tinh Hoa Sắc Bén",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này bắn ra 5 mũi tên gây <sprite=1><color=#fff><gradient=sv_ap>90%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên kẻ địch ngẫu nhiên."
+  },
+  "C_Shatter": {
+    "name": "Tinh Hoa Vỡ Vụn",
+    "description": "Mỗi 8 giây, <color=yellow>lần thi triển</color> của Ký Ức này được <color=yellow>cường hóa</color>. Sát thương gây ra lên kẻ địch bởi <color=yellow>lần thi triển được cường hóa</color> tăng thêm 40%<sprite=5>. Nếu nó gây <color=yellow>sát thương hệ Ánh Sáng</color>, sát thương tăng thêm 72%<sprite=5>."
+  },
+  "C_Sulfur": {
+    "name": "Tinh Hoa Lưu Huỳnh",
+    "description": "Tất cả <color=yellow>sát thương</color> của Ký Ức này tăng thêm 15%<sprite=5> và được chuyển thành <color=yellow>sát thương hệ Lửa</color>. Sát thương hệ Lửa theo thời gian của bạn tăng thêm 50%<sprite=5>."
+  },
+  "C_Talc": {
+    "name": "Tinh Hoa Talc",
+    "description": "Mỗi 8 giây, <color=yellow>lần thi triển</color> của Ký Ức này được <color=yellow>cường hóa</color>. Sát thương ban đầu gây ra cho mỗi kẻ địch bởi <color=yellow>lần thi triển được cường hóa</color> tăng thêm <sprite=1><color=#fff><gradient=sv_ap>400%</gradient></color><sprite=5>."
+  },
+  "C_Vengeance": {
+    "name": "Tinh Hoa Trả Thù",
+    "description": "Khi bạn nhận bất kỳ sát thương nào, bắn ra 2 lưỡi dao gây <sprite=1><color=#fff><gradient=sv_ap>93%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>4%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên kẻ địch gần đó. Sau khi nhận sát thương, <color=yellow>sát thương</color> và <color=yellow>lượng hồi phục</color> của Ký Ức này tăng thêm 34%<sprite=5> trong 5 giây."
+  },
+  "C_Void": {
+    "name": "Tinh Hoa Hư Vô",
+    "description": "Sau khi thi triển Ký Ức này, <color=yellow>đòn tấn công</color> tiếp theo của bạn trong vòng 4 giây sẽ phát nổ, gây <sprite=2><color=#fff><gradient=sv_ad>150%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên mục tiêu và kẻ địch gần đó."
+  },
+  "C_Wind": {
+    "name": "Tinh Hoa Gió",
+    "description": "Thi triển Ký Ức này giúp tăng <color=yellow>Tốc độ Đánh</color> thêm 33%<sprite=5> trong 5 giây."
+  },
+  "E_Aftershock": {
+    "name": "Tinh Hoa Chấn Động",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này giải phóng một <color=yellow>sóng xung kích</color> trì hoãn gây <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>20%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color> lên kẻ địch xung quanh bạn và <color=yellow>làm choáng</color> chúng trong 0.5 giây.\nVới mỗi kẻ địch trúng <color=yellow>sóng xung kích</color> này, bạn nhận 4<sprite=5> <color=yellow>Giáp</color>, tối đa 22<sprite=5> <color=yellow>Giáp</color>. Khi trúng <color=yellow>trùm</color>, bạn nhận được lượng <color=yellow>Giáp</color> tối đa. Lượng Giáp này kéo dài cho đến khi bạn <color=yellow>thi triển</color> lại Ký Ức này."
+  },
+  "E_Apathy": {
+    "name": "Tinh Hoa Thờ Ơ",
+    "description": "Tất cả sát thương của Nhà Du Hành giảm 25%. Khi Ký Ức này gây <color=yellow>Sát thương hệ Lạnh</color> lên kẻ địch, <color=yellow>Giáp</color> của bạn tăng thêm 22<sprite=5> trong 5 giây."
+  },
+  "E_Blossom": {
+    "name": "Tinh Hoa Nở Hoa",
+    "description": "Ký Ức này gây 70% ít <color=yellow>sát thương</color> hơn lên kẻ địch. Khi nó gây <color=yellow>sát thương</color>, nó <color=yellow>hồi phục</color> cho một đồng minh ngẫu nhiên ở gần một lượng bằng 22%<sprite=5> <color=yellow>lượng sát thương đã gây ra</color>."
+  },
+  "E_Clemency": {
+    "name": "Tinh Hoa Khoan Dung",
+    "description": "<color=yellow>Hồi phục</color> <color=yellow>máu của bạn</color> một lượng bằng 4%<sprite=5> <color=yellow>sát thương</color> gây ra bởi Ký Ức này."
+  },
+  "E_Crimson": {
+    "name": "Tinh Hoa Đỏ Thẫm",
+    "description": "Mỗi đòn <color=yellow>Đánh Thường</color> thứ 4 trở nên <color=yellow>được cường hóa</color>, kích hoạt <color=yellow>Vụ Nổ Đỏ Thẫm</color> gây <sprite=2><color=#fff><gradient=sv_ad>100%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên kẻ địch. Bán kính vụ nổ tỷ lệ với <color=yellow>Tỷ lệ Chí mạng</color> của bạn.\nBạn <color=yellow>hồi phục</color> <sprite=2><color=#fff><gradient=sv_ad>22%</gradient></color><sprite=5> Máu cho mỗi kẻ địch trúng vụ nổ, tăng 100% nếu mục tiêu là <color=yellow>Trùm</color>."
+  },
+  "E_Direness": {
+    "name": "Tinh Hoa Nguy Khốn",
+    "description": "<color=yellow>Máu</color> của bạn càng thấp, <color=yellow>thời gian hồi chiêu</color> của Ký Ức này càng ngắn. Khi <color=yellow>Máu</color> của bạn ở mức 50%, <color=yellow>thời gian hồi chiêu</color> được giảm tối đa 55%<sprite=5>."
+  },
+  "E_Domination": {
+    "name": "Tinh Hoa Thống Trị",
+    "description": "Tăng <color=yellow>Tỷ lệ Chí mạng</color> lên 20%. Mỗi lần bạn gây đòn chí mạng lên kẻ địch, <color=yellow>Sát thương Chí mạng</color> của bạn tăng 0.3%, cộng dồn tối đa 20%<sprite=5>."
+  },
+  "E_Fangs": {
+    "name": "Tinh Hoa Nanh Vuốt",
+    "description": "Mỗi đòn <color=yellow>đánh thường</color> thứ 4 là <color=yellow>đòn chí mạng</color>. Khi bạn gây <color=yellow>đòn chí mạng</color>, <color=yellow>thời gian hồi chiêu</color> của Ký Ức này giảm 0.7<sprite=5> giây và bắn ra 2 <color=yellow>Nanh Vuốt</color> về phía kẻ địch gần đó, mỗi nanh gây <sprite=2><color=#fff><gradient=sv_ad>60%</gradient></color><sprite=5> <color=yellow>sát thương</color>."
+  },
+  "E_Fever": {
+    "name": "Tinh Hoa Sốt Nóng",
+    "description": "Khi Ký Ức này gây <color=yellow>sát thương hệ Lửa</color> lên kẻ địch, nó lây nhiễm cho chúng <color=yellow>Cơn Sốt</color>. Kẻ địch bị nhiễm <color=yellow>Cơn Sốt</color> sẽ phát nổ sau 2 giây, gây <sprite=1><color=#fff><gradient=sv_ap>130%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên bản thân và kẻ địch gần đó. Với mỗi <color=yellow>cấp chồng Lửa</color> trên mục tiêu, bán kính vụ nổ tăng 30% và sát thương vụ nổ tăng 10%."
+  },
+  "E_Flexibility": {
+    "name": "Tinh Hoa Linh Hoạt",
+    "description": "Trong khi Ký Ức này đang <color=yellow>hồi chiêu</color>, 37%<sprite=5> sát thương nhận vào được <color=yellow>chia nhỏ</color> trong 4 giây. Lượng sát thương <color=yellow>chia nhỏ</color> này được giảm đi 20%."
+  },
+  "E_Insensitivity": {
+    "name": "Tinh Hoa Vô Cảm",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này sẽ thả một <color=yellow>quả bom</color> cho mỗi 2m bạn di chuyển trong 4 giây tiếp theo. Mỗi quả bom phát nổ sau một thời gian ngắn, gây <sprite=1><color=#fff><gradient=sv_ap>140%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên kẻ địch."
+  },
+  "E_Insight": {
+    "name": "Tinh Hoa Thấu Thị",
+    "description": "Khi Ký Ức này gây bất kỳ <color=yellow>sát thương</color> nào lên kẻ địch, nó gây thêm <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> lên tối đa 3<sprite=5> kẻ địch và tăng <color=yellow>Tốc độ Hồi Ký Ức</color> thêm 20<sprite=5> trong 5 giây. Chỉ kích hoạt mỗi 3 giây một lần."
+  },
+  "E_Inversion": {
+    "name": "Tinh Hoa Đảo Ngược",
+    "description": "<color=yellow>Thời gian hồi chiêu</color> của Ký Ức này tăng thêm 15%<sprite=5>, nhưng nó cũng gây thêm 20%<sprite=5> <color=yellow>sát thương</color> lên kẻ địch. <color=yellow>Sát thương nguyên tố</color> của nó bị <color=yellow>đảo ngược</color> (Lửa/Lạnh, Ánh Sáng/Bóng Tối)."
+  },
+  "E_Metal": {
+    "name": "Tinh Hoa Kim Loại",
+    "description": "Khi bạn <color=yellow>hạ gục</color> kẻ địch, <color=yellow>thời gian hồi chiêu</color> của Ký Ức này được <color=yellow>giảm</color> đi 1<sprite=5> giây."
+  },
+  "E_Might": {
+    "name": "Tinh Hoa Người Khổng Lồ",
+    "description": "Tăng <color=yellow>Máu Tối Đa</color> thêm 270<sprite=5>. Sát thương của Ký Ức này tăng 1% cho mỗi 70 điểm <color=yellow>Máu Tối Đa</color> của bạn."
+  },
+  "E_Obsidian": {
+    "name": "Tinh Hoa Đá Vỏ Chai",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này <color=yellow>cường hóa</color> đòn tấn công tiếp theo của bạn trong vòng 5 giây. <color=yellow>Đòn tấn công được cường hóa</color> gây <sprite=2><color=#fff><gradient=sv_ad>250%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Bóng Tối</color> lên mục tiêu và giảm <color=yellow>thời gian hồi chiêu</color> của Ký Ức này đi 1<sprite=5> giây."
+  },
+  "E_Omega": {
+    "name": "Tinh Hoa Cuối Cùng",
+    "description": "Trong khi Ký Ức này không trong <color=yellow>thời gian hồi chiêu</color>, mỗi giây nhận một cấp chồng <color=yellow>Cuối Cùng</color> lên tới 20 cấp. Khi có cấp chồng, <color=yellow>lần thi triển</color> của Ký Ức này được <color=yellow>cường hóa</color>, tăng <color=yellow>sát thương</color> lên 5%<sprite=5> mỗi cấp chồng."
+  },
+  "E_Opportunity": {
+    "name": "Tinh Hoa Cơ Hội",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này giảm <color=yellow>thời gian hồi chiêu</color> của <color=yellow>Né Tránh</color> đi 3<sprite=5> giây. Chỉ kích hoạt mỗi 8 giây một lần."
+  },
+  "E_OurStory_Completed": {
+    "name": "Câu Chuyện Của Chúng Ta (Đã Hoàn Thành!)",
+    "description": "Tăng <color=yellow>Sát Thương Vật Lý</color> và <color=yellow>Sức Mạnh Phép Thuật</color>, và hiệu ứng của tất cả buff từ <color=yellow>Xung Kích Méo Mó</color>."
+  },
+  "E_OurStory_Unfinished": {
+    "name": "Câu Chuyện Của Chúng Ta (Tác Phẩm Đang Dở)",
+    "description": "Chất lượng tăng 50% mỗi khi bạn <color=yellow>đánh bại</color> 75 kẻ địch. Nó trở nên <color=yellow>hoàn thành</color> khi chất lượng đạt 500%."
+  },
+  "E_Overload": {
+    "name": "Tinh Hoa Quá Tải",
+    "description": "Khi bạn <color=yellow>thi triển</color> Ký Ức này, <color=yellow>hy sinh</color> 20% Máu hiện tại để <color=yellow>cường hóa</color> <color=yellow>lần thi triển</color>. <color=yellow>Sát thương</color> và <color=yellow>lượng hồi phục</color> gây ra bởi <color=yellow>lần thi triển được cường hóa</color> tăng thêm 45%<sprite=5>."
+  },
+  "E_Pain": {
+    "name": "Tinh Hoa Đau Đớn",
+    "description": "Tất cả <color=yellow>sát thương</color> của Ký Ức này gây thêm 40%<sprite=5> <color=yellow>Sát thương vùng</color> xung quanh mục tiêu. <color=yellow>Sát thương vùng</color> này có cùng loại nguyên tố với sát thương ban đầu."
+  },
+  "E_Predation": {
+    "name": "Tinh Hoa Săn Mồi",
+    "description": "Ký Ức này gây thêm 40%<sprite=5> sát thương lên <color=yellow>Trùm</color> và <color=yellow>Thợ Săn</color>. Đánh bại <color=yellow>Thợ Săn</color> rơi 1 <color=yellow>Ngọc Sức Mạnh</color>, trong khi đánh bại <color=yellow>Trùm</color> rơi 3. Khi bạn nhặt <color=yellow>Ngọc Sức Mạnh</color>, bạn nhận 1 <color=yellow>Sát Thương Vật Lý</color>, 1 <color=yellow>Sức Mạnh Phép Thuật</color> hoặc 5 <color=yellow>Máu Tối Đa</color>."
+  },
+  "E_Protection": {
+    "name": "Tinh Hoa Bảo Vệ",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này cấp 40<sprite=5> <color=yellow>Giáp</color> trong 3 giây, giúp giảm sát thương nhận vào và khiến bạn <color=yellow>Không thể bị ngăn cản</color>. Chỉ kích hoạt mỗi 5 giây một lần."
+  },
+  "E_Reflex": {
+    "name": "Tinh Hoa Phản Xạ",
+    "description": "Khi bạn nhận bất kỳ <color=yellow>sát thương</color> nào, giải phóng sức lạnh về phía kẻ địch gần nhất, gây <sprite=1><color=#fff><gradient=sv_ap>100%</gradient></color><color=white><size=80%> + </size></color><color=#7cf248>Thưởng<sprite=3></color><color=#fff><gradient=sv_ahp>4%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lạnh</color> và đẩy lùi chúng, sau đó tăng <color=yellow>Giáp</color> của bạn thêm 40<sprite=5> trong 1.5 giây."
+  },
+  "E_Thunder": {
+    "name": "Tinh Hoa Sấm Sét",
+    "description": "<color=yellow>Thi triển một Ký Ức khác</color> hoặc sử dụng <color=yellow>Né Tránh</color> sẽ nhận 1 cấp chồng <color=yellow>Sấm Sét</color>, tối đa 7<sprite=5> lần. <color=yellow>Thi triển</color> Ký Ức này tiêu thụ tất cả cấp chồng <color=yellow>Sấm Sét</color>, gọi sét đánh xuống kẻ địch gần đó một lần cho mỗi cấp chồng. Mỗi tia sét gây <sprite=1><color=#fff><gradient=sv_ap>117%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color>."
+  },
+  "E_Twilight": {
+    "name": "Tinh Hoa Hoàng Hôn",
+    "description": "<color=yellow>Đánh thường</color> của bạn được chuyển thành <color=yellow>sát thương hệ Bóng Tối</color>. Khi Ký Ức này gây sát thương lên kẻ địch có 3 cấp chồng <color=yellow>Bóng Tối</color> trở lên, tiêu thụ tất cả cấp chồng để gây <sprite=1><color=#fff><gradient=sv_ap>54%</gradient></color><sprite=5> <color=yellow>sát thương</color> cho mỗi cấp chồng và <color=yellow>hồi phục</color> 6<sprite=5> máu cho mỗi cấp chồng."
+  },
+  "E_Umbra": {
+    "name": "Tinh Hoa Bóng Tối",
+    "description": "Sát thương của ký ức này tăng thêm 42%<sprite=5> <color=yellow>Tỷ lệ Chí mạng</color> của bạn. Nếu <color=yellow>Sát thương</color> là <color=yellow>Sát thương hệ Bóng Tối</color>, <color=yellow>Hồi phục</color> 6%<sprite=5> lượng sát thương gây ra thành <color=yellow>Máu</color>."
+  },
+  "E_Virtuousness": {
+    "name": "Tinh Hoa Đức Hạnh",
+    "description": "Số lần nạp của Ký Ức này tăng thêm 1<sprite=5>. Mỗi lần tăng 150% chất lượng, số lần nạp tăng thêm 1."
+  },
+  "L_CamillasGift": {
+    "name": "Món Quà Của Camilla",
+    "description": "Có thể <color=yellow>bán</color> tại cửa hàng với giá Vàng. <color=yellow>Giá</color> <color=yellow>tăng lên</color> mỗi khi bạn chuyển sang thế giới tiếp theo. Nó bị hỏng nếu Máu của bạn giảm xuống dưới 50% do sát thương của kẻ địch."
+  },
+  "L_ChaosApple": {
+    "name": "Quả Táo Bất Hòa",
+    "description": "Mỗi khi bạn <color=yellow>di chuyển</color> qua <color=yellow>Khe Nứt</color>, Ký Ức này tạm thời <color=yellow>biến đổi</color> thành một Ký Ức ngẫu nhiên khác. Ký Ức <color=yellow>biến đổi</color> không có <color=yellow>thời gian hồi chiêu</color>, nhưng chỉ có thể <color=yellow>thi triển</color> 4<sprite=5> lần mỗi phòng và trở lại Ký Ức ban đầu khi sử dụng hết số lần thi triển."
+  },
+  "L_DivineFaith": {
+    "name": "Đức Tin Thần Thánh",
+    "description": "Mỗi khi bạn <color=yellow>hạ gục</color> kẻ địch bằng Ký Ức này, nhận một cấp chồng <color=yellow>Đức Tin</color> lên tới 75<sprite=5> cấp. Với mỗi cấp chồng <color=yellow>Đức Tin</color>, <color=yellow>sát thương</color> của Ký Ức này lên kẻ địch và <color=yellow>lượng hồi phục</color> lên đồng minh tăng 0.4% và Máu Tối Đa của bạn tăng 4."
+  },
+  "L_Embertail": {
+    "name": "Đuôi Lửa",
+    "description": "<color=yellow>Đòn tấn công</color> của bạn bật lại để gây <sprite=1><color=#fff><gradient=sv_ap>100%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên kẻ địch gần đó. Với mỗi kẻ địch gần đang chìm trong biển lửa, <color=yellow>sát thương</color> và <color=yellow>lượng hồi phục</color> của Ký Ức này tăng thêm 8%<sprite=5> và <color=yellow>thời gian hồi chiêu</color> của nó giảm 8%<sprite=5>. Sát thương hệ Lửa theo thời gian của bạn tăng 100%."
+  },
+  "L_HeartOfGold": {
+    "name": "Trái Tim Vàng",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này tiêu tốn 3% Vàng của bạn để <color=yellow>cường hóa</color> lần thi triển. <color=yellow>Sát thương</color> và <color=yellow>lượng hồi phục</color> từ <color=yellow>lần thi triển được cường hóa</color> tăng thêm 12%<sprite=5> cho mỗi 100 Vàng bạn có."
+  },
+  "L_MetalCrystal": {
+    "name": "Pha Lê Kim Loại",
+    "description": "Những phần tiếp xúc với ánh sáng phát sáng với màu sắc siêu thực."
+  },
+  "L_Paranoia": {
+    "name": "Tinh Hoa Hoang Tưởng",
+    "description": "Khi bạn nhận bất kỳ <color=yellow>sát thương</color> nào, Ký Ức này nhận 150<sprite=5> <color=yellow>Tốc độ Hồi Ký Ức</color> trong 6 giây, giảm <color=yellow>thời gian hồi chiêu</color> của nó đi 60%<sprite=5>, nhưng nó sẽ <color=yellow>tự động thi triển</color> lên kẻ địch gần đó."
+  },
+  "L_Perfect": {
+    "name": "Sự Hoàn Hảo",
+    "description": "Tăng Sát Thương Vật Lý thêm 6<sprite=5>, Sức Mạnh Phép Thuật thêm 6<sprite=5>, Máu Tối Đa thêm 31<sprite=5>, Tốc Độ Đánh thêm 9%<sprite=5>, Tỷ Lệ Chí Mạng thêm 5%<sprite=5> và Tốc Độ Hồi Ký Ức thêm 9<sprite=5>."
+  },
+  "L_PureWhite": {
+    "name": "Trắng Tinh Khiết",
+    "description": "Mỗi 10 giây, <color=yellow>lần thi triển</color> của Ký Ức này được <color=yellow>cường hóa</color>. <color=yellow>Lần thi triển được cường hóa</color> bắn ra 3 <color=yellow>đạn</color>, gây <color=yellow>sát thương hệ Ánh Sáng</color> bằng 20%<sprite=5> <color=yellow>sát thương</color> ban đầu gây ra cho mỗi kẻ địch. Số lượng đạn bắn ra tăng lên theo số cấp chồng <color=yellow>Ánh Sáng</color> trên mỗi mục tiêu."
+  },
+  "L_SolarEye": {
+    "name": "Mắt Thần Mặt Trời",
+    "description": "Mỗi 20 giây, <color=yellow>lần thi triển</color> của Ký Ức này được <color=yellow>cường hóa</color>, trút xuống <color=yellow>Ánh Sáng Mặt Trời</color> lên tất cả kẻ địch gần đó đang <color=yellow>bị thiêu đốt</color>. <color=yellow>Ánh Sáng Mặt Trời</color> gây <sprite=1><color=#fff><gradient=sv_ap>360%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> trong 1.5 giây và tăng cấp chồng <color=yellow>Thiêu Đốt</color> lên 9<sprite=5>. Tăng sát thương hệ Lửa theo thời gian của bạn lên 100%."
+  },
+  "L_SuppressedArcanum": {
+    "name": "Huyền Bí Bị Kìm Nén",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này hy sinh 5% Máu hiện tại để tạo ra <color=yellow>Vụ Nổ Vàng</color>. Kẻ địch bị <color=yellow>vụ nổ</color> trúng phải chịu <sprite=1><color=#fff><gradient=sv_ap>240%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color>, trong khi đồng minh nhận được <color=yellow>Lá Chắn</color> <sprite=1><color=#fff><gradient=sv_ap>61%</gradient></color><sprite=5> kéo dài 2.5 giây. Nếu Máu của bạn dưới 60%, <color=yellow>lượng Lá Chắn</color> của Ký Ức này tăng thêm 50%."
+  },
+  "R_Abyss": {
+    "name": "Tinh Hoa Vực Thẳm",
+    "description": "Chuyển đổi tất cả <color=yellow>Sát thương</color> của ký ức này thành <color=yellow>Sát thương hệ Bóng Tối</color>. Nếu mục tiêu trúng đòn của ký ức này có 3 cấp chồng <color=yellow>Bóng Tối</color> trở lên, kích hoạt <color=yellow>Hiệu Ứng Tấn Công</color> với 43%<sprite=5> cơ hội."
+  },
+  "R_Accuracy": {
+    "name": "Tinh Hoa Chính Xác",
+    "description": "Khi Ký Ức này gây <color=yellow>sát thương</color> lên kẻ địch ở xa, nó bắn ra một <color=yellow>đạn bổ sung</color> gây 50%<sprite=5> <color=yellow>sát thương</color>. <color=yellow>Sát thương</color> của <color=yellow>đạn</color> này có cùng loại nguyên tố với sát thương ban đầu."
+  },
+  "R_Adventure": {
+    "name": "Tinh Hoa Phiêu Lưu",
+    "description": "Bất cứ khi nào bạn <color=yellow>di chuyển</color> đến một <color=yellow>nơi mới</color>, <color=yellow>tăng</color> <color=yellow>chất lượng</color> của một <color=yellow>Tinh Hoa</color> khác được trang bị cho Ký Ức này thêm +10% và nhận 19<sprite=5> Vàng."
+  },
+  "R_Blade": {
+    "name": "Tinh Hoa Lưỡi Kiếm",
+    "description": "Mỗi lần Ký Ức này <color=yellow>trúng</color> kẻ địch, nó triệu hồi những lưỡi kiếm rạch mục tiêu gây <sprite=2><color=#fff><gradient=sv_ad>69%</gradient></color><sprite=5> sát thương 3<sprite=5> lần. Chỉ kích hoạt mỗi 2 giây một lần cho mỗi kẻ địch."
+  },
+  "R_Bleak": {
+    "name": "Tinh Hoa U Ám",
+    "description": "Ký Ức này gây thêm 50%<sprite=5> sát thương lên kẻ địch bị ảnh hưởng bởi <color=yellow>Lạnh</color>, <color=yellow>làm chậm</color>, <color=yellow>rễ</color> hoặc <color=yellow>choáng</color>."
+  },
+  "R_Blood": {
+    "name": "Tinh Hoa Giọt Máu",
+    "description": "Khi Máu giảm xuống dưới 40%, <color=yellow>hy sinh</color> <color=yellow>chất lượng</color> của <color=yellow>Tinh Hoa</color> này đi 80% để <color=yellow>hồi phục</color> 40% <color=yellow>Máu Tối Đa</color> của bạn. Chỉ kích hoạt mỗi 4 giây một lần."
+  },
+  "R_Celestial": {
+    "name": "Tinh Hoa Thiên Thể",
+    "description": "Mỗi 8 giây, <color=yellow>lần thi triển</color> của Ký Ức này được <color=yellow>cường hóa</color>. Khi <color=yellow>lần thi triển được cường hóa</color> trúng kẻ địch lần đầu tiên, nó thả ra 4 thiên thạch, mỗi thiên thạch gây <sprite=1><color=#fff><gradient=sv_ap>130%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color>."
+  },
+  "R_Composure": {
+    "name": "Tinh Hoa Điềm Tĩnh",
+    "description": "Thi triển Ký Ức này tăng <color=yellow>Tỷ lệ Chí mạng</color> của bạn thêm 30%<sprite=5> trong 5 giây. Hiệu ứng này kết thúc sớm nếu bạn nhận sát thương từ kẻ địch."
+  },
+  "R_Contempt": {
+    "name": "Tinh Hoa Khinh Miệt",
+    "description": "Ký Ức này gây thêm sát thương khi Máu của mục tiêu càng giảm, tối đa <color=yellow>tăng</color> 50%<sprite=5> khi Máu của chúng ở mức 20%."
+  },
+  "R_Dusk": {
+    "name": "Tinh Hoa Hoàng Hôn",
+    "description": "Thi triển Ký Ức này bắn ra 2 <color=yellow>mảnh vỡ Hoàng Hôn</color> gây <sprite=2><color=#fff><gradient=sv_ad>30%</gradient></color><sprite=5> <color=yellow>sát thương hệ Bóng Tối</color> mỗi lần bạn <color=yellow>tấn công</color> kẻ địch trong 5 giây."
+  },
+  "R_Epiphany": {
+    "name": "Tinh Hoa Giác Ngộ",
+    "description": "Khi <color=yellow>Thi triển</color> Ký Ức này, <color=yellow>Sức Mạnh Phép Thuật</color> của bạn tăng thêm 22<sprite=5> trong 5 giây. Nếu Ký Ức này là <color=yellow>Chiêu Cuối</color>, 21%<sprite=5> <color=yellow>Thời gian Hồi Chiêu</color> của nó được hoàn trả ngay lập tức. Chỉ có thể xảy ra mỗi 10 giây một lần."
+  },
+  "R_Flow": {
+    "name": "Tinh Hoa Dòng Chảy",
+    "description": "Gây <color=yellow>sát thương hệ Ánh Sáng</color> với bất kỳ Ký Ức nào cũng giảm <color=yellow>thời gian hồi chiêu</color> của Ký Ức này đi 6%<sprite=5>. Đối với Chiêu Cuối, chỉ 40% hiệu ứng được áp dụng. Tất cả hiệu ứng <color=yellow>Giảm Thời gian Hồi Chiêu</color> cho Ký Ức này cũng áp dụng cho <color=yellow>Tinh Hoa</color> được trang bị."
+  },
+  "R_Frost": {
+    "name": "Tinh Hoa Băng Giá",
+    "description": "Khi Ký Ức này gây <color=yellow>sát thương hệ Lạnh</color>, nó gây thêm <color=yellow>sát thương hệ Lạnh</color> bằng 10%<sprite=5> <color=yellow>Máu Tối Đa</color> của bạn và <color=yellow>làm choáng</color> kẻ địch trong chốc lát. Chỉ kích hoạt mỗi 5 giây một lần cho mỗi kẻ địch. Mỗi lần kích hoạt, tăng vĩnh viễn <color=yellow>Máu Tối Đa</color> của bạn lên 1."
+  },
+  "R_Glaciate": {
+    "name": "Tinh Hoa Đóng Băng",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này giải phóng một luồng khí lạnh gây <sprite=1><color=#fff><gradient=sv_ap>160%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color> lên kẻ địch. Vùng hiệu ứng tăng theo chất lượng."
+  },
+  "R_Glass": {
+    "name": "Tinh Hoa Thủy Tinh",
+    "description": "Khi <color=yellow>Trong Chiến đấu</color>, nhận <color=yellow>Lá Chắn</color> <color=yellow>Hồi phục</color> Máu bằng 12%<sprite=5> lượng Lá Chắn nhận được. <color=yellow>Lượng Hồi phục</color> của Ký Ức này tăng thêm 18%<sprite=5> cho mỗi <color=yellow>Ký Ức hệ Lạnh</color> bạn sở hữu."
+  },
+  "R_Insatiable": {
+    "name": "Tinh Hoa Tham Lam",
+    "description": "Trong 5 giây sau khi thi triển Ký Ức này, <color=yellow>Sát Thương Vật Lý</color> tăng thêm 15%<sprite=5> và <color=yellow>hồi phục</color> 6<sprite=5> Máu mỗi <color=yellow>đòn tấn công</color>."
+  },
+  "R_Lava": {
+    "name": "Tinh Hoa Dung Nham",
+    "description": "Mỗi 4 giây, <color=yellow>Thi triển</color> Ký Ức này được <color=yellow>Cường hóa</color>. Lần đầu tiên gây <color=yellow>Sát thương hệ Lửa</color> lên kẻ địch với <color=yellow>Lần thi triển</color> được Cường hóa sẽ tạo ra dung nham bên dưới chúng kéo dài 4 giây. Tất cả kẻ địch trên dung nham chịu <sprite=1><color=#fff><gradient=sv_ap>120%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Lửa</color> mỗi giây và sát thương chịu từ <color=yellow>Sát thương hệ Lửa</color> tăng 30%. Có thể duy trì tối đa 5 vũng dung nham."
+  },
+  "R_Momentum": {
+    "name": "Tinh Hoa Đà",
+    "description": "Mỗi lần bạn <color=yellow>tấn công</color> kẻ địch, <color=yellow>thời gian hồi chiêu</color> của Ký Ức này được <color=yellow>giảm</color> đi 0.4<sprite=5> giây."
+  },
+  "R_Mortality": {
+    "name": "Tinh Hoa Sinh Tử",
+    "description": "Khi <color=yellow>Trúng đòn</color>, Ký Ức này có 1.2%<sprite=5> cơ hội <color=yellow>Hạ gục ngay lập tức</color> kẻ địch không phải trùm."
+  },
+  "R_NightSky": {
+    "name": "Tinh Hoa Bầu Trời Đầy Sao",
+    "description": "Mỗi lần Ký Ức này <color=yellow>trúng</color> kẻ địch, <color=yellow>Tốc độ Đánh</color> của bạn tăng 10%<sprite=5> trong 3 giây, tối đa 20%<sprite=5>. Nếu nó gây <color=yellow>sát thương hệ Bóng Tối</color>, có thể tăng tối đa 40%<sprite=5>. <color=yellow>Tấn công</color> kẻ địch làm mới thời gian duy trì của hiệu ứng này."
+  },
+  "R_Panic": {
+    "name": "Tinh Hoa Hoảng Loạn",
+    "description": "Nhận bất kỳ <color=yellow>sát thương</color> nào cũng cấp cho Ký Ức này 30<sprite=5> <color=yellow>Tốc độ Hồi Ký Ức</color> và <color=yellow>Tốc độ Di chuyển</color> của bạn tăng 20%<sprite=5> trong 3 giây."
+  },
+  "R_Purity": {
+    "name": "Tinh Hoa Tinh Khiết",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này loại bỏ tất cả <color=yellow>Hiệu Ứng Nguyên Tố</color> đang tác động lên Nhà Du Hành. <color=yellow>Hồi phục</color> <sprite=1><color=#fff><gradient=sv_ap>150%</gradient></color><sprite=5> Máu cho mỗi <color=yellow>Hiệu Ứng Nguyên Tố</color> được loại bỏ. Chỉ kích hoạt mỗi 4 giây một lần."
+  },
+  "R_Rejuvenation": {
+    "name": "Tinh Hoa Trẻ Hóa",
+    "description": "Mỗi 15 giây, <color=yellow>lần thi triển</color> của Ký Ức này trở nên <color=yellow>được cường hóa</color>. Trong 1.5 giây sau khi thi triển <color=yellow>lần thi triển được cường hóa</color>, <color=yellow>hồi phục</color> 14%<sprite=5> <color=yellow>sát thương</color> gây ra thành <color=yellow>Máu</color> của bạn."
+  },
+  "R_Ricochet": {
+    "name": "Tinh Hoa Nảy",
+    "description": "<color=yellow>Sát thương</color> hoặc <color=yellow>lượng hồi phục</color> từ Ký Ức này có 50%<sprite=5> cơ hội bật lại đến một mục tiêu khác gần đó, gây 90%<sprite=5> <color=yellow>sát thương</color> hoặc <color=yellow>lượng hồi phục</color>. Nếu là <color=yellow>sát thương</color>, nó có cùng loại nguyên tố với sát thương ban đầu."
+  },
+  "R_Rigidity": {
+    "name": "Tinh Hoa Cứng Rắn",
+    "description": "Khi Ký Ức này <color=yellow>trúng</color> kẻ địch, nhận một <color=yellow>Lá Chắn</color> 9<sprite=5> kéo dài 2 giây. Nếu nó gây <color=yellow>sát thương hệ Lạnh</color>, hiệu ứng này tăng 80%."
+  },
+  "R_Scorched": {
+    "name": "Tinh Hoa Thiêu Đốt",
+    "description": "<color=yellow>Thi triển</color> Ký Ức này bắn ra 3<sprite=5> <color=yellow>Cầu Lửa</color>, mỗi quả gây <sprite=1><color=#fff><gradient=sv_ap>47%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color> lên kẻ địch gần đó."
+  },
+  "R_Shock": {
+    "name": "Tinh Hoa Sốc Điện",
+    "description": "Mỗi đòn <color=yellow>đánh thường</color> thứ 4 trở nên <color=yellow>được cường hóa</color>, giải phóng <color=yellow>Tia Sét</color> bật qua lại giữa các kẻ địch, gây <sprite=2><color=#fff><gradient=sv_ad>40%</gradient></color><sprite=5> <color=yellow>sát thương hệ Ánh Sáng</color> tối đa 2 lần. Cứ mỗi 20% <color=yellow>Tỷ lệ Chí mạng</color>, số lần trúng tối đa tăng 1."
+  },
+  "R_Snow": {
+    "name": "Tinh Hoa Tuyết",
+    "description": "Nhận một Lá Chắn 40<sprite=5> có thể hồi phục nếu bạn tránh sát thương trong 5 giây. Khi Lá Chắn đang hoạt động, định kỳ bắn một quả cầu tuyết vào kẻ địch ngẫu nhiên gần đó, gây <sprite=1><color=#fff><gradient=sv_ap>80%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lạnh</color>. Lá Chắn càng lớn, tốc độ bắn càng nhanh."
+  },
+  "R_Spiral": {
+    "name": "Tinh Hoa Xoáy",
+    "description": "Định kỳ bắn một Cầu Lửa vào kẻ địch ngẫu nhiên gần đó, gây <sprite=1><color=#fff><gradient=sv_ap>90%</gradient></color><sprite=5> <color=yellow>sát thương hệ Lửa</color>. Chất lượng càng cao, tốc độ bắn càng nhanh."
+  },
+  "R_Stillness": {
+    "name": "Tinh Hoa Tĩnh Lặng",
+    "description": "Mỗi 5 giây, <color=yellow>Lần thi triển</color> của ký ức này trở nên <color=yellow>Được cường hóa</color>. Khi <color=yellow>Thi triển được cường hóa</color>, phát ra ánh sáng gây <sprite=1><color=#fff><gradient=sv_ap>200%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color> lên kẻ địch và <color=yellow>Làm choáng</color> chúng trong 2 giây. Chất lượng càng cao, bán kính phát sáng càng lớn."
+  },
+  "R_Wealth": {
+    "name": "Tinh Hoa Giàu Có",
+    "description": "Khi một kẻ địch bị Ký Ức này gây sát thương và bị hạ gục trong vòng 2 giây, chúng rơi ra 1.7<sprite=5> Vàng. Vàng được chia sẻ giữa tất cả Nhà Du Hành."
+  },
+  "R_Wound": {
+    "name": "Tinh Hoa Vết Thương",
+    "description": "Khi Ký Ức này gây sát thương lên kẻ địch, nó áp dụng một <color=yellow>Dấu Ấn</color>. Mỗi <color=yellow>đòn tấn công</color> lên <color=yellow>Dấu Ấn</color> gây <sprite=1><color=#fff><gradient=sv_ap>44%</gradient></color><sprite=5> <color=yellow>sát thương</color>, và sau 3 đòn tấn công, <color=yellow>Dấu Ấn</color> phát nổ, gây <sprite=1><color=#fff><gradient=sv_ap>275%</gradient></color><sprite=5> <color=yellow>sát thương</color> lên tất cả kẻ địch gần đó."
+  },
+  "U_EternalFlame": {
+    "name": "Ngọn Lửa Vĩnh Cửu",
+    "description": "Gây <color=yellow>sát thương hệ Lửa</color> lên kẻ địch bằng Ký Ức này sẽ giáng lời nguyền <color=yellow>Ngọn Lửa Vĩnh Cửu</color> trong 5 giây. Trong thời gian chịu <color=yellow>Ngọn Lửa Vĩnh Cửu</color>, <color=yellow>bất kỳ sát thương nào</color> bạn gây ra cũng áp dụng 1 cấp chồng <color=yellow>Thiêu Đốt</color> lên mục tiêu.\nTất cả sát thương từ Ký Ức này tăng thêm 2.0%<sprite=5> cho mỗi cấp chồng <color=yellow>Thiêu Đốt</color> trên kẻ địch đó."
+  },
+  "U_GlacialCore": {
+    "name": "Lõi Băng Hà",
+    "description": "Mỗi 5 giây, gây <color=yellow>sát thương</color> bằng Ký Ức này <color=yellow>hồi phục</color> 3.6%<sprite=5> Máu Tối Đa của bạn. Nếu là <color=yellow>sát thương hệ Lạnh</color>, hiệu ứng tăng 100%.\n272%<sprite=5> của tất cả <color=yellow>Máu được hồi phục</color> được chuyển thành <color=yellow>sát thương hệ Lạnh</color>, bắn ra <color=yellow>mảnh băng</color> về phía kẻ địch gần đó."
+  },
+  "U_LastStarlight": {
+    "name": "Tia Sáng Cuối Cùng",
+    "description": "Mỗi 15 giây, <color=yellow>Lần Thi triển</color> của Ký Ức này được <color=yellow>Cường hóa</color>. Khi <color=yellow>Thi triển Cường hóa</color>, tạo ra một lỗ đen tại vị trí thi triển, gây <sprite=1><color=#fff><gradient=sv_ap>160%</gradient></color><sprite=5> <color=yellow>Sát thương hệ Ánh Sáng</color> mỗi giây trong 5 giây.\nNếu đây không phải là Ký Ức có mục tiêu theo vị trí, lỗ đen được tạo ra trên kẻ địch gần nhất theo hướng bạn đang đối mặt."
+  },
+  "U_SoulPrison": {
+    "name": "Nhà Tù Linh Hồn",
+    "description": "Khi bạn nhận <color=yellow>sát thương chí mạng</color>, bạn bỏ qua sát thương đó và trở nên <color=yellow>Bất Khả Xâm Phạm</color> trong 3 giây, sau đó <color=yellow>phá hủy</color> Tinh Hoa này. Với mỗi 1% <color=yellow>chất lượng</color> của Tinh Hoa này, bạn <color=yellow>hồi phục</color> 3 <color=yellow>Máu</color> và bất kỳ lượng hồi phục dư thừa nào được chuyển thành <color=yellow>Lá Chắn</color>."
+  }
+}
